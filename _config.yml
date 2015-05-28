@@ -49,7 +49,7 @@ prose:
           element: text
           label: Date
           help: 'yyyy-mm-dd'
-      - name: enddate
+      - name: end-date
         field:
           element: text
           label: End Date
@@ -59,6 +59,7 @@ prose:
           element: select
           label: Start Time
           options:
+            - value:
             - value: '00:00'
             - value: '00:15'
             - value: '00:30'
@@ -160,6 +161,7 @@ prose:
           element: select
           label: End Time
           options:
+            - value:
             - value: '00:00'
             - value: '00:15'
             - value: '00:30'
@@ -306,8 +308,16 @@ prose:
           label: Title
       - name: category
         field:
-          element: text
+          element: select
           label: Category
+          alterable: true
+          options:
+            - value: Business Services
+            - value: Trades Services
+            - value: Healthcare
+            - value: Food
+            - value: Retail
+            - value: Leisure
       - name: tags
         field:
           element: multiselect
@@ -336,11 +346,11 @@ prose:
       - name: facebook
         field:
           element: text
-          label: Facebook
+          label: Facebook URL
       - name: twitter
         field:
           element: text
-          label: Twitter
+          label: Twitter URL
       - name: address1
         field:
           element: text
@@ -373,6 +383,7 @@ prose:
           element: select
           label: Monday - Start Time
           options:
+            - value:
             - value: '00:00'
             - value: '00:15'
             - value: '00:30'
@@ -474,6 +485,7 @@ prose:
           element: select
           label: Monday - Finish Time
           options:
+            - value:
             - value: '00:00'
             - value: '00:15'
             - value: '00:30'
@@ -575,6 +587,7 @@ prose:
           element: select
           label: Tuesday - Start Time
           options:
+            - value:
             - value: '00:00'
             - value: '00:15'
             - value: '00:30'
@@ -676,6 +689,7 @@ prose:
           element: select
           label: Tuesday - Finish Time
           options:
+            - value:
             - value: '00:00'
             - value: '00:15'
             - value: '00:30'
@@ -777,6 +791,7 @@ prose:
           element: select
           label: Wednesday - Start Time
           options:
+            - value:
             - value: '00:00'
             - value: '00:15'
             - value: '00:30'
@@ -878,6 +893,7 @@ prose:
           element: select
           label: Wednesday - Finish Time
           options:
+            - value:
             - value: '00:00'
             - value: '00:15'
             - value: '00:30'
@@ -979,6 +995,7 @@ prose:
           element: select
           label: Thursday - Start Time
           options:
+            - value:
             - value: '00:00'
             - value: '00:15'
             - value: '00:30'
@@ -1080,6 +1097,7 @@ prose:
           element: select
           label: Thursday - Finish Time
           options:
+            - value:
             - value: '00:00'
             - value: '00:15'
             - value: '00:30'
@@ -1181,6 +1199,7 @@ prose:
           element: select
           label: Friday - Start Time
           options:
+            - value:
             - value: '00:00'
             - value: '00:15'
             - value: '00:30'
@@ -1282,6 +1301,7 @@ prose:
           element: select
           label: Friday - Finish Time
           options:
+            - value:
             - value: '00:00'
             - value: '00:15'
             - value: '00:30'
@@ -1383,6 +1403,7 @@ prose:
           element: select
           label: Saturday - Start Time
           options:
+            - value:
             - value: '00:00'
             - value: '00:15'
             - value: '00:30'
@@ -1484,6 +1505,7 @@ prose:
           element: select
           label: Saturday - Finish Time
           options:
+            - value:
             - value: '00:00'
             - value: '00:15'
             - value: '00:30'
@@ -1585,6 +1607,7 @@ prose:
           element: select
           label: Sunday - Start Time
           options:
+            - value:
             - value: '00:00'
             - value: '00:15'
             - value: '00:30'
@@ -1686,6 +1709,7 @@ prose:
           element: select
           label: Sunday - Finish Time
           options:
+            - value:
             - value: '00:00'
             - value: '00:15'
             - value: '00:30'
