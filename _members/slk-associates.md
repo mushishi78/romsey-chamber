@@ -5,7 +5,7 @@ email: info@slkassociates.com
 telephone: 0800 566 8350
 website: 'http://www.slkassociates.com'
 facebook: 'https://www.facebook.com/slkassociates'
-twitter: @SLKAssociates
+twitter: '@SLKAssociates'
 address1: 1 Thatched Cottage
 address2: Whitenap Lane
 city: Romsey

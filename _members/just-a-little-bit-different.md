@@ -5,7 +5,7 @@ email: justalittlebitdifferent@outlook.com
 telephone: 01794 515652
 website: 'http://www.justalittlebitdifferent.co/'
 facebook: 'https://www.facebook.com/pages/Just-a-little-bit-different/630222527086274'
-twitter: @alexabeck4
+twitter: '@alexabeck4'
 address1: 8 Bell Street
 city: Romsey
 county: Hampshire
