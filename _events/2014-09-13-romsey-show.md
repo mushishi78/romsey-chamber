@@ -1,6 +1,5 @@
 ---
 title: Romsey Show
-tags: []
 summary: 
 date: 2014-09-13
 start-time: '08:00'

@@ -1,6 +1,5 @@
 ---
 title: Festival of Wellbeing
-tags: []
 summary: 
 date: 2014-03-29
 start-time: '10:00'

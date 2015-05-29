@@ -1,7 +1,6 @@
 ---
 title: Fire Safety Workshop,Tuesday 21st October 6:00pm, Tack & Forge Room, White
   Horse Hotel
-tags: []
 summary: Just a quick reminder that next Tuesday there will be a Fire Safety Workshop
   in the Tack &amp; Forge Room at the White Horse Hotel @ 6:00pm. If you havent already
   done so, please let us know if you will be attending to give us an idea of numbers.

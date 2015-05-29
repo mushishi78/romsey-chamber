@@ -1,6 +1,5 @@
 ---
 title: Excellent visit to Romsey Abbey on Tuesday 14 October
-tags: []
 summary: This month's as part of Romsey Retaill and Business Forum, many Chamber members
   enjoyed a visit. 'behind the scenes' to Romsey Abbey on Tuesday 14 October 2014.
   The tour 'downstairs' was led by the vicar Rev. Canon Tim Sledge, who gave a very

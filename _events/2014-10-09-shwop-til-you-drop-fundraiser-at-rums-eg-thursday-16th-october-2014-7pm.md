@@ -1,6 +1,5 @@
 ---
 title: Shwop Til You Drop Fundraiser At Rum's Eg Thursday 16th October 2014 7pm
-tags: []
 summary: Need to overhaul your wardrobe but out of funds and worried about Christmas?
   Rums Egs Shwopping event could be just the ticket. Back by popular demand, the evening
   provides an opportunity to turn all your unwanted clothes and accessories into points

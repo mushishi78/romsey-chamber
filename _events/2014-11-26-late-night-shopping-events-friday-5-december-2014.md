@@ -1,6 +1,5 @@
 ---
 title: Late Night Shopping Events - Friday 5 December 2014
-tags: []
 summary: 'Lantern Parade from 5:15pm For Chamber Members and Prospective Members:
   Drinks, nibbles and a Mince Pie at Hamilton Parker Buckingham (6pm-7:30pm) Waitrose
   12 Days of Christmas (see attached) The Daisy Cake Company: free hot chocolate and

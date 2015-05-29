@@ -1,6 +1,5 @@
 ---
 title: Not-to-be-Missed Tour of Romsey Town Hall and Q & A session by Peter McVean
-tags: []
 summary: 
 date: 2014-02-04
 start-time: 

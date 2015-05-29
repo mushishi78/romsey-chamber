@@ -1,6 +1,5 @@
 ---
 title: Emergency First Aid at Work training course, coming soon.
-tags: []
 summary: Dear All, The Chamber is offering both members and non-members of the opportunity
   to attend an Emergency First Aid at Work training course. If you or someone else
   in your company wish to attend please email us as soon as possible. The event will

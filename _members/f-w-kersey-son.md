@@ -1,31 +1,15 @@
 ---
 title: F W Kersey & Son
 category: Retail
-tags: []
 summary: Jewellery, Glassware, China
-email: 
-telephone: 
-website: 
-address1: 
-address2: 
+email: china@kerseyandson.co.uk
+telephone: 01794 512230
+website: 'http://www.kerseyandson.co.uk'
+address1: 3 The Hundred
 city: Romsey
 county: Hampshire
 country: UK
-postcode: 
-monday-start: 
-monday-finish: 
-tuesday-start: 
-tuesday-finish: 
-wednesday-start: 
-wednesday-finish: 
-thursday-start: 
-thursday-finish: 
-friday-start: 
-friday-finish: 
-saturday-start: 
-saturday-finish: 
-sunday-start: 
-sunday-finish: 
+postcode: SO51 8YP
 ---
 ## Jewellery
 
@@ -35,17 +19,4 @@ Extensive range of gold earrings and pendants, including diamond, precious and s
 
 ## Glassware
 
-We stock a wide range of products, below are some of our most popular ones. Please [get in touch]("http:/www.kerseyandson.co.uk/contact/")regarding other products we stock.
-
-3 The Hundred
-
-Romsey
-
-SO51 8YP
-
-Telephone: 01794 512230
-
-Email: [china@kerseyandson.co.uk](mailto:china@kerseyandson.co.uk)
-
-Website: www.kerseyandson.co.uk
-
+We stock a wide range of products, below are some of our most popular ones. Please [get in touch]("http:/www.kerseyandson.co.uk/contact/") regarding other products we stock.

@@ -1,6 +1,5 @@
 ---
 title: Rum's Eg - forthcoming event.
-tags: []
 summary: 
 date: 2015-04-01
 start-time: 

@@ -1,6 +1,5 @@
 ---
 title: RRBF Breakfast Meeting 08.00 am
-tags: []
 summary: 
 date: 2013-07-09
 start-time: '08:00'

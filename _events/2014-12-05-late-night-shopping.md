@@ -1,6 +1,5 @@
 ---
 title: Late Night Shopping
-tags: []
 summary: 
 date: 2014-12-05
 start-time: '17:00'

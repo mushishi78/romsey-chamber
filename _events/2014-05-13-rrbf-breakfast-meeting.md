@@ -1,6 +1,5 @@
 ---
 title: RRBF Breakfast  meeting
-tags: []
 summary: 
 date: 2014-05-13
 start-time: '07:45'

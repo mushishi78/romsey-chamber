@@ -1,6 +1,5 @@
 ---
 title: Romsey Christmas Lights Quiz Night
-tags: []
 summary: 
 date: 2015-03-28
 start-time: '19:00'

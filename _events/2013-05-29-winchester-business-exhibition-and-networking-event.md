@@ -1,6 +1,5 @@
 ---
 title: Winchester Business Exhibition and Networking Event
-tags: []
 summary: Hampshire Chamber and Winchester BID invite local businesses to take part
   in a Business Exhibition &amp;Networking Evening designed for all sizes of business
   who are seeking opportunities to build on their current success.

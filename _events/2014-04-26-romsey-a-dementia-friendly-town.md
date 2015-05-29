@@ -1,6 +1,5 @@
 ---
 title: Romsey a Dementia Friendly Town
-tags: []
 summary: Romsey now a dementia friendly town, April 2014 Everyone knows someone with
   dementia. Imagine how difficult it is going shopping with a sufferer, the assistant
   looks at you with sympathy, but has no idea how to help you with your shopping.

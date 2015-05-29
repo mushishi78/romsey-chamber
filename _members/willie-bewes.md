@@ -1,39 +1,16 @@
 ---
 title: Willie Bewes
 category: Other Services
-tags: []
-summary: 'Dear Member I would like to introduce myself to you: my name is Willie Bewes
-  and I have volunteered to help Romsey and District Chamber of Commerce &amp; Industry
-  as Business Manager. I have been semi-retired for the last couple of years and my
-  wife is making'
-email: 
-telephone: 
-website: 
-address1: 
-address2: 
+email: willie.bewes@romseychamber.co.uk
+telephone: 07768 915265
 city: Romsey
 county: Hampshire
 country: UK
-postcode: 
-monday-start: 
-monday-finish: 
-tuesday-start: 
-tuesday-finish: 
-wednesday-start: 
-wednesday-finish: 
-thursday-start: 
-thursday-finish: 
-friday-start: 
-friday-finish: 
-saturday-start: 
-saturday-finish: 
-sunday-start: 
-sunday-finish: 
 ---
-Dear Member  
-  
-I would like to introduce myself to you: my name is Willie Bewes and I have volunteered to help Romsey and District Chamber of Commerce & Industry as Business Manager.  
-  
+Dear Members,
+
+I would like to introduce myself to you: my name is Willie Bewes and I have volunteered to help Romsey and District Chamber of Commerce & Industry as Business Manager.
+
 I have been semi-retired for the last couple of years and my wife is making 'to do lists' at great speed. For the last 20 years, I have been the MD of Transworld Yachts based at Hamble (UK agents for high quality Swedish sailing yachts), organising boat shows and marketing, a background which should come in handy for the Romsey Chamber.
 
 My job description for the Chamber is as follows:
@@ -46,17 +23,10 @@ My job description for the Chamber is as follows:
 6. I am looking at group buying deals for members; we already have offers on credit card handling fees and discounted utilities, which we will publish soon.
 7. Generally to help The Chamber Executive.
 
-I have signed up initially for twelve months but I'm sure, with your encouragement, I will be involved for years.  
-  
-I look forward to meeting up with you all over the coming months.  
-  
-Best Wishes  
-  
-Willie Bewes  
-  
+I have signed up initially for twelve months but I'm sure, with your encouragement, I will be involved for years.
+
+I look forward to meeting up with you all over the coming months.
+
+Best Wishes
+Willie Bewes
 Romsey and District Chamber of Commerce & Industry
-
-Telephone 07768915265  
-  
-Email: [willie.bewes@romseychamber.co.uk](mailto:willie.bewes@romseychamber.co.uk)
-

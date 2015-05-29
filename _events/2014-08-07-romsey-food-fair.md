@@ -1,6 +1,5 @@
 ---
 title: Romsey Food Fair
-tags: []
 summary: 
 date: 2014-08-07
 start-time: '08:00'

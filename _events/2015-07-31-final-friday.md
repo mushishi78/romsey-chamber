@@ -1,6 +1,5 @@
 ---
 title: Final Friday
-tags: []
 summary: 
 date: 2015-07-31
 start-time: '19:00'

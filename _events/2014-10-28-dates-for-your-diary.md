@@ -1,6 +1,5 @@
 ---
 title: Dates for your diary
-tags: []
 summary: 'Upcoming events: Final Friday Networking: Friday 31 October 5.30pm-6.30pm
   at the White Horse, Romsey RRBF Breakfast Meeting: Tuesday 11 November 7.45am for
   8.00am at the Town Hall'

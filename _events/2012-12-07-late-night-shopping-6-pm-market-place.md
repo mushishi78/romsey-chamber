@@ -1,6 +1,5 @@
 ---
 title: Late Night Shopping 6 pm Market Place
-tags: []
 summary: 
 date: 2012-12-07
 start-time: '18:00'

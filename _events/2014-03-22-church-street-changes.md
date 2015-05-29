@@ -1,6 +1,5 @@
 ---
 title: church street changes
-tags: []
 summary: 
 date: 2014-03-22
 start-time: '10:00'

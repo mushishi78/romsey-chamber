@@ -1,6 +1,5 @@
 ---
 title: It's coming...Christmas Window Display Competition and Christmas Trees
-tags: []
 summary: Dear All, Please find attached an entry form for this year's Christmas Window
   Display Competition. Closing date for submission of the entry form is Friday 28
   November at 3pm. It would be great to see as many businesses as possible participating

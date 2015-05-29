@@ -1,6 +1,5 @@
 ---
 title: Mayor of Winchester Charity Events
-tags: []
 summary: 
 date: 2015-03-07
 start-time: '07:45'

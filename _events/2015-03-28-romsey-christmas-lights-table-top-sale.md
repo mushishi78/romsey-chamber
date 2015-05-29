@@ -1,6 +1,5 @@
 ---
 title: Romsey Christmas Lights Table Top Sale
-tags: []
 summary: 
 date: 2015-03-28
 start-time: '10:30'

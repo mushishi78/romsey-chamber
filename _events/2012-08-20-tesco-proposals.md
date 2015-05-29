@@ -1,6 +1,5 @@
 ---
 title: Tesco Proposals
-tags: []
 summary: 
 date: 2012-08-20
 start-time: '17:30'

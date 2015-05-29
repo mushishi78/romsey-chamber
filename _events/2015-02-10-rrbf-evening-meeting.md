@@ -1,6 +1,5 @@
 ---
 title: RRBF Evening Meeting
-tags: []
 summary: 
 date: 2015-02-10
 start-time: '18:00'

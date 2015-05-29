@@ -1,6 +1,5 @@
 ---
 title: Final Friday Network
-tags: []
 summary: 
 date: 2012-10-26
 start-time: '17:30'

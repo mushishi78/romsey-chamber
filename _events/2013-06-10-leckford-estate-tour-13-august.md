@@ -1,6 +1,5 @@
 ---
 title: Leckford Estate Tour 13 August
-tags: []
 summary: The Leckford Estate is a sustainable farm owned by the John Lewis Partnership
   The tour takes around 1 hour 45 minutes with a starting point yet to be confirmed
   andwill conclude with refreshment(hopefully) at the new farm shop! Those attending

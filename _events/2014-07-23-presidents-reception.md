@@ -1,6 +1,5 @@
 ---
 title: Presidents Reception
-tags: []
 summary: 
 date: 2014-07-23
 start-time: '18:00'

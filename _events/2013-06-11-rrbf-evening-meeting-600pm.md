@@ -1,6 +1,5 @@
 ---
 title: RRBF Evening Meeting 6.00pm
-tags: []
 summary: 
 date: 2013-06-11
 start-time: '18:00'

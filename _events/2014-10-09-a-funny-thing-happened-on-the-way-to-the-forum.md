@@ -1,6 +1,5 @@
 ---
 title: A Funny Thing Happened on the Way to the Forum
-tags: []
 summary: A RAODS production at The Plaza Theatre 7:30pm, 13th18th October, 2014 Set
   in ancient Rome, this bawdy laugh-a-minute comedy follows the cheeky but lovable
   slave Pseudolus who will do anything to gain his freedom. Stephen Sondheim's score

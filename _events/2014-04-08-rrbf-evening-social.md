@@ -1,6 +1,5 @@
 ---
 title: RRBF evening social
-tags: []
 summary: 
 date: 2014-04-08
 start-time: '08:00'

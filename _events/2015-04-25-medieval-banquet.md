@@ -1,6 +1,5 @@
 ---
 title: Medieval Banquet
-tags: []
 summary: 
 date: 2015-04-25
 start-time: 

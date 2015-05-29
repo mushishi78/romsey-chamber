@@ -1,6 +1,5 @@
 ---
 title: Final Friday
-tags: []
 summary: 
 date: 2013-05-29
 start-time: 

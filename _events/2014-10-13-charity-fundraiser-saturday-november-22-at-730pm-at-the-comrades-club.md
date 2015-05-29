@@ -1,6 +1,5 @@
 ---
 title: Charity Fundraiser - Saturday November 22 at 7.30pm at The Comrades Club
-tags: []
 summary: Chamber member Ali Rosen is currently training and raising money for three
   cancer charities undertaking various fundraising activities, the biggest one is
   on Saturday November 22 at 7.30pm at The Romsey Comrades Club. A raffle, silent

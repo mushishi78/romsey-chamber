@@ -1,6 +1,5 @@
 ---
 title: Beggers Fair Music Festival
-tags: []
 summary: 
 date: 2014-07-12
 start-time: '08:00'

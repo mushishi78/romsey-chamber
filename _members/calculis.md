@@ -1,31 +1,15 @@
 ---
 title: Calculis
 category: Trades Services
-tags: []
 summary: We are a specialist team, dedicated to creating and managing your wealth.
-email: 
-telephone: 
-website: 
-address1: 
-address2: 
+email: info@calculis.co.uk
+telephone: 01794 525500
+website: 'http://calculis.co.uk'
+address1: 4A The Horsefair
 city: Romsey
 county: Hampshire
 country: UK
-postcode: 
-monday-start: 
-monday-finish: 
-tuesday-start: 
-tuesday-finish: 
-wednesday-start: 
-wednesday-finish: 
-thursday-start: 
-thursday-finish: 
-friday-start: 
-friday-finish: 
-saturday-start: 
-saturday-finish: 
-sunday-start: 
-sunday-finish: 
+postcode: SO51 8EZ
 ---
 ## Dedicated to creating and managing your wealth
 
@@ -37,17 +21,5 @@ At calculis, we have several unique planning tools and protocols which different
 
 Many clients have entrusted members of the senior team to manage and develop their finances, over many years. To find out why, call to arrange a free initial meeting to discuss your plans or concerns: 01794 525500
 
-We look forward to hearing from you - if you prefer, just e-mail [here]("http:/www.calculis.co.uk/index.php?option=com_content&view=article&id=47&Itemid=50" ""here"")and we will get back to you within 24 working hours.
-
-4A The Horsefair
-
-Romsey Post
-
-SO51 8EZ
-
-Telephone: 01794 525500
-
-Email: [info@calculis.co.uk](mailto:info@calculis.co.uk)
-
-Website: calculis.co.uk
+We look forward to hearing from you - if you prefer, just e-mail and we will get back to you within 24 working hours.
 

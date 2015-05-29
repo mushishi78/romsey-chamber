@@ -1,6 +1,5 @@
 ---
 title: 'Free event: How public speaking can help you in your business'
-tags: []
 summary: If you're one of the many business owners out there, working hard to push
   your business forward and looking for any advantage you can to help you achieve
   business growth, the chances are youve never really given any thought to how Public

@@ -1,6 +1,5 @@
 ---
 title: Mountbatten school Car Boot Sale
-tags: []
 summary: 
 date: 2015-04-18
 start-time: '10:00'

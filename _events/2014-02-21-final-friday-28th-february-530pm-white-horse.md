@@ -1,6 +1,5 @@
 ---
 title: Final Friday 28th February 5.30pm White Horse
-tags: []
 summary: We have seven new member since we last met, they are keen to meet other members.
   this is also a good time to regester with The White Horse for you Special Members
   Discont card. Look forward to seeing you there. Willie Bewes Business Manager Romsey

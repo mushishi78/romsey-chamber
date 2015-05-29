@@ -1,6 +1,5 @@
 ---
 title: Christmas Events - dates for your diary
-tags: []
 summary: 'Here''s a list of events coming up over the Christmas period Saturday 22nd
   November: Light switch on and Carnival from 6pm. Friday 5th December: Late Night
   Shopping, Lantern Parade and Santa rescue'

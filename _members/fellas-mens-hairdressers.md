@@ -1,34 +1,13 @@
 ---
-title: 'Fellas: Men''s Hairdressers'
+title: "Fellas: Men's Hairdressers"
 category: Leisure
-tags: []
-summary: Fella's is one of the finest independent barber shops in Romsey that has
-  been established since 1955. For almost 60 years we have been providing traditional
-  haircuts and modern re-styling to men of all ages. Over the years we have built
-  up a fantastic rep
-email: 
-telephone: 
-website: 
-address1: 
-address2: 
+telephone: 01794 331 450
+address1: 19 The Hundred
 city: Romsey
 county: Hampshire
 country: UK
-postcode: 
-monday-start: 
-monday-finish: 
-tuesday-start: 
-tuesday-finish: 
-wednesday-start: 
-wednesday-finish: 
-thursday-start: 
-thursday-finish: 
-friday-start: 
-friday-finish: 
-saturday-start: 
-saturday-finish: 
-sunday-start: 
-sunday-finish: 
+postcode: SO51 8GD
+opening-hours: ['Mo-Tu 09:00-17:00', 'We 09:00-19:00', 'Th-Sa 09:00-17:00']
 ---
 Fella's is one of the finest independent barber shops in Romsey that has been established since 1955.
 
@@ -40,25 +19,10 @@ All of our stylists are highly skilled and experienced when it comes to updating
 
 We are more than willing to offer you friendly, expert advice on your hair, whether you want to know about great products to use at home, taking care of your hair or what style would suit you best.
 
-Address
+**Please Note**
 
-<address style="margin: 0.5em 0px 0px; padding: 0px; line-height: 1.5em; float: left; clear: none; display: inline;">19 The Hundred<br style="margin: 0px; padding: 0px;">Romsey<br style="margin: 0px; padding: 0px;">Hampshire<br style="margin: 0px; padding: 0px;">SO51 8GD</address>
+Appointments every **weekday** afternoon.
 
-Phone
+Saturdays are walk-ins only.
 
-01794 331 450
-
-Opening Times
-
-- Monday 9.00am - 5.00pm
-- Tuesday 9.00am - 5.00pm
-- Wednesday 9.00am - 7.00pm
-- Thursday 9.00am - 5.00pm
-- Friday 9.00am - 5.00pm
-- Saturday 9.00am - 5.00pm
-- Additional late nights available on request.
-
-**Please Note**  
-Appointments every **weekday** afternoons  
-Saturdays are walk-ins only
-
+Additional late nights available on request.

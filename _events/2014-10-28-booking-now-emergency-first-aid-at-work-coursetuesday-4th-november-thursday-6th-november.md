@@ -1,7 +1,6 @@
 ---
 title: 'Booking now: Emergency First Aid at Work course,Tuesday 4th November, Thursday
   6th November'
-tags: []
 summary: 'Emergency First Aid at Work course dates are confirmed as: Tuesday 4 th
   November and Thursday 6 th November The course runs from 9am to 5pm at a venue on
   the Abbey Park Industrial Estate and costs 75 for members and 100 for non-members.

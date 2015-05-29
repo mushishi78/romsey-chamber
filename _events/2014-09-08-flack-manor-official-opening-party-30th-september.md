@@ -1,6 +1,5 @@
 ---
 title: Flack Manor, Official Opening Party, 30th September
-tags: []
 summary: "'Flack Manor' are celebrating Cask Ale Week and Flacks Official Opening
   party on 30th September Join them for only 5 For 5, you will receive a Free Cask
   Ale week souvenir glass, a Flack burger, and tokens worth 2 pints of beer, You will

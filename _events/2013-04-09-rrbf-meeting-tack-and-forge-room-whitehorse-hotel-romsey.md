@@ -1,6 +1,5 @@
 ---
 title: RRBF Meeting, Tack and Forge Room, Whitehorse Hotel, Romsey.
-tags: []
 summary: 
 date: 2013-04-09
 start-time: '18:00'

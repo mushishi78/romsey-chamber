@@ -1,6 +1,5 @@
 ---
 title: Dementia Friendly Town
-tags: []
 summary: 
 date: 2014-05-01
 start-time: '14:30'

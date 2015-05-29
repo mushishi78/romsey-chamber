@@ -1,6 +1,5 @@
 ---
 title: Romsey Abbey and The White Horse HotelÔÇÖs ÔÇÿYour Romsey WeddingÔÇÖ Exhibition
-tags: []
 summary: 
 date: 2014-01-29
 start-time: 

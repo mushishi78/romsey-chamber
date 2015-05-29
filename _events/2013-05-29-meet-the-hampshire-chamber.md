@@ -1,6 +1,5 @@
 ---
 title: Meet the Hampshire Chamber
-tags: []
 summary: HAMPSHIRE, - MEET THE CHAMBER AND BUSINESS EXHIBITION Calling all Members
   and Non-Members! A truly great opportunity to meet and network FREE with like-minded
   businesses from across Hampshire in the home of the Saints Football Club, St Marys

@@ -1,6 +1,5 @@
 ---
 title: Lantern Project Public Meeting
-tags: []
 summary: The Romsey Community Lantern Project will be holding it's annual Public Meeting
   on 26th February from 7:30pm at Carars Together, Love Lane, Romsey. For the past
   3 years Romsey has enjoyed the Lantern Parade on Late Night Shopping Evening, with

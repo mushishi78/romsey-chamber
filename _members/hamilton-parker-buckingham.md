@@ -1,34 +1,12 @@
 ---
 title: Hamilton Parker Buckingham
 category: Trades Services
-tags: []
-summary: Hamilton Parker Buckingham was formed in August 2013 by Celeste Hamilton-Hannah
-  and Craig Buckingham. Craig and Celeste have over 35 years' experience within the
-  property industry combined and have come from the same backgrounds within their
-  working caree
-email: 
-telephone: 
-website: 
-address1: 
-address2: 
+summary: Hamilton Parker Buckingham was formed in August 2013 by Celeste Hamilton-Hannah and Craig Buckingham.
+telephone: 01794 5111212
+website: www.hpbproperty.co.uk
 city: Romsey
 county: Hampshire
 country: UK
-postcode: 
-monday-start: 
-monday-finish: 
-tuesday-start: 
-tuesday-finish: 
-wednesday-start: 
-wednesday-finish: 
-thursday-start: 
-thursday-finish: 
-friday-start: 
-friday-finish: 
-saturday-start: 
-saturday-finish: 
-sunday-start: 
-sunday-finish: 
 ---
 The company's ethos is about being able to deliver the highest quality of service and knowledge within the industry at all times. By working together a new substance has been created and their Upper Class service starts the moment you walk through the door! Their long standing supporting team are dedicated, experienced, personable, honest, reliable and trustworthy and understand the local market.
 
@@ -40,9 +18,6 @@ ALWAYS OPEN WHEN YOU NEED US 7 DAYS A WEEK
 
 \* Residential sales \* Lettings \* Commercial \* International \* Character, Country and prestigious homes \* Award-winning team \* The Knightsbridge Office\* Land and New Homes \* Mortgages\* \* Conveyancing \* Surveys \* Area familiarisation tours \* Relocation advice \* Open 7 days a week \* Longer opening hours \* Prime branch location \* Feedback after every viewing \* Weekly progress updates \* Expertise on all transactions \* On all major property portals \* Accompanied viewings
 
-\*Your home may be repossessed if you do not keep up repayments on your mortgage.
-
-To find out more about us, visit our website [www.hpbproperty.co.uk](http://www.hpbproperty.co.uk)or call us on01794 5111212
+\* Your home may be repossessed if you do not keep up repayments on your mortgage.
 
 The knightsbridge office website [www.theknightsbridgeoffice.co.uk](http://www.theknightsbridgeoffice.co.uk)
-

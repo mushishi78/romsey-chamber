@@ -1,6 +1,5 @@
 ---
 title: Southern Entrepreneurs Networking Event
-tags: []
 summary: 
 date: 2015-04-30
 start-time: '19:00'

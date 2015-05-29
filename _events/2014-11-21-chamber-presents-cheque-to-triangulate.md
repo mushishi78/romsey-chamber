@@ -1,6 +1,5 @@
 ---
 title: Chamber presents cheque to Triangulate
-tags: []
 summary: From The Romsey Advertiser 21st November
 date: 2014-11-21
 start-time: 

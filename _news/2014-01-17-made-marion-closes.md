@@ -1,7 +1,6 @@
 ---
 title: Made Marion Closes
 date: 2014-01-17
-tags: []
 ---
 ## The doors finally close at MADE MARION
 

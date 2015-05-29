@@ -1,6 +1,5 @@
 ---
 title: Have Your Say Shaping Local Priorities
-tags: []
 summary: Please see the attached leaflet regarding local policing priorities.
 date: 2015-01-16
 start-time: 

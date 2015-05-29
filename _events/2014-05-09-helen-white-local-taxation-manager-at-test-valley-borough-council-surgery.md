@@ -1,6 +1,5 @@
 ---
 title: Helen White Local Taxation Manager at Test Valley Borough Council Surgery
-tags: []
 summary: 
 date: 2014-05-09
 start-time: 

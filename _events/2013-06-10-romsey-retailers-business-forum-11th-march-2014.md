@@ -1,6 +1,5 @@
 ---
 title: Romsey Retailers & Business Forum - 11th March 2014
-tags: []
 summary: Breakfast Meeting at Romsey Town Hall 8 am. Light breakfast provided.
 date: 2013-06-10
 start-time: 

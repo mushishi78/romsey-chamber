@@ -1,6 +1,5 @@
 ---
 title: Meet the Team
-tags: []
 summary: 
 date: 2012-08-15
 start-time: 

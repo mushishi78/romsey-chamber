@@ -1,6 +1,5 @@
 ---
 title: Invitation to an evening celebration at Three Choirs Wickham Vineyard
-tags: []
 summary: 
 date: 2014-11-06
 start-time: 

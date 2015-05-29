@@ -1,7 +1,6 @@
 ---
 title: Romsey's Retailer & Business Forum - visit to Romsey Abbey on Tuesday 14 October
   2014 @ 6pm
-tags: []
 summary: 'Just a quick reminder that this month''s RRBF visit is to Romsey Abbey on
   Tuesday 14 October 2014 @ 6pm. Please let us know if you will be attending to give
   us an idea of numbers. The details have been sent out before but are below for reference:

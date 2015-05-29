@@ -1,39 +1,23 @@
 ---
 title: Wilkins Kennedy Chart'd Accountants
 category: Business Services
-tags: []
-summary: Wilkins Kennedy Chartered Accountants and Business Advisers provide a full
-  range of accounting and business advisory services to a diverse range of businesses
-  and individuals across the UK and abroad.
-email: 
-telephone: 
-website: 
-address1: 
-address2: 
+summary: Wilkins Kennedy Chartered Accountants and Business Advisers provide a full range of accounting and business advisory services to a diverse range of businesses and individuals across the UK and abroad.
+image: 'images/members/Wilkins%20KennedyJohnK.png'
+email: romsey@wilkinskennedy.com
+telephone: +44 (0)1794 515441
+website: 'http:/www.wilkinskennedy.com'
+address1: 3-4 Eastwood Court
+address2: Broadwater Road
 city: Romsey
 county: Hampshire
 country: UK
-postcode: 
-monday-start: 
-monday-finish: 
-tuesday-start: 
-tuesday-finish: 
-wednesday-start: 
-wednesday-finish: 
-thursday-start: 
-thursday-finish: 
-friday-start: 
-friday-finish: 
-saturday-start: 
-saturday-finish: 
-sunday-start: 
-sunday-finish: 
+postcode: SO51 8JJ
 ---
-_ **Uniquely personal, meetingyour needs is what setsus apart!** _
+_ **Uniquely personal, meeting your needs is what setsus apart!** _
 
 ## Wilkins Kennedy Profile
 
-![Wilkins KennedyJohnK](images/members/Wilkins%20KennedyJohnK.png)Wilkins Kennedy Chartered Accountants and Business Advisers provide a full range of accounting and business advisory services to a diverse range of businesses and individuals across the UK and abroad.
+Wilkins Kennedy Chartered Accountants and Business Advisers provide a full range of accounting and business advisory services to a diverse range of businesses and individuals across the UK and abroad.
 
 Established in 1882 as a single regional office, the firm has expanded to 12 regional offices based across the South of England with a turnover of 27 million, 56 partners and almost 400 members of staff.
 
@@ -50,15 +34,3 @@ Business divisions of the firm include: [WK Corporate Finance LLP]("http:/www.wi
 Wilkins Kennedy is a registered member of ICAEW and a member of the IAPA and European grouping Euro Defi.
 
 Download a pdf version of the [WK Profile]("http:/www.wilkinskennedy.com/about/38665%20WK%20profile%20inserts%20aw.pdf" ""WK").
-
-3-4 Eastwood Court  
-Broadwater Road  
-Romsey  
-Hampshire  
-SO51 8JJ
-
-- Tel: +44 (0)1794 515441
-- Fax: +44 (0)1794 830705
-
-Contact: [romsey@wilkinskennedy.com]("mailto:romsey@wilkinskennedy.com")
-

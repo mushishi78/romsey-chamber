@@ -1,6 +1,5 @@
 ---
 title: Rotary Carols in the Market Place
-tags: []
 summary: 
 date: 2014-12-22
 start-time: '18:45'

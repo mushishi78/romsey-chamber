@@ -1,7 +1,6 @@
 ---
 title: Relaunch of Chamber
 date: 2013-05-26
-tags: []
 ---
 Last week the Advertiser reported our Re-launch meeting at which we announced some of the immediate benefits we can offer to members. There is now no doubt that, if members take advantage of these offers, they will save many times more than the cost of membership!
 

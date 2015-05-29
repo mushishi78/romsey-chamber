@@ -1,31 +1,10 @@
 ---
 title: Ali Rosen
 category: Healthcare
-tags: []
-summary:
-email: 
-telephone: 
 website: 'http://www.justgiving.com/Alison-Rosen1'
-address1: 
-address2: 
 city: Romsey
 county: Hampshire
 country: UK
-postcode: 
-monday-start: 
-monday-finish: 
-tuesday-start: 
-tuesday-finish: 
-wednesday-start: 
-wednesday-finish: 
-thursday-start: 
-thursday-finish: 
-friday-start: 
-friday-finish: 
-saturday-start: 
-saturday-finish: 
-sunday-start: 
-sunday-finish: 
 ---
 Ali Rosen has been in the health sector since 2005. Having trained initially in California USA, Ali has continued to pursue a rigorous training schedule to provide the best service she can in the field of complimentary health and wellness.
 

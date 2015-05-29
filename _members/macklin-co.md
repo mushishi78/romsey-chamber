@@ -1,31 +1,12 @@
 ---
 title: Macklin & Co
 category: Business Services
-tags: []
-summary: Macklin &amp; Co is a Romsey based accountancy practice established in 1990
-email: 
-telephone: 
-website: 
-address1: 
-address2: 
+address1: Top Floor, Buckley House
+address2: 31A The Hundred
 city: Romsey
 county: Hampshire
 country: UK
-postcode: 
-monday-start: 
-monday-finish: 
-tuesday-start: 
-tuesday-finish: 
-wednesday-start: 
-wednesday-finish: 
-thursday-start: 
-thursday-finish: 
-friday-start: 
-friday-finish: 
-saturday-start: 
-saturday-finish: 
-sunday-start: 
-sunday-finish: 
+postcode: SO51 8GD
 ---
 Macklin & Co is a Romsey based accountancy practice established in 1990. We have extensive experience of accounting and taxation for individuals, sole traders, partnerships and limited companies in the following areas:
 
@@ -39,11 +20,3 @@ Macklin & Co is a Romsey based accountancy practice established in 1990. We have
 - Tax Returns both personal and corporate
 
 To find out how we can help you, please contact Shaun Macklin FMAAT
-
-Macklin & Co  
-Top Floor, Buckley House  
-31A The Hundred  
-Romsey  
-Hampshire  
-SO51 8GD
-

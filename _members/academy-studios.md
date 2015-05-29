@@ -1,8 +1,6 @@
 ---
 title: Academy Studios
-category: Healthcare
-tags: [Hair, Beauty, Fitness, Childrens Parties, Cafe]
-summary:
+category: Leisure
 email: nikki.jones@academy-studios.com
 telephone: 01794 515129
 website: 'http://academy-studios.com/'
@@ -13,20 +11,6 @@ city: Romsey
 county: Hampshire
 country: UK
 postcode: SO51 0HR
-monday-start: 
-monday-finish: 
-tuesday-start: 
-tuesday-finish: 
-wednesday-start: 
-wednesday-finish: 
-thursday-start: 
-thursday-finish: 
-friday-start: 
-friday-finish: 
-saturday-start: 
-saturday-finish: 
-sunday-start: 
-sunday-finish: 
 ---
 
 * Stage School

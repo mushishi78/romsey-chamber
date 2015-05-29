@@ -1,31 +1,12 @@
 ---
 title: Asante Coffee Shop
 category: Food
-tags: [Coffee, Cafe]
-summary:
-email: 
-telephone: 
 website: 'http://www.asantecoffeeshop.co.uk'
 address1: 2 Latimer Walk
-address2: 
 city: Romsey
 county: Hampshire
 country: UK
 postcode: SO51 8LA
-monday-start: 
-monday-finish: 
-tuesday-start: 
-tuesday-finish: 
-wednesday-start: 
-wednesday-finish: 
-thursday-start: 
-thursday-finish: 
-friday-start: 
-friday-finish: 
-saturday-start: 
-saturday-finish: 
-sunday-start: 
-sunday-finish: 
 ---
 Asante Coffee Shop is owned by the charity c4c ([Citizens4change](http://www.citizens4change.co.uk)) who initiated this business to provide funds to run the Life Centre Primary School and Nursery in the slum region Nyawita, Kisumu in Kenya.
 

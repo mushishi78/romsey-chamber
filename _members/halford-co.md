@@ -1,41 +1,13 @@
 ---
 title: Halford & Co
 category: Business Services
-tags: []
-summary: 'Halford &amp; Co Accountants Address: Unit 14, Home Farm Business Centre,
-  East Tytherley Road Town: East Tytherly Post Code: SO51 0JT Telephone: 01794 341607
-  Email: keith@halfordaccounting.co.uk'
-email: 
-telephone: 
-website: 
-address1: 
-address2: 
-city: Romsey
+email: keith@halfordaccounting.co.uk
+telephone: 01794 341607
+address1: Unit 14, Home Farm Business Centre
+address2: East Tytherley Road
+city: East Tytherly
 county: Hampshire
 country: UK
-postcode: 
-monday-start: 
-monday-finish: 
-tuesday-start: 
-tuesday-finish: 
-wednesday-start: 
-wednesday-finish: 
-thursday-start: 
-thursday-finish: 
-friday-start: 
-friday-finish: 
-saturday-start: 
-saturday-finish: 
-sunday-start: 
-sunday-finish: 
+postcode: SO51 0JT
 ---
-Halford & Co
-
-Accountants
-
-Address: Unit 14, Home Farm Business Centre, East Tytherley Road  
-Town: East Tytherly  
-Post Code: SO51 0JT  
-Telephone: 01794 341607  
-Email: [keith@halfordaccounting.co.uk](mailto:keith@halfordaccounting.co.uk)
-
+Halford & Co Accountants

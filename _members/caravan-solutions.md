@@ -1,32 +1,16 @@
 ---
 title: Caravan Solutions
 category: Trades Services
-tags: []
-summary: Caravan Solutions is a small business that provides caravan servicing and
-  repairs to customers throughout Hampshire.
-email: 
-telephone: 
-website: 
-address1: 
-address2: 
+summary: Caravan Solutions is a small business that provides caravan servicing and  repairs to customers throughout Hampshire.
+email: info@caravansolutions.co.uk
+telephone: 01794 367325
+website: 'http://www.caravansolutions.co.uk'
+address1: Unit 4, Wynford Industrial Park
+address2: Belbins
 city: Romsey
 county: Hampshire
 country: UK
-postcode: 
-monday-start: 
-monday-finish: 
-tuesday-start: 
-tuesday-finish: 
-wednesday-start: 
-wednesday-finish: 
-thursday-start: 
-thursday-finish: 
-friday-start: 
-friday-finish: 
-saturday-start: 
-saturday-finish: 
-sunday-start: 
-sunday-finish: 
+postcode: SO51 0PW
 ---
 The company, which is situated in Romsey, started out in 2006 and has many years experience in the caravan repair industry.
 
@@ -34,32 +18,14 @@ With a fully fitted workshop and friendly staff, the company offers a range of s
 
 ## Services
 
-Damp Repairs  
-Floor Repairs  
-Caravan Washing  
-Insurance Estimates/Repairs  
-Gas Appliances Serviced & Repaired  
-Qualified LPG Gas Fitter  
-Spares & Accessories  
+* Damp Repairs
+* Floor Repairs
+* Caravan Washing
+* Insurance Estimates/Repairs
+* Gas Appliances Serviced & Repaired
+* Qualified LPG Gas Fitter
+* Spares & Accessories
+
 Call-Outs Available In The Southampton and New Forest Area
 
 Call Stewart or Mike
-
-Unit 4
-
-Wynford Industrial Park
-
-Belbins
-
-Romsey
-
-Hampshire
-
-SO51 0PW
-
-Tel: 01794 367325
-
-E-mail: [info@caravansolutions.co.uk](mailto:info@caravansolutions.co.uk)
-
-Web [www.caravansolutions.co.uk](http://www.caravansolutions.co.uk)
-

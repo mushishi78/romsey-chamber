@@ -1,6 +1,5 @@
 ---
 title: Romsey Retail and Business Forum Breakfast Meeting
-tags: []
 summary: 
 date: 2014-05-08
 start-time: 

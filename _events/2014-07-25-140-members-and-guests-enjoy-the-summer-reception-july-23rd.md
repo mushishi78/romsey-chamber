@@ -1,6 +1,5 @@
 ---
 title: 140 members and guests enjoy the Summer Reception,  July 23rd
-tags: []
 summary: This year's reception was held on a warm evening at The Water Gardens in
   Romsey. The excellent weather contributed to a very successful event attended by
   over 140 members and guests. The evening also raised valuable funds for the Chamber's

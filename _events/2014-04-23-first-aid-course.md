@@ -1,6 +1,5 @@
 ---
 title: First Aid course
-tags: []
 summary: 
 date: 2014-04-23
 start-time: '08:00'

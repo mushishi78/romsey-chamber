@@ -1,6 +1,5 @@
 ---
 title: Traidcraft Big Brew
-tags: []
 summary: 
 date: 2015-03-13
 start-time: '10:30'

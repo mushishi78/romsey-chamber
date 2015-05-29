@@ -1,6 +1,5 @@
 ---
 title: Christmas Lights Switch On
-tags: []
 summary: 
 date: 2012-11-24
 start-time: '18:00'

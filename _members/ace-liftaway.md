@@ -1,9 +1,6 @@
 ---
 title: Ace Liftaway
 category: Trades Services
-tags: [Waste, Recycling]
-summary:
-email: 
 telephone: 01794 367939
 website: 'http://www.aceliftaway.co.uk/'
 facebook: 'https://www.facebook.com/pages/Ace-Liftaway-Ltd/616108488424339?fref=ts'
@@ -14,20 +11,6 @@ city: Belbins
 county: Hampshire
 country: UK
 postcode: SO51 7LY
-monday-start: 
-monday-finish: 
-tuesday-start: 
-tuesday-finish: 
-wednesday-start: 
-wednesday-finish: 
-thursday-start: 
-thursday-finish: 
-friday-start: 
-friday-finish: 
-saturday-start: 
-saturday-finish: 
-sunday-start: 
-sunday-finish: 
 ---
 ## Waste Services
 

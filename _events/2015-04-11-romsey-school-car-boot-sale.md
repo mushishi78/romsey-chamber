@@ -1,6 +1,5 @@
 ---
 title: Romsey School Car Boot Sale
-tags: []
 summary: 
 date: 2015-04-11
 start-time: '10:00'

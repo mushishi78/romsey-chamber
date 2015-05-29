@@ -1,7 +1,6 @@
 ---
 title: Warning to traders
 date: 2014-11-17
-tags: []
 ---
 Sadly COOK Romsey was a victim of burglary on Thursday 13th November during the night.  
 The back door, although securely locked and bolted, was eventually forced open and they attempted to remove the safe from the floor. They didn't succeed but managed to force the safe door open and clear it of the days money, float and gift vouchers.  

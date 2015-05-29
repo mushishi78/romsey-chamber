@@ -1,7 +1,6 @@
 ---
 title: Filming in Bangkok
 date: 2013-05-29
-tags: []
 ---
 icm Reporting is proud to announce that they have been awarded a contract to 'cover' the 65th World Newspaper Congress in Bangkok at the start of June.
 

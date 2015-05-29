@@ -1,7 +1,6 @@
 ---
 title: Romsey Footfall Figures
 date: 2015-05-08
-tags: []
 ---
 You might be interested to know that the footfall figures attached, which compare weekly totals for 2015 year to date with 2014, show a small growth of around 1.5%.
 

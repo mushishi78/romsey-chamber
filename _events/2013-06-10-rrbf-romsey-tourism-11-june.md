@@ -1,6 +1,5 @@
 ---
 title: RRBF - Romsey Tourism 11 June
-tags: []
 summary: 
 date: 2013-06-10
 start-time: 
