@@ -2,9 +2,13 @@
 title: Spitfire Marketing
 category: Business Services
 email: 'http://www.spitfiremarketing.co.uk/'
-city: Romsey
+telephone: 01489 854716
+address1: Hangar 2C Universal Marina
+address2: Crableck Lane
+city: Southampton
 county: Hampshire
 country: UK
+postcode: SO31 7ZN
 ---
  **Spitfire Marketing are a highly experienced marketing agency working with a broad range of clients from SME's to some of the UK's industry leaders.**
 

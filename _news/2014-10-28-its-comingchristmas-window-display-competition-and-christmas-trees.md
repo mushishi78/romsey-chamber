@@ -12,6 +12,6 @@ We're also into the last few days for you to order Christmas trees for your prem
 
 Kind regards
 
-Peter Speirs  
+Peter Speirs
 President
 

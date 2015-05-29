@@ -4,9 +4,9 @@ date: 2014-02-06
 ---
 ## The office with now be open
 
-Monday10am - 2pm
+Monday 10am - 2pm
 
-Wenesday 9am -1pm
+Wenesday 9am - 1pm
 
-Thursday 1pm -5pm
+Thursday 1pm - 5pm
 

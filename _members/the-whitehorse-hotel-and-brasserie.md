@@ -1,9 +1,13 @@
 ---
 title: The Whitehorse Hotel and Brasserie
 category: Leisure
+telephone: 01794 512 431
+email: thewhitehorse@silkshotels.com
+address1: Market Place
 city: Romsey
 county: Hampshire
 country: UK
+postcode: SO51 8ZJ
 ---
 Situated at the heart of the historic market town of Romsey, The White Horse Hotel has been a coaching Inn for over 600 years. We offer all that you would expect  from a casual drink, or maybe dinner in our restaurant or stay over with Bed and  Breakfast, whatever you requirements we will be pleased to help.
 
