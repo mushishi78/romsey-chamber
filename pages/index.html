@@ -3,17 +3,17 @@ layout: default
 permalink: /
 ---
 
-<main>
+<main class='home'>
   <section class='panorama'>
     <img src='{{ site.cloudinary}}/street.jpg' />
     <img src='{{ site.cloudinary}}/train.jpg' />
     <img src='{{ site.cloudinary}}/abbey.jpg' />
   </section>
-  <section class='feed summary'>
+  <section class='feed'>
     <a href='/news'><h2>News</h2></a>
     <ul>
       {% assign articles = site.news | reverse %}
-      {% for article in articles limit: 3 %}
+      {% for article in articles limit:3 %}
       <li>
         <a href='{{ article.url }}'>
           <h3>{{ article.title }}</h3>
@@ -24,7 +24,7 @@ permalink: /
       {% endfor %}
     </ul>
   </section>
-  <section class='feed summary'>
+  <section class='feed'>
     <a href='/events'><h2>Events</h2></a>
     <ul>
       {% assign events = site.events | reverse %}
@@ -32,7 +32,13 @@ permalink: /
       <li>
         <a href='{{ event.url }}'>
           <h3>{{ event.title }}</h3>
-          <time>{{ event.date | date: "%A %d %b"}}</time>
+          <time>
+            {{ event.date | date: "%A %d %b" }}
+            {{ event.end-date | date: "%A %d %b" }}
+            {% if event.start-time %}
+              {{ event.start-time }}-{{ event.end-time }}
+            {% endif %}
+          </time>
           <p>{{ event.content | strip_html | truncatewords: 30 }}</p>
         </a>
       </li>

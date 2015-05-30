@@ -9,4 +9,3 @@ When this is compared with the falling figures in many other towns this can only
 Numbers are relative rather than absolute as there is only one sensor in the town, therefore many people will not have been recorded.
 
 Daily figures are available if anyone is interested.
-

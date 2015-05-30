@@ -1,6 +1,4 @@
 .feed {
-  background: #F2F2F2;
-  box-shadow: 0 0 1px 1px #aaa;
   padding: 5px 15px;
   margin: 5px 1%;
 
@@ -12,11 +10,6 @@
   li {
     list-style: none;
     padding: 5px 5px 0;
-
-    &:hover {
-      background: #FFFFFF;
-      box-shadow: inset 0 0 3px 1px #ABABAB;
-    }
   }
 
   h3 {
@@ -28,6 +21,7 @@
   a {
     color: initial;
     text-decoration: initial;
+    display: block;
   }
 
   time {
@@ -36,4 +30,11 @@
   }
 
   button { width: 100%; }
+}
+
+.news, .events {
+  li:hover {
+    background: #F2F2F2;
+    box-shadow: 0 0 1px 1px #ABABAB;
+  }
 }

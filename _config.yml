@@ -2,7 +2,7 @@ title: Romsey Chamber of Commerce and Industry
 description: Supporting business and the community in the Romsey area
 sitename: 'http://www.romseychamber.co.uk/'
 cloudinary: 'http://res.cloudinary.com/romsey-chamber'
-page_size: 5
+page_size: 7
 sass:
   sass_dir: /assets/_sass
   style: :compressed

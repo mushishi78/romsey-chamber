@@ -2,6 +2,29 @@
 layout: default
 permalink: /events/
 ---
-
-<main>
+<main class='events'>
+  <section class='feed'>
+    <h2>Events</h2>
+    <ul>
+      {% assign events = site.events | reverse %}
+      {% for event in events %}
+      <li class='{% if forloop.index > site.page_size %}hide{% endif %}'>
+        <a href='{{ event.url }}'>
+          <h3>{{ event.title }}</h3>
+          <time>
+            {{ event.date | date: "%A %d %b %Y" }}
+            {{ event.end-date | date: "%A %d %b %Y" }}
+            {% if event.start-time %}
+              {{ event.start-time }}-{{ event.end-time }}
+            {% endif %}
+          </time>
+          <p>{{ event.content | strip_html | truncatewords: 100 }}</p>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+    <button onClick='loadMore()'>Load More</button>
+  </section>
 </main>
+
+{% include loadMore.html %}
