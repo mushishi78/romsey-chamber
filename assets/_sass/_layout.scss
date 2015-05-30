@@ -1,0 +1,60 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body { margin: 0 0 30px; }
+
+header {
+  padding: 0.5em 0;
+  text-align: center;
+
+  h1 {
+    display: none;
+    font-family: Baskerville,"Baskerville Old Face","Hoefler Text",Garamond,"Times New Roman",serif;
+  }
+
+  img { max-width: 100px; }
+
+  @media (#{$bp-larger-than-phablet}) {
+    img, h1 {
+      display: inline-block;
+      vertical-align: middle;
+      margin: 0 0.25em;
+    }
+  }
+}
+
+nav {
+  background: #863131;
+  text-align: center;
+  margin-bottom: 10px;
+  box-shadow: 0 0 1px 1px #6E2323;
+
+  ul { margin: 0; }
+
+  li {
+    margin: 0;
+    list-style: none;
+    display: inline-block;
+    font-size: 1.3em;
+    padding: 0 1em;
+  }
+
+  a {
+    color: #fff;
+    text-decoration: initial;
+    &:hover { color: #E78888; }
+  }
+}
+
+footer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 30px;
+  width: 98%;
+  text-align: right;
+}
+
+.hide { display: none; }

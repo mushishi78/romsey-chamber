@@ -2,6 +2,21 @@
 layout: default
 permalink: /news/
 ---
-
 <main>
+  <section class='feed'>
+    <h2>News</h2>
+    <ul>
+      {% assign articles = site.news | reverse %}
+      {% for article in articles %}
+      <li class='{% if forloop.index > site.page_size %}hide{% endif %}'>
+        <a href='{{ article.url }}'>
+          <h3>{{ article.title }}</h3>
+          <time>{{ article.date | date: "%A %d %b %Y"}}</time>
+          <p>{{ article.content | strip_html | truncatewords: 100 }}</p>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+    <button onClick='loadMore()'>Load More</button>
+  </section>
 </main>

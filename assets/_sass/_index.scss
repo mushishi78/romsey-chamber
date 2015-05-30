@@ -1,0 +1,22 @@
+.panorama {
+  margin-top: -10px;
+  padding: 5px 3px 0;
+  display: none;
+  img { width: 32.95%; }
+  @media (#{$bp-larger-than-tablet}) { display: block; }
+  @media (#{$bp-larger-than-desktop}) { img { width: 33%; } }
+}
+
+.image-attributions {
+  text-align: right;
+  margin: 0 10px;
+}
+
+@media (#{$bp-larger-than-phablet}) {
+  .feed.summary {
+    width: 45%;
+    display: inline-block;
+    vertical-align: top;
+    padding: 5px 1%;
+  }
+}
