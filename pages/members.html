@@ -3,5 +3,21 @@ layout: default
 permalink: /members/
 ---
 
-<main>
+{% assign categories = site.members | map: 'category' | sort %}
+{% assign previous_category = '' %}
+
+<main class='links'>
+  {% for category in categories %}
+    {% if category != previous_category %}
+      <section>
+        <h2>{{ category }}</h2>
+
+        {% assign members = site.members | where: 'category', category %}
+        {% for member in members %}
+          <a href='{{ member.url }}'>{{ member.title }}</a>
+        {% endfor %}
+      </section>
+      {% assign previous_category = category %}
+    {% endif %}
+  {% endfor %}
 </main>
