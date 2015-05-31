@@ -3,16 +3,46 @@ description: Supporting business and the community in the Romsey area
 sitename: 'http://www.romseychamber.co.uk/'
 cloudinary: 'http://res.cloudinary.com/romsey-chamber'
 page_size: 7
+contact:
+  telephone: 01794 513135
+  email: 'info@romseychamber.co.uk'
+  address1: 18 Market Place
+  city: Romsey
+  county: Hampshire
+  country: UK
+  postcode: SO51 8NA
+  facebook: 'https://www.facebook.com/pages/Romsey-Chamber-of-Commerce-and-Industry/343650312503091'
+  twitter: '@RomChamb'
+
+
+########################################
 sass:
   sass_dir: /assets/_sass
   style: :compressed
 collections:
-  - events
-  - members
-  - news
-  - offers
-  - resources
-  - sections
+  events:
+    output: true
+  members:
+    output: false
+  news:
+    output: true
+  offers:
+    output: false
+  resources:
+    output: false
+defaults:
+  -
+    scope:
+      path: ''
+      type: news
+    values:
+      layout: article
+  -
+    scope:
+      path: ''
+      type: events
+    values:
+      layout: event
 exclude:
   - Gemfile
   - Gemfile.lock

@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<main class='event' itemscope itemtype='http://schema.org/Event'>
+  <h2 itemprop='name'>{{ page.title }}</h2>
+
+  <time itemprop='startDate' content='{{ page.date }}{% if page.start-time %}T{{ page.start-time }}{% endif %}'>
+    {{ page.date | date: '%A %d %b %Y'}}{% if page.start-time %},
+      {{ page.start-time }}-{{ page.end-time }}
+    {% endif %}
+  </time>
+
+  {% if page.end-date %}
+    <time itemprop='endDate' content='{{ page.end-date }}'>
+      {{ page.end-date | date: '%A %d %b %Y'}}
+    </time>
+  {% endif %}
+
+  <article itemprop='description'>{{ page.content }}</article>
+  {% include disqus.html %}
+</main>

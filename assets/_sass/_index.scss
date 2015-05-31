@@ -29,7 +29,7 @@
   }
 }
 
-.home + footer {
+.home + footer .attribution {
   display: none;
   @media (#{$bp-larger-than-phablet}) { display: block; }
 }

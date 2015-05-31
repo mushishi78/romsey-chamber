@@ -10,7 +10,19 @@
     <li><a href='/members'>Members</a></li>
     <li><a href='/offers'>Member Offers</a></li>
     <li><a href='/resources'>Resources</a></li>
-    <li><a href='/join'>Join</a></li>
     <li><a href='/contact'>Contact</a></li>
+
+    <li class='social-media'>
+      <a href='{{ site.contact.facebook }}' target='_blank'>
+        <img src='{{ site.cloudinary }}/fb.png' />
+      </a>
+      <a href='https://twitter.com/{{ site.contact.twitter | replace: '@', ''}}'
+         target='_blank'>
+        <img src='{{ site.cloudinary }}/twitter.png' />
+      </a>
+      <a href='/feed.xml' target='_blank'>
+        <img src='{{ site.cloudinary }}/rss.png' />
+      </a>
+    </li>
   </ul>
 </nav>

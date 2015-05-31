@@ -48,6 +48,18 @@ nav {
   }
 }
 
+.social-media {
+  a {
+    padding: 0 0.1em;
+    display: inline-block;
+  }
+
+  img {
+    vertical-align: sub;
+    height: 25px;
+  }
+}
+
 footer {
   position: absolute;
   left: 0;
