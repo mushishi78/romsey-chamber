@@ -6,18 +6,47 @@ permalink: /members/
 {% assign categories = site.members | map: 'category' | sort %}
 {% assign previous_category = '' %}
 
-<main class='links'>
+<main class='members'>
+  <h2>Members</h2>
+  <aside>
   {% for category in categories %}
     {% if category != previous_category %}
-      <section>
-        <h2>{{ category }}</h2>
 
+      <h3 class='selectable {% if forloop.first %}selected{% endif %}'
+          onClick='select(this)' data-category='.category{{ forloop.index }}'>
+        {{ category }}
+      </h3>
+
+      {% assign previous_category = category %}
+    {% endif %}
+  {% endfor %}
+  </aside>
+
+  {% for category in categories %}
+    {% if category != previous_category %}
+
+      <section class='category{{ forloop.index }} {% if forloop.index0 != 0 %}hide{% endif %}'>
         {% assign members = site.members | where: 'category', category %}
         {% for member in members %}
           <a href='{{ member.url }}'>{{ member.title }}</a>
         {% endfor %}
       </section>
+
       {% assign previous_category = category %}
     {% endif %}
   {% endfor %}
 </main>
+
+<script>
+  function select(label) {
+    var selected = document.querySelector('.selected');
+    var selectedSection = document.querySelector(selected.dataset.category);
+    selected.className = selected.className.replace(' selected', '');
+    selectedSection.className = selectedSection.className.concat(' hide');
+
+    selected = label;
+    selectedSection = document.querySelector(selected.dataset.category);
+    selected.className = selected.className.concat(' selected');
+    selectedSection.className = selectedSection.className.replace(' hide', '');
+  }
+</script>

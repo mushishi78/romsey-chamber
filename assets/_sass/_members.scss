@@ -1,0 +1,54 @@
+.members {
+  padding: 5px 15px;
+  margin: 5px 1%;
+
+  h2 {
+    text-align: center;
+    margin-bottom: 0;
+  }
+
+  aside {
+    background: #F2F2F2;
+    box-shadow: 0 0 1px 1px #aaa;
+    padding: 1%;
+  }
+
+  h3 {
+    padding: 10px;
+    cursor: pointer;
+  }
+
+  .selected {
+    background: #fff;
+    box-shadow: inset 0 0 3px 1px #ABABAB;
+  }
+
+  @media (#{$bp-larger-than-phablet}) {
+    aside {
+      display: inline-block;
+      width: 25%;
+      vertical-align: top;
+      margin-right: 5%;
+    }
+
+    section {
+      display: inline-block;
+      width: 66%;
+    }
+  }
+
+  section {
+    margin-top: 1em;
+  }
+
+  a {
+    display: inline-block;
+    width: 48%;
+    vertical-align: top;
+    font-size: 1.2em;
+    padding: 0.2em 0;
+
+    @media (#{$bp-larger-than-phablet}) { width: 32%; }
+  }
+
+}
