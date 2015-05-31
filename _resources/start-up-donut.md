@@ -1,6 +1,6 @@
 ---
 title: Start Up Donut
-category: Online Resources
+category: Websites
 link: 'http://www.startupdonut.co.uk/'
 ---
 Many small firms struggle to achieve significant growth, staying pretty much as they were when the business started. Others move from small time to the big league, some very quickly.

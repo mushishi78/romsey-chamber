@@ -1,6 +1,6 @@
 ---
 title: Digital Media at IT Donut
-category: Online Resources
+category: Websites
 link: 'http://www.itdonut.co.uk/'
 ---
 

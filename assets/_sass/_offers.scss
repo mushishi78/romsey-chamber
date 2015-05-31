@@ -1,0 +1,15 @@
+.offers {
+  padding: 5px 15px 0;
+  margin: 5px 1% 0;
+
+  h2 { text-align: center; }
+  section { padding: 2%; }
+
+  @media (#{$bp-larger-than-tablet}) {
+    section {
+      display: inline-block;
+      width: 45%;
+      vertical-align: top;
+    }
+  }
+}

@@ -1,0 +1,18 @@
+.resources {
+  padding: 5px 15px 0;
+  margin: 5px 1% 0;
+  text-align: center;
+
+  h2 { text-align: center; }
+
+  li {
+    list-style: none;
+    padding: 5px 5px 0;
+  }
+
+  a { font-size: 2em; }
+
+  @media (#{$bp-larger-than-tablet}) {
+    text-align: left;
+  }
+}

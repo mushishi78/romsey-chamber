@@ -1,5 +1,5 @@
 ---
 title: 12% cash back on fees
-member: michelle-shergill-legal
+member: Michelle Shergill Legal
 ---
 For Chamber members I offer a 12% cash back on fees.

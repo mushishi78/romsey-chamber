@@ -404,7 +404,7 @@ prose:
         field:
           element: text
           label: Member
-          help: Exact file name of the member without extension e.g. 'a-to-b-mobility'
+          help: Must match member's title exactly
     _resources:
       - name: title
         field:
@@ -412,9 +412,16 @@ prose:
           label: Title
       - name: category
         field:
-          element: text
+          element: select
           label: Category
-      - name: summary
+          options:
+            - value: Downloads
+            - value: Websites
+      - name: link
         field:
           element: text
-          label: Summary
+          label: Website URL
+      - name: download
+        field:
+          element: text
+          label: Download File Name

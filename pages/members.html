@@ -1,39 +1,35 @@
 ---
 layout: default
 permalink: /members/
+categories:
+  - Business Services
+  - Food
+  - Healthcare
+  - Leisure
+  - Not for Profit
+  - Other Services
+  - Retail
+  - Trades Services
 ---
-
-{% assign categories = site.members | map: 'category' | sort %}
-{% assign previous_category = '' %}
 
 <main class='members'>
   <h2>Members</h2>
   <aside>
-  {% for category in categories %}
-    {% if category != previous_category %}
-
-      <h3 class='selectable {% if forloop.first %}selected{% endif %}'
-          onClick='select(this)' data-category='.category{{ forloop.index }}'>
-        {{ category }}
-      </h3>
-
-      {% assign previous_category = category %}
-    {% endif %}
+  {% for category in page.categories %}
+    <h3 class='selectable {% if forloop.first %}selected{% endif %}'
+        onClick='select(this)' data-category='.category{{ forloop.index }}'>
+      {{ category }}
+    </h3>
   {% endfor %}
   </aside>
 
-  {% for category in categories %}
-    {% if category != previous_category %}
-
-      <section class='category{{ forloop.index }} {% if forloop.index0 != 0 %}hide{% endif %}'>
-        {% assign members = site.members | where: 'category', category %}
-        {% for member in members %}
-          <a href='{{ member.url }}'>{{ member.title }}</a>
-        {% endfor %}
-      </section>
-
-      {% assign previous_category = category %}
-    {% endif %}
+  {% for category in page.categories %}
+    <section class='category{{ forloop.index }} {% if forloop.index0 != 0 %}hide{% endif %}'>
+      {% assign members = site.members | where: 'category', category %}
+      {% for member in members %}
+        <a href='{{ member.url }}'>{{ member.title }}</a>
+      {% endfor %}
+    </section>
   {% endfor %}
 </main>
 
