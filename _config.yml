@@ -66,10 +66,6 @@ prose:
         field:
           element: text
           label: Title
-      - name: image
-        field:
-          element: text
-          label: Image
       - name: date
         field:
           element: text
@@ -284,6 +280,10 @@ prose:
             - value: '23:15'
             - value: '23:30'
             - value: '23:45'
+      - name: image
+        field:
+          element: text
+          label: Image
       - name: contact-name
         field:
           element: text
@@ -297,6 +297,10 @@ prose:
         field:
           element: text
           label: Telephone
+      - name: image
+        field:
+          element: text
+          label: Image
       - name: website
         field:
           element: text
@@ -314,11 +318,11 @@ prose:
               value: chamber-office
             - name: Crosfield Hall
               value: crosfield-hall
-            - name: King John's House
+            - name: "King John's House"
               value: king-johns-house
             - name: Plaza Theatre
               value: plaza-theatre
-            - name: Rum's Eg
+            - name: "Rum's Eg"
               value: rums-eg
             - name: The Abbey
               value: the-abbey
@@ -326,6 +330,7 @@ prose:
               value: the-whitehorse
             - name: Romsey Town Hall
               value: town-hall
+      - name: address1
         field:
           element: text
           label: Address 1
