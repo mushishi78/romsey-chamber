@@ -59,16 +59,13 @@ prose:
     - .gitignore
     - CNAME
     - Gemfile
+    - favicon.ico
   metadata:
     _events:
       - name: title
         field:
           element: text
           label: Title
-      - name: summary
-        field:
-          element: textarea
-          label: Summary
       - name: image
         field:
           element: text
@@ -371,10 +368,6 @@ prose:
             - value: Leisure
             - value: Retail
             - value: Trades Services
-      - name: summary
-        field:
-          element: textarea
-          label: Summary
       - name: image
         field:
           element: text
