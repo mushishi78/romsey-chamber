@@ -1,7 +1,6 @@
 ---
 title: La Parisienne
 category: Food
-summary: La Parisienne offers diners the chance to relax in the ambiance of an authentic French restaurant without crossing the Channel!
 telephone: 01794 512067
 website: 'http://www.la-parisienne.co.uk'
 address1: 21 Bell Street

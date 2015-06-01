@@ -1,7 +1,6 @@
 ---
 title: Whispaire
 category: Leisure
-summary: Whispaire was formed in 1997 to provide dedicated LPG heating and hot water systems to the marine and special vehicle industries.
 email: info@whispaire.co.uk
 telephone: 01794 523999
 website: 'http://www.whispaire.co.uk'

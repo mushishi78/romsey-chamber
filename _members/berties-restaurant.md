@@ -1,7 +1,6 @@
 ---
 title: Berties Restaurant
 category: Food
-summary: We have been established in Romsey since June 1995 and now consider ourselves a fully-supported 'locals' restaurant.
 email: info@berties.co.uk
 telephone: 01794 83070880
 website: 'http://www.berties.co.uk/'
@@ -12,6 +11,8 @@ county: Hampshire
 country: UK
 postcode: S051 8BX
 ---
+We have been established in Romsey since June 1995 and now consider ourselves a fully-supported 'locals' restaurant.
+
 We fully support our local suppliers where possible and believe in using sustainable produce, in particular our fish. If there is a dish that you would like to see on our menu our chefs are always open to suggestions!
 
 We cater for Christenings and birthday parties, in fact any occasion that requires a private room!

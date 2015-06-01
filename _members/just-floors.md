@@ -1,7 +1,6 @@
 ---
 title: Just Floors
 category: Trades Services
-summary: We have the technical skills to transform your rooms...
 email: joanne@justfloors-ltd.co.uk
 telephone: 01794 519965
 website: 'http://justfloors-ltd.co.uk'

@@ -1,7 +1,6 @@
 ---
 title: HP Pump Services
 category: Trades Services
-summary: We are specialists in High Pressure and Ultra High Pressure Water Jets & Pumps. We offer a fast and reliable range of services to all sectors of the Water Jetting Industry and with over 15 years of hands on experience.
 email: andy@hppumpservices.co.uk
 telephone: 01794 367 477 or 07536 098 366 or 07536 098 369
 website: 'http://www.hppumpservices.co.uk'
@@ -11,6 +10,8 @@ county: Hampshire
 country: UK
 postcode: SO51 0PW
 ---
+We are specialists in High Pressure and Ultra High Pressure Water Jets & Pumps. We offer a fast and reliable range of services to all sectors of the Water Jetting Industry and with over 15 years of hands on experience.
+
 Our Services include:
 
 * Service and Repair on any make of pump from 1,500 psi to 40,000 psi

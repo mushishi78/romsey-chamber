@@ -7,7 +7,7 @@ layout: default
 
   <time itemprop='startDate' content='{{ page.date }}{% if page.start-time %}T{{ page.start-time }}{% endif %}'>
     {{ page.date | date: '%A %d %b %Y'}}{% if page.start-time %},
-      {{ page.start-time }}-{{ page.end-time }}
+      {{ page.start-time }}{% if page.end-time %}-{{ page.end-time }}{% endif %}
     {% endif %}
   </time>
 

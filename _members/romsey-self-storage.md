@@ -1,7 +1,6 @@
 ---
 title: Romsey Self Storage
 category: Business Services
-summary: We are a self storage company offering affordable and professional self storage units, secure clean and dry, ideal for commercial, industrial, personal and domestic self storage needs.
 email: info@romseyselfstorage.com
 telephone: 01794 367151
 website: 'http://www.romseyselfstorage.com/'
@@ -11,6 +10,8 @@ county: Hampshire
 country: UK
 postcode: SO51 0PD
 ---
+We are a self storage company offering affordable and professional self storage units, secure clean and dry, ideal for commercial, industrial, personal and domestic self storage needs.
+
 We offer short term or long term self storage; our self storage facility works great for:
 
 - Business

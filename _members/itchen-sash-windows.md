@@ -1,7 +1,6 @@
 ---
 title: Itchen Sash Windows
 category: Trades Services
-summary: At Itchen Sash Window Renovation we pride ourselves on providing a full complement of services to truly meet our clients' individual requirements.
 email: contact@sash-windows-uk.com
 telephone: 0800 458 5642
 website: 'http://sash-windows-uk.com'

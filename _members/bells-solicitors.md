@@ -1,7 +1,6 @@
 ---
 title: Bells Solicitors
 category: Business Services
-summary: Bells Solicitors are a long established firm based in Romsey, Hampshire and we offer a wide and comprehensive range of legal services for business, family and property matters.
 telephone: 01794 513328
 website: www.bells-romsey-solicitors.co.uk
 address1: 5 Market Place
@@ -10,4 +9,6 @@ county: Hampshire
 country: UK
 postcode: SO51 8XF
 ---
+Bells Solicitors are a long established firm based in Romsey, Hampshire and we offer a wide and comprehensive range of legal services for business, family and property matters.
+
 Our aim is to continue to provide a high quality service to the local community and region. With a wealth of knowledge and experience, our staff are well equipped to provide this service to both private and business clients with an understanding and caring attitude. We are a thriving and forward looking practice. We will discuss our fees with you at the outset. We will provide a written estimate where possible. In certain circumstances we provide an initial interview of thirty minutes at no charge in order to identify the nature of your problem or enquiry.

@@ -15,7 +15,10 @@ contact:
   twitter: '@RomChamb'
 
 
-########################################
+################################################################
+################################################################
+gems:
+  - jekyll-sitemap
 sass:
   sass_dir: /assets/_sass
   style: :compressed
@@ -52,10 +55,8 @@ prose:
     - _includes
     - _layouts
     - assets
-    - json
     - pages
     - .gitignore
-    - _config.yml
     - CNAME
     - Gemfile
   metadata:
@@ -294,6 +295,7 @@ prose:
         field:
           element: text
           label: Email
+          value: 'info@romseychamber.co.uk'
       - name: telephone
         field:
           element: text

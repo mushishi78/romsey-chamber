@@ -1,6 +1,5 @@
 ---
-title: Stuart Taylor's appointment to Head of Sales and Marketing at Corporate Asset
-  Solutions
+title: Stuart Taylor's appointment to Head of Sales and Marketing at Corporate Asset Solutions
 date: 2014-01-27
 ---
 Formed in 2004, Corporate Asset Solutions Ltd (CAS) is a lender to the SME sector. Based in Hampshire, CAS have been successfully managing relationships with Intermediary Asset Finance Brokers as well as forging strong direct relationships with Manufacturers, Resellers and Equipment suppliers offering a range of products including hire purchase, leasing and business loans.

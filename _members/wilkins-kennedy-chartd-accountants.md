@@ -1,7 +1,6 @@
 ---
 title: Wilkins Kennedy Chart'd Accountants
 category: Business Services
-summary: Wilkins Kennedy Chartered Accountants and Business Advisers provide a full range of accounting and business advisory services to a diverse range of businesses and individuals across the UK and abroad.
 image: 'images/members/Wilkins%20KennedyJohnK.png'
 email: romsey@wilkinskennedy.com
 telephone: +44 (0)1794 515441
@@ -15,7 +14,7 @@ postcode: SO51 8JJ
 ---
 _ **Uniquely personal, meeting your needs is what setsus apart!** _
 
-## Wilkins Kennedy Profile
+# Wilkins Kennedy Profile
 
 Wilkins Kennedy Chartered Accountants and Business Advisers provide a full range of accounting and business advisory services to a diverse range of businesses and individuals across the UK and abroad.
 

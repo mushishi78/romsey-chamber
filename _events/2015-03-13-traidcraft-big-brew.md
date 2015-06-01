@@ -1,24 +1,13 @@
 ---
 title: Traidcraft Big Brew
-summary: 
 date: 2015-03-13
 start-time: '10:30'
 end-time: '12:30'
-end-date: 
-contact-name: 
-email: 
-telephone: 
-website: 
-address1: 
-address2: 
+address1: Oasis Book Shop
+address2: 25 Church Street
 city: Romsey
 county: Hampshire
 country: UK
-postcode: 
+postcode: SO51 8BT
 ---
 With book signings
-
-At Oasis Book Shop
-
-25 Church Street, Romsey
-

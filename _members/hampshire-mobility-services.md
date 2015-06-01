@@ -1,7 +1,6 @@
 ---
 title: Hampshire Mobility Services
 category: Healthcare
-summary: Mobility equipment and daily living aids are essential lifelines for many people.
 email: 'info@hampshiremobilityservices.co.uk'
 website: 'http://www.hampshiremobilityservices.co.uk'
 address1: 4 Abbey Walk
@@ -10,6 +9,8 @@ county: Hampshire
 country: UK
 postcode: SO51 8JQ
 ---
+Mobility equipment and daily living aids are essential lifelines for many people.
+
 We understand that those facilities must be exactly right for your needs and circumstances, as well as being reliable, safe, and dependable to provide worry-free independence and self-reliance.
 
 Hampshire Mobility Services are committed to providing high quality products at competitive prices together with excellent service and support, all of which guarantee that you will never be mis-sold or disappointed.

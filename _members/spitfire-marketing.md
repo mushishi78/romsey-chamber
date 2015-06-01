@@ -10,7 +10,7 @@ county: Hampshire
 country: UK
 postcode: SO31 7ZN
 ---
- **Spitfire Marketing are a highly experienced marketing agency working with a broad range of clients from SME's to some of the UK's industry leaders.**
+**Spitfire Marketing are a highly experienced marketing agency working with a broad range of clients from SME's to some of the UK's industry leaders.**
 
 Delivering increased response and financial return is at the root to everything we do. We ensure we live and breathe your brand to understand your customers and deliver hard working solutions that they respond to.
 

@@ -1,13 +1,14 @@
 ---
 title: Hamilton Parker Buckingham
 category: Trades Services
-summary: Hamilton Parker Buckingham was formed in August 2013 by Celeste Hamilton-Hannah and Craig Buckingham.
 telephone: 01794 5111212
 website: www.hpbproperty.co.uk
 city: Romsey
 county: Hampshire
 country: UK
 ---
+Hamilton Parker Buckingham was formed in August 2013 by Celeste Hamilton-Hannah and Craig Buckingham.
+
 The company's ethos is about being able to deliver the highest quality of service and knowledge within the industry at all times. By working together a new substance has been created and their Upper Class service starts the moment you walk through the door! Their long standing supporting team are dedicated, experienced, personable, honest, reliable and trustworthy and understand the local market.
 
 The company has embraced technology to become a modern, high profile office. They strongly believe that the key to every area of success is built upon exceeding client's expectations.

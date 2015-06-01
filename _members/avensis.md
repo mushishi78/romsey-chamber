@@ -1,7 +1,6 @@
 ---
 title: Avensis
 category: Trades Services
-summary: Avensis luxury coach hire is a Company based in Romsey
 image: images/members/AvensisCoach.png
 telephone: 01794 515260
 address1: 29 Premier Way
@@ -11,4 +10,3 @@ country: UK
 postcode: SO51 9DQ
 ---
 Avensis luxury coach hire is a Company based in Romsey, near **Southampton** specialising in private coach hire, coach trips/tours and day trips and excursions. Please have a look around our new website and give us a call to discuss how we can help you have a great relaxing holiday or corporate function!
-

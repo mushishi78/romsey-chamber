@@ -1,20 +1,15 @@
 ---
 title: Final Friday
-summary: 
 date: 2015-11-27
-start-time: '18:00'
-end-time: '19:00'
-end-date: 
-contact-name: 
-email: 
-telephone: 
-website: 
-address1: 
-address2: 
+start-time: '17:30'
+end-time: '18:30'
+email: info@romseychamber.co.uk
+address1: Whitehorse Hotel
+address2: Market Place
 city: Romsey
 county: Hampshire
 country: UK
-postcode: 
+postcode: SO51 8ZJ
 ---
 On the last Friday of most months we have a convivial meeting in the White Horse where members can meet, chat, or bash the ears of the executive.
 

@@ -1,7 +1,6 @@
 ---
 title: F W Kersey & Son
 category: Retail
-summary: Jewellery, Glassware, China
 email: china@kerseyandson.co.uk
 telephone: 01794 512230
 website: 'http://www.kerseyandson.co.uk'

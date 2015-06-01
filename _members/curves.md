@@ -1,7 +1,6 @@
 ---
 title: Curves
 category: Leisure
-summary: Curves Romsey! - a 30 minutes health and weight loss centre designed especially for women.
 email: office@curvesromsey.co.uk
 telephone: 01794 516646
 website: 'http://curvesromsey.co.uk'

@@ -1,7 +1,6 @@
 ---
 title: Calculis
 category: Trades Services
-summary: We are a specialist team, dedicated to creating and managing your wealth.
 email: info@calculis.co.uk
 telephone: 01794 525500
 website: 'http://calculis.co.uk'
@@ -11,7 +10,7 @@ county: Hampshire
 country: UK
 postcode: SO51 8EZ
 ---
-## Dedicated to creating and managing your wealth
+# Dedicated to creating and managing your wealth
 
 We are a specialist team, dedicated to creating and managing your wealth. We are fully independent and managed by the owners on a day-to-day basis, meaning that most client contact is with the directors who have collectively nearly 50 years experience in the financial services sector.
 

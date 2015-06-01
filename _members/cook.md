@@ -1,16 +1,17 @@
 ---
 title: Cook
 category: Retail
-summary: 'To COOK using the same ingredients and techniques you would at home so everything  looks and tastes homemade. Today, nothings changed (except were a bit better at it).'
 telephone: 01794 329000
 image: images/members/Cook2.png
-website: http://www.cookfood.net/shops/romsey
+website: 'http://www.cookfood.net/shops/romsey'
 address1: 4 Latimer Walk
 city: Romsey
 county: Hampshire
 country: UK
 postcode: SO51 8LA
 ---
+To COOK using the same ingredients and techniques you would at home so everything  looks and tastes homemade. Today, nothings changed (except were a bit better at it).
+
 [Read more about the history of COOK]("http:/www.cookfood.net/about/history").
 
 ## Making Life Easier

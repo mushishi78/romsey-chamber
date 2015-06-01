@@ -1,7 +1,6 @@
 ---
 title: B K Drummond Butchers
 category: Retail
-summary: B. Drummond Butchers we are passionate about supplying quality meats to our customers.
 email: 'info@bdrummondbutchers.co.uk'
 telephone: 01794 516003
 website: 'http://www.bdrummondbutchers.co.uk/'
@@ -11,7 +10,7 @@ county: Hampshire
 country: UK
 postcode: SO51 8GW
 ---
-Working closely with our suppliers, we source only the best products, which are prepared in a time-honoured manner by our highly skilled butchers.
+We are passionate about supplying quality meats to our customers. Working closely with our suppliers, we source only the best products, which are prepared in a time-honoured manner by our highly skilled butchers.
 
 Based in the beautiful market town of Romsey for over 30 years, we have established a reputation for excellence, and in 2012 were awarded a 5 star Safe to Eat award by Food Standard inspectors.
 

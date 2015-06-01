@@ -1,24 +1,16 @@
 ---
 title: Mayor of Winchester Charity Events
-summary: 
 date: 2015-02-14
-start-time: 
-end-time: 
-end-date: 
-contact-name: 
-email: 
-telephone: 
-website: 
-address1: 
-address2: 
-city: Romsey
+contact-name: Winchester Tourist Information Service
+telephone: 01962 840500
+address1: Hill Farm House
+address2: Droxford Road
+city: Swanmore
 county: Hampshire
 country: UK
-postcode: 
+postcode: SO32 2PY
 ---
 Snowdrops by Candlelight
-
-at Hill Farm House, Droxford Road, Swanmore.
 
 8 per person including mulled wine.
 
@@ -27,6 +19,3 @@ at Hill Farm House, Droxford Road, Swanmore.
 Hot refreshments on sale.
 
 Charities are SSAFA, Together for mental wellbeing and Blue Apple Theatre.
-
-Contact Winchester Tourist Information Service on 01962840500
-

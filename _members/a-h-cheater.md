@@ -1,7 +1,6 @@
 ---
 title: A H Cheater
 category: Trades Services
-summary: Serving the Romsey community for over 100 years
 telephone: 01794 513393
 address1: 122 The Hundred
 city: Romsey

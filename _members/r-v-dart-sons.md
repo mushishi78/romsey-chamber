@@ -1,7 +1,6 @@
 ---
 title: R V Dart & Sons
 category: Trades Services
-summary: The company undertakes a broad range of building work.
 email: adrian@rvdart.co.uk
 telephone: 01794 830600
 website: 'http://rvdart.co.uk'
