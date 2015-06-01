@@ -342,17 +342,14 @@ prose:
         field:
           element: text
           label: City
-          value: Romsey
       - name: county
         field:
           element: text
           label: County
-          value: Hampshire
       - name: country
         field:
           element: text
           label: Country
-          value: UK
       - name: postcode
         field:
           element: text
