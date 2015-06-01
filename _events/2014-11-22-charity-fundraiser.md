@@ -2,6 +2,7 @@
 title: Charity Fundraiser
 date: '2014-11-22'
 start-time: '19:30'
+end-time: '-'
 email: 'info@alirosen.co.uk'
 telephone: 07804 766847
 website: 'http://www.justgiving.com/Alison-Rosen1'

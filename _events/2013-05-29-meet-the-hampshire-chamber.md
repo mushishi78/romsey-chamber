@@ -1,6 +1,8 @@
 ---
 title: Meet the Hampshire Chamber
 date: '2013-05-29'
+start-time: '-'
+end-time: '-'
 address1: "St Mary's Football Club"
 address2: Britannia Road
 city: Southampton

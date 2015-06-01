@@ -1,6 +1,8 @@
 ---
 title: Leckford Estate Tour
 date: '2013-08-13'
+start-time: '-'
+end-time: '-'
 email: 'info@romseychamber.co.uk'
 telephone: 01794 513135
 address1: The Farm Shop

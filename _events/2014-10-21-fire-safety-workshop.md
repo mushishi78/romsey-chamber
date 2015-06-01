@@ -2,6 +2,7 @@
 title: Fire Safety Workshop
 date: '2014-10-21'
 start-time: '18:00'
+end-time: '-'
 email: 'info@romseychamber.co.uk'
 place: the-whitehorse
 ---

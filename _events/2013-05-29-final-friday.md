@@ -1,7 +1,9 @@
 ---
 title: Final Friday
 date: '2013-05-29'
-email: info@romseychamber.co.uk
+start-time: '-'
+end-time: '-'
+email: 'info@romseychamber.co.uk'
 place: the-whitehorse
 ---
 On the last Friday of most months we have a convivial meeting in the White Horse where members can meet, chat, or bash the ears of the executive.

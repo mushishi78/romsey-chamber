@@ -1,6 +1,8 @@
 ---
 title: Winchester Business Exhibition and Networking Event
 date: '2013-05-29'
+start-time: '-'
+end-time: '-'
 email: 'Katie.crow@hampshirechamber.co.uk'
 ---
 Hampshire Chamber and Winchester BID invite local businesses to take part in a Business Exhibition & Networking Evening designed for all sizes of business who are seeking opportunities to build on their current success.

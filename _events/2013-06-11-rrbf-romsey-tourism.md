@@ -1,6 +1,8 @@
 ---
 title: RRBF - Romsey Tourism
 date: '2013-06-11'
+start-time: '-'
+end-time: '-'
 place: king-johns-house
 ---
 Evenining Meeting

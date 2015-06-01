@@ -34,8 +34,8 @@ permalink: /
           <time>
             {{ event.date | date: "%A %d %b" }}
             {{ event.end-date | date: "%A %d %b" }}
-            {% if event.start-time %}
-              {{ event.start-time }}{% if event.end-time %}-{{ event.end-time }}
+            {% if event.start-time != '-' %}
+              {{ event.start-time }}{% if event.end-time != '-' %}-{{ event.end-time }}
               {% endif %}
             {% endif %}
           </time>

@@ -1,6 +1,8 @@
 ---
 title: Helen White Local Taxation Manager at Test Valley Borough Council Surgery
 date: '2014-05-28'
+start-time: '-'
+end-time: '-'
 email: info@romseychamber.co.uk
 place: chamber-office
 ---

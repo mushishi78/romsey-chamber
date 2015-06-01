@@ -2,6 +2,7 @@
 title: Lantern Project Public Meeting
 date: '2015-02-26'
 start-time: '19:30'
+end-time: '-'
 email: mavis.sawdy@gmail.com
 address1: Carers Together
 address2: 9 Love Lane

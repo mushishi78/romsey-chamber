@@ -81,7 +81,7 @@ prose:
           element: select
           label: Start Time
           options:
-            - value:
+            - value: '-'
             - value: '00:00'
             - value: '00:15'
             - value: '00:30'
@@ -183,7 +183,7 @@ prose:
           element: select
           label: End Time
           options:
-            - value:
+            - value: '-'
             - value: '00:00'
             - value: '00:15'
             - value: '00:30'
