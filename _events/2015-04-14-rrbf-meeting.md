@@ -1,5 +1,5 @@
 ---
 title: RRBF Meeting
-date: 2015-04-14
+date: '2015-04-14'
 start-time: '18:00'
 ---

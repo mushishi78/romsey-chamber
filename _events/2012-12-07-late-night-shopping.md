@@ -1,6 +1,6 @@
 ---
 title: Late Night Shopping
-date: 2012-12-07
+date: '2012-12-07'
 start-time: '18:00'
 end-time: '21:00'
 ---

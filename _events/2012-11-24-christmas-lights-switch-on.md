@@ -1,6 +1,6 @@
 ---
 title: Christmas Lights Switch On
-date: 2012-11-24
+date: '2012-11-24'
 start-time: '18:00'
 end-time: '19:00'
 email: 'info@romseychamber.co.uk'

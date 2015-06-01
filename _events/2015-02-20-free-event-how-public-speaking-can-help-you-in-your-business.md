@@ -1,6 +1,6 @@
 ---
 title: 'Free event: How public speaking can help you in your business'
-date: 2015-02-25
+date: '2015-02-25'
 start-time: '7:30'
 telephone: 07786 075308
 address1: Winchester Racquets & Fitness Club

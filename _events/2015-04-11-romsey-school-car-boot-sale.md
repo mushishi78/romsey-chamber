@@ -1,6 +1,6 @@
 ---
 title: Romsey School Car Boot Sale
-date: 2015-04-11
+date: '2015-04-11'
 start-time: '10:00'
 end-time: '12:30'
 telephone: 07554 644344

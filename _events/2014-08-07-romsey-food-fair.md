@@ -1,6 +1,6 @@
 ---
 title: Romsey Food Fair
-date: 2014-09-01
+date: '2014-09-01'
 start-time: '10:00'
 end-time: '16:00'
 website: 'http://www.visit-hampshire.co.uk/whats-on/romsey-food-festival-p762321'

@@ -1,6 +1,6 @@
 ---
 title: RRBF Breakfast Meeting
-date: 2013-07-09
+date: '2013-07-09'
 start-time: '08:00'
 end-time: '09:00'
 email: info@romseychamber.co.uk

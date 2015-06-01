@@ -1,6 +1,6 @@
 ---
 title: Final Friday Network
-date: 2012-10-26
+date: '2012-10-26'
 start-time: '17:30'
 end-time: '18:30'
 contact-name: Romsey Chamber of Commerce

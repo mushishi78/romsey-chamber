@@ -1,6 +1,6 @@
 ---
 title: Christmas Lights
-date: 2013-05-26
+date: '2013-05-26'
 ---
 We were prompted to make sure the Chamber prospered by the threat to the Christmas lights. It is a long time until Christmas and, if you are like us, you will hate the way carols appear in some places as early as September. However, to be successful any event needs planning a long way in advance so we are starting now.
 

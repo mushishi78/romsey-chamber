@@ -1,6 +1,6 @@
 ---
 title: Medieval Banquet
-date: 2015-04-25
+date: '2015-04-25'
 contact-name: Winchester Tourist Office
 telephone: 01962 840500
 address1: Winchester Great Hall

@@ -1,6 +1,6 @@
 ---
 title: Romsey Retail and Business Forum Breakfast Meeting
-date: 2014-05-13
+date: '2014-05-13'
 start-time: '08:00'
 place: town-hall
 ---

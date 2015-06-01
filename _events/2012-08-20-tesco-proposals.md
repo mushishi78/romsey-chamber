@@ -1,6 +1,6 @@
 ---
 title: Tesco Proposals
-date: 2012-08-20
+date: '2012-08-20'
 start-time: '17:30'
 end-time: '19:30'
 ---

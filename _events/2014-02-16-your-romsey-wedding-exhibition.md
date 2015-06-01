@@ -1,6 +1,6 @@
 ---
 title: Your Romsey Wedding Exhibition
-date: 2014-02-16
+date: '2014-02-16'
 start-time: '13:00'
 end-time: '17:00'
 place: the-whitehorse

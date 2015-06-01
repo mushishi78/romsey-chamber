@@ -1,8 +1,8 @@
 ---
 title: A Funny Thing Happened on the Way to the Forum
-date: 2014-10-13
+date: '2014-10-13'
 start-time: '19:30'
-end-date: 2014-10-18
+end-date: '2014-10-18'
 telephone: 01794 512987
 website: 'http://www.plazatheatre.com'
 place: plaza-theatre

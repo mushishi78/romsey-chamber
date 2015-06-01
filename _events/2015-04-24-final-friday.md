@@ -1,6 +1,6 @@
 ---
 title: Final Friday
-date: 2015-04-24
+date: '2015-04-24'
 start-time: '17:30'
 end-time: '18:30'
 email: 'info@romseychamber.co.uk'

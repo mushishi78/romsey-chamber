@@ -1,6 +1,6 @@
 ---
 title: Not-to-be-Missed Tour of Romsey Town Hall and Q & A session by Peter McVean
-date: 2014-02-11
+date: '2014-02-11'
 start-time: '18:00'
 email: 'info@romseychamber.co.uk'
 place: town-hall

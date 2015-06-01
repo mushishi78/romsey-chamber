@@ -1,6 +1,6 @@
 ---
 title: Final Friday
-date: 2013-05-29
+date: '2013-05-29'
 email: info@romseychamber.co.uk
 place: the-whitehorse
 ---

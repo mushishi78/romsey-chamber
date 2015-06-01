@@ -1,6 +1,6 @@
 ---
 title: New Opening Times for Romsey and District Chamber of Commerce & Industry
-date: 2014-02-06
+date: '2014-02-06'
 ---
 ## The office with now be open
 

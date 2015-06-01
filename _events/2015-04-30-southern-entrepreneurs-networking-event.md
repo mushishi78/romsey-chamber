@@ -1,6 +1,6 @@
 ---
 title: Southern Entrepreneurs Networking Event
-date: 2015-04-30
+date: '2015-04-30'
 start-time: '19:00'
 end-time: '21:00'
 website: 'http://www.southernentrepreneurs.com/Networking/957-/ROMSEY-NETWORKING'

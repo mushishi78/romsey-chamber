@@ -1,6 +1,6 @@
 ---
 title: Flack Manor Official Opening Party
-date: 2014-09-30
+date: '2014-09-30'
 ---
 'Flack Manor' are celebrating Cask Ale Week and Flacks Official Opening party.
 

@@ -1,6 +1,6 @@
 ---
 title: Romsey Chamber now on Facebook
-date: 2015-04-01
+date: '2015-04-01'
 ---
 We now have our own Facebook page which you will find here: [Facebook page](https://www.facebook.com/pages/Romsey-Chamber-of-Commerce-and-Industry/343650312503091)
 

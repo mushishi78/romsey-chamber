@@ -1,6 +1,6 @@
 ---
 title: Meet the Team
-date: 2012-08-15
+date: '2012-08-15'
 email: events.north@hampshirechamber.co.uk
 telephone: 01329 242427
 ---

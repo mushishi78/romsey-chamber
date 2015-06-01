@@ -1,6 +1,6 @@
 ---
 title: RRBF Evening Meeting
-date: 2013-06-11
+date: '2013-06-11'
 start-time: '18:00'
 end-time: '19:30'
 email: info@romseychamber.co.uk

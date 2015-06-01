@@ -1,6 +1,6 @@
 ---
 title: 'Emergency First Aid at Work course'
-date: 2014-11-04
+date: '2014-11-04'
 start-time: '09:00'
 end-time: '17:00'
 contact-name: Holly Wigmore

@@ -1,6 +1,6 @@
 ---
 title: Final Friday
-date: 2015-08-28
+date: '2015-08-28'
 start-time: '17:30'
 end-time: '18:30'
 email: info@romseychamber.co.uk

@@ -1,6 +1,6 @@
 ---
 title: 6th Birthday at COOK - special offers
-date: 2014-10-27
+date: '2014-10-27'
 ---
 **It's the 6th Birthday at COOK.**
 

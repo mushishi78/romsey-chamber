@@ -1,6 +1,6 @@
 ---
 title: RRBF Evening Social
-date: 2014-04-08
+date: '2014-04-08'
 start-time: '18:00'
 place: rums-eg
 ---

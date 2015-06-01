@@ -1,6 +1,6 @@
 ---
 title: 'IMPORTANT: CHANGE OF VENUE Final Friday Networking'
-date: 2014-10-31
+date: '2014-10-31'
 ---
 **Please note, this evening's networking session has been moved from The White Horse to:**
 

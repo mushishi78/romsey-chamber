@@ -1,6 +1,6 @@
 ---
 title: Romsey a Dementia Friendly Town
-date: 2014-04-26
+date: '2014-04-26'
 contact-name: Claire Kavanagh
 telephone: 07979 772520
 ---

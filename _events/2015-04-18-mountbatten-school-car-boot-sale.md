@@ -1,6 +1,6 @@
 ---
 title: Mountbatten School Car Boot Sale
-date: 2015-04-18
+date: '2015-04-18'
 start-time: '10:00'
 end-time: '12:30'
 telephone: 07554 644344

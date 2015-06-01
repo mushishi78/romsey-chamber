@@ -1,6 +1,6 @@
 ---
 title: Traidcraft Big Brew
-date: 2015-03-13
+date: '2015-03-13'
 start-time: '10:30'
 end-time: '12:30'
 address1: Oasis Book Shop

@@ -1,8 +1,8 @@
 ---
 title: Filming in Bangkok
-date: 2013-05-29
+date: '2013-05-29'
 ---
-icm Reporting is proud to announce that they have been awarded a contract to 'cover' the 65th World Newspaper Congress in Bangkok at the start of June.
+ICM Reporting is proud to announce that they have been awarded a contract to 'cover' the 65th World Newspaper Congress in Bangkok at the start of June.
 
 Organised by WAN-IFRA, the World Association of Newspapers, is the most important event of its type in the world.
 

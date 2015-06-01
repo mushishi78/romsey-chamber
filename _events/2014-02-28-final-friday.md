@@ -1,6 +1,6 @@
 ---
 title: Final Friday
-date: 2014-02-28
+date: '2014-02-28'
 start-time: '17:30'
 email: info@romseychamber.co.uk
 place: the-whitehorse

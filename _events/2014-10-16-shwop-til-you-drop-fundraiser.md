@@ -1,6 +1,6 @@
 ---
 title: Shwop Til You Drop Fundraiser
-date: 2014-10-16
+date: '2014-10-16'
 start-time: '19:00'
 email: 'info@hampshireartandcraft.org'
 telephone: 01794 511220

@@ -1,6 +1,6 @@
 ---
 title: Latest offers from Cook...
-date: 2014-11-06
+date: '2014-11-06'
 ---
 **Get ready for Christmas at Cook!**
 

@@ -1,6 +1,6 @@
 ---
 title: Invitation to an Evening Celebration
-date: 2014-11-06
+date: '2014-11-06'
 address1: Three Choirs Wickham Vineyard
 address2: Botley Road
 city: Shedfield
