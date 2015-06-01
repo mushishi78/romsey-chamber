@@ -304,7 +304,31 @@ prose:
         field:
           element: text
           label: Website
-      - name: address1
+      - name: place
+        field:
+          element: select
+          label: Place
+          options:
+            - name: Basepoint
+              value: basepoint
+            - name: Broadlands
+              value: broadlands
+            - name: Romsey Chamber Office
+              value: chamber-office
+            - name: Crosfield Hall
+              value: crosfield-hall
+            - name: King John's House
+              value: king-johns-house
+            - name: Plaza Theatre
+              value: plaza-theatre
+            - name: Rum's Eg
+              value: rums-eg
+            - name: The Abbey
+              value: the-abbey
+            - name: The Whitehorse
+              value: the-whitehorse
+            - name: Romsey Town Hall
+              value: town-hall
         field:
           element: text
           label: Address 1
