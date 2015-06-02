@@ -3,7 +3,7 @@ title: Festival of Wellbeing
 date: '2014-03-29'
 start-time: '10:00'
 end-time: '14:00'
-contact-name: Bridget Brook
+organizer: Bridget Brook
 telephone: 07799 474731
 website: 'http://www.time-to-change.org.uk/your-organisation/events/festival-wellbeing'
 place: the-abbey

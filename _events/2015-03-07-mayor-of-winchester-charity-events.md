@@ -3,7 +3,7 @@ title: Mayor of Winchester Charity Events
 date: '2015-03-07'
 start-time: '07:45'
 end-time: '09:00'
-contact-name: Winchester Tourist Information Service
+organizer: Winchester Tourist Information Service
 telephone: 01962 840500
 ---
 Tri Service Boxing Tournament

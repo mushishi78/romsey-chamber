@@ -8,22 +8,7 @@ permalink: /past-events/
     <a href='/events' class='future-link'>Future Events</a>
     <ul>
       {% assign events = site.events | reverse %}
-      {% for event in events %}
-      <li class='event' data-date='{{ event.date }}'>
-        <a href='{{ event.url }}'>
-          <h3>{{ event.title }}</h3>
-          <time>
-            {{ event.date | date: "%A %d %b %Y" }}
-            {{ event.end-date | date: "%A %d %b %Y" }}
-            {% if event.start-time != '-' %}
-              {{ event.start-time }}-{% if event.end-time != '-' %}{{ event.end-time }}
-              {% endif %}
-            {% endif %}
-          </time>
-          <p>{{ event.content | strip_html | truncatewords: 100 }}</p>
-        </a>
-      </li>
-      {% endfor %}
+      {% include events.html events=events %}
     </ul>
     <button onClick='loadMore()'>Load More</button>
   </section>

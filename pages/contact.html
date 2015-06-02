@@ -17,21 +17,5 @@ permalink: /contact/
       <input type='submit' value='Send' />
     </form>
   </section>
-  <section itemscope itemtype='http://schema.org/Place'>
-    <h3>Details</h3>
-    <dl>
-      <dt>Telephone:</dt>
-      <dd itemprop='telephone'>{{ site.contact.telephone }}</dd>
-
-      <dt>Email:</dt><dd>{{ site.contact.email }}</dd>
-
-      <dt>Address:</dt><dd><address itemprop='address' itemscope itemtype='http://schema.org/PostalAddress'>
-        <span itemprop='streetAddress'>{{ site.contact.address1 }}</span><br />
-        <span itemprop='addressLocality'>{{ site.contact.city }}</span><br />
-        <span itemprop='addressRegion'>{{ site.contact.county }}</span><br />
-        <span itemprop='addressCountry'>{{ site.contact.country }}</span><br />
-        <span itemprop='postalCode'>{{ site.contact.postcode }}</span>
-      </address></dd>
-    </dl>
-  </section>
+  {% include details.html details=site.contact itemtype='Organisation' %}
 </main>

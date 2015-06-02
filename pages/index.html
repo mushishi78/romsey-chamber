@@ -17,7 +17,7 @@ permalink: /
       <li>
         <a href='{{ article.url }}'>
           <h3>{{ article.title }}</h3>
-          <time>{{ article.date | date: "%A %d %b"}}</time>
+          <time>{{ article.date | date: "%d %B"}}</time>
           <p>{{ article.content | strip_html | truncatewords: 30 }}</p>
         </a>
       </li>
@@ -32,8 +32,12 @@ permalink: /
         <a href='{{ event.url }}'>
           <h3>{{ event.title }}</h3>
           <time>
-            {{ event.date | date: "%A %d %b" }}
-            {{ event.end-date | date: "%A %d %b" }}
+            {{ event.date | date: "%d %B" }}
+
+            {% if event.end-date %}-
+              {{ event.end-date | date: "%d %B" }}
+            {% endif %}
+
             {% if event.start-time != '-' %}
               {{ event.start-time }}{% if event.end-time != '-' %}-{{ event.end-time }}
               {% endif %}

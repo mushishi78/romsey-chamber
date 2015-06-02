@@ -5,19 +5,37 @@ layout: default
 <main class='event-page' itemscope itemtype='http://schema.org/Event'>
   <h2 itemprop='name'>{{ page.title }}</h2>
 
-  <time itemprop='startDate' content='{{ page.date }}{% if page.start-time %}T{{ page.start-time }}{% endif %}'>
-    {{ page.date | date: '%A %d %b %Y'}}{% if page.start-time != '-' %},
-      {{ page.start-time }}{% if page.end-time != '-' %}-{{ page.end-time }}
-      {% endif %}
-    {% endif %}
-  </time>
-
-  {% if page.end-date %}
-    <time itemprop='endDate' content='{{ page.end-date }}'>
-      {{ page.end-date | date: '%A %d %b %Y'}}
+  <div class='dates'>
+    <time itemprop='startDate' content='{{ page.date }}'>
+      {{ page.date | date: '%A %d %B %Y'}}
     </time>
+
+    {% if page.end-date %} -
+      <time itemprop='endDate' content='{{ page.end-date }}'>
+        {{ page.end-date | date: '%A %d %B %Y'}}
+      </time>
+    {% endif %}
+  </div>
+
+  {% if page.start-time != '-' %}
+  <div class='times'>
+    <time itemprop='doorTime' content='{{ page.start-time }}'>
+      {{ page.start-time | date: "%I:%M %p" }}
+    </time>
+
+    {% if page.end-time != '-' %} -
+      <time>{{ page.end-time | date: "%I:%M %p" }}</time>
+    {% endif %}
+  </div>
   {% endif %}
 
-  <article itemprop='description'>{{ page.content }}</article>
+  {% include details.html details=page %}
+  {% include map.html %}
+
+  {% assign striped_content = page.content | strip_html | strip_newlines %}
+  {% if striped_content != '' %}
+    <article itemprop='description'>{{ page.content }}</article>
+  {% endif %}
+
   {% include disqus.html %}
 </main>

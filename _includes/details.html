@@ -1,0 +1,108 @@
+{% if include.details.organizer or include.details.website or include.details.facebook or include.details.twitter or include.details.telephone or include.details.email or include.details.address1 or include.details.address2 or include.details.postcode %}
+
+  {% if include.itemtype %}
+  <section itemscope itemtype='http://schema.org/{{ include.itemtype }}'>
+  {% else %}
+  <section>
+  {% endif %}
+    <h3>Details</h3>
+    <table>
+      <tbody>
+
+        {% if include.details.organizer %}
+          <tr>
+            <th>Organizer:</th>
+            <td>{{ include.details.organizer }}</td>
+          </tr>
+        {% endif %}
+
+        {% if include.details.website %}
+          <tr>
+            <th>Website:</th>
+            <td>
+              <a href='{{ include.details.website }}' itemprop='url' target='_blank'>
+                {{ include.details.website }}
+              </a>
+            </td>
+          </tr>
+        {% endif %}
+
+        {% if include.details.facebook %}
+          <tr>
+            <th>Facebook:</th>
+            <td>
+              <a href='{{ include.details.facebook }}' target='_blank'>
+                {{ include.details.facebook }}
+              </a>
+            </td>
+          </tr>
+        {% endif %}
+
+        {% if include.details.twitter %}
+          <tr>
+            <th>Twitter:</th>
+            <td>
+              <a href='https://twitter.com/{{ include.details.twitter | replace: "@", ""}}' target='_blank'>
+                {{ include.details.twitter }}
+              </a>
+            </td>
+          </tr>
+        {% endif %}
+
+        {% if include.details.telephone %}
+          <tr>
+            <th>Telephone:</th>
+            <td itemprop='telephone'>{{ include.details.telephone }}</td>
+          </tr>
+        {% endif %}
+
+        {% if include.details.email %}
+          <tr>
+            <th>Email:</th>
+            <td>
+              <a href='mailto:{{ include.details.email }}' itemprop='email'>
+                {{ include.details.email }}
+              </a>
+            </td>
+          </tr>
+        {% endif %}
+
+        {% if include.details.place %}
+          {% assign address = site.data.places[include.details.place] %}
+        {% else %}
+          {% assign address = include.details %}
+        {% endif %}
+
+        {% if address.postcode %}
+          <tr>
+            <th>Address:</th>
+            <td><address itemprop='address'
+                         itemscope itemtype='http://schema.org/PostalAddress'>
+              <span itemprop='streetAddress'>
+                {{ address.address1 }}
+                {% if address.address2 %}<br />
+                {{ address.address2 }}{% endif %}
+              </span><br />
+
+              <span itemprop='addressLocality'>
+                {{ address.city }}
+              </span><br />
+
+              <span itemprop='addressRegion'>
+                {{ address.county }}
+              </span><br />
+
+              <span itemprop='addressCountry'>
+                {{ address.country }}
+              </span><br />
+
+              <span itemprop='postalCode'>
+                {{ address.postcode }}
+              </span>
+            </address></td>
+          </tr>
+        {% endif %}
+      </tbody>
+    </table>
+  </section>
+{% endif %}

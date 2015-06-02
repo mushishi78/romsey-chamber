@@ -3,7 +3,7 @@ title: 'Emergency First Aid at Work course'
 date: '2014-11-04'
 start-time: '09:00'
 end-time: '17:00'
-contact-name: Holly Wigmore
+organizer: Holly Wigmore
 email: 'info@romseychamber.co.uk'
 address1: Abbey Park Industrial Estate
 city: Romsey

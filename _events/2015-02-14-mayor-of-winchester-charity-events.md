@@ -3,7 +3,7 @@ title: Mayor of Winchester Charity Events
 date: '2015-02-14'
 start-time: '-'
 end-time: '-'
-contact-name: Winchester Tourist Information Service
+organizer: Winchester Tourist Information Service
 telephone: 01962 840500
 address1: Hill Farm House
 address2: Droxford Road

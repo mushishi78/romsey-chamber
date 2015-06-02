@@ -26,7 +26,7 @@ collections:
   events:
     output: true
   members:
-    output: false
+    output: true
   news:
     output: true
   offers:
@@ -46,6 +46,12 @@ defaults:
       type: events
     values:
       layout: event
+  -
+    scope:
+      path: ''
+      type: members
+    values:
+      layout: member
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -280,11 +286,7 @@ prose:
             - value: '23:15'
             - value: '23:30'
             - value: '23:45'
-      - name: image
-        field:
-          element: text
-          label: Image
-      - name: contact-name
+      - name: organizer
         field:
           element: text
           label: Contact Name

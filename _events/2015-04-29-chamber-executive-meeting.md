@@ -1,6 +1,6 @@
 ---
 title: Chamber Executive Meeting
-date: '2015-03-25'
+date: '2015-04-29'
 start-time: '18:00'
 end-time: '-'
 email: 'info@romseychamber.co.uk'

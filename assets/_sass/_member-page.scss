@@ -1,14 +1,8 @@
-.event-page {
+.member-page {
   padding: 5px 15px 0;
   margin: 5px 3% 0;
 
   h2 { text-align: center; }
-
-  .dates, .times {
-    display: block;
-    text-align: center;
-    font-size: 2em;
-  }
 
   article, section {
     margin: 18px 0;
@@ -40,9 +34,5 @@
 
   @media (#{$bp-larger-than-desktop}) {
     section { width: 44.5%; }
-  }
-
-  #disqus_thread {
-    margin-top: 54px;
   }
 }
