@@ -42,7 +42,7 @@
           <tr>
             <th>Twitter:</th>
             <td>
-              <a href='https://twitter.com/{{ include.details.twitter | replace: "@", ""}}' target='_blank'>
+              <a href='https://twitter.com/{{ include.details.twitter | replace: '@', ''}}' target='_blank'>
                 {{ include.details.twitter }}
               </a>
             </td>
@@ -100,6 +100,19 @@
                 {{ address.postcode }}
               </span>
             </address></td>
+          </tr>
+        {% endif %}
+
+        {% if include.details.opening-hours.size > 0 %}
+          <tr>
+            <th>Opening Hours:</th>
+            <td>
+              {% for range in include.details.opening-hours %}
+              <time itemprop='openingHours' datetime='{{ range }}'>
+                {{ range | replace: 'Mo', 'Monday' | replace: 'Tu', 'Tuesday' | replace: 'We', 'Wednesday' | replace: 'Th', 'Thursday' | replace: 'Fr', 'Friday' | replace: 'Sa', 'Saturday' | replace: 'Su', 'Sunday' | replace '-', ' - ' }}
+              </time>
+              {% endfor %}
+            </td>
           </tr>
         {% endif %}
       </tbody>
