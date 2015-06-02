@@ -4,11 +4,12 @@ permalink: /past-events/
 ---
 <main class='events'>
   <section class='feed'>
-    <h2>Events</h2>
+    <h2>Past Events</h2>
+    <a href='/events' class='future-link'>Future Events</a>
     <ul>
       {% assign events = site.events | reverse %}
       {% for event in events %}
-      <li class='{% if forloop.index > site.page_size %}hide{% endif %}'>
+      <li class='event' data-date='{{ event.date }}'>
         <a href='{{ event.url }}'>
           <h3>{{ event.title }}</h3>
           <time>
@@ -29,3 +30,4 @@ permalink: /past-events/
 </main>
 
 {% include loadMore.html %}
+{% include hideEvents.html past=true limit=site.page_size %}

@@ -7,21 +7,26 @@
     margin-bottom: 0;
   }
 
+  .past-link, .future-link {
+    display: block;
+    text-align: right;
+  }
+
   li {
     list-style: none;
     padding: 5px 5px 0;
+
+    a {
+      color: initial;
+      text-decoration: initial;
+      display: block;
+    }
   }
 
   h3 {
     font-size: 1.5em;
     margin: 0;
     display: inline-block;
-  }
-
-  a {
-    color: initial;
-    text-decoration: initial;
-    display: block;
   }
 
   time {

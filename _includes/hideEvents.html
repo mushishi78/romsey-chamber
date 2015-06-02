@@ -1,0 +1,19 @@
+<script>
+  (function(){
+    var events = document.querySelectorAll('.event');
+    var today = Date.now();
+    var show = {{ include.limit }};
+
+    for(var i = 0; i < events.length; i++) {
+      var date = Date.parse(events[i].dataset.date);
+
+      if(today {% if include.past %}<{% else %}>{% endif %} date) {
+        events[i].className = events[i].className.concat(' delete');
+      } else if(show > 0) {
+        show -= 1;
+      } else {
+        events[i].className = events[i].className.concat(' hide');
+      }
+    }
+  })();
+</script>
