@@ -1,10 +1,12 @@
 ---
 title: Ampfield Electrical
 category: Trades Services
+image: 'ampfield-electrical.png'
 telephone: 023 8073 1205
-website: 'www.ampfieldelectrical.co.uk'
+email: 'contact@ampfieldelectrical.co.uk'
+website: 'http://www.ampfieldelectrical.co.uk'
 address1: 73 Ringwood Drive
-city: Southampton
+city: North Baddesley
 county: Hampshire
 country: UK
 postcode: SO52 9GR

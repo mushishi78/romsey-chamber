@@ -2,7 +2,10 @@
 title: Corporate Asset Solutions
 category: Business Services
 telephone: 08452 799777
+email: 'info@corporateasset.co.uk'
 website: 'http://www.corporateasset.co.uk'
+twitter: '@AssetFin'
+linkedin: 'https://www.linkedin.com/company/2298018'
 address1: 8 Fernacre Business Park
 city: Romsey
 county: Hampshire

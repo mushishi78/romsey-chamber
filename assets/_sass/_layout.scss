@@ -3,17 +3,15 @@ html {
   min-height: 100%;
 }
 
-body { margin: 0 0 30px; }
+body {
+  margin: 0 0 30px;
+}
 
 header {
   padding: 0.5em 0;
   text-align: center;
 
-  h1 {
-    display: none;
-    font-family: Baskerville,"Baskerville Old Face","Hoefler Text",Garamond,"Times New Roman",serif;
-  }
-
+  h1 { display: none; }
   img { max-width: 100px; }
 
   @media (#{$bp-larger-than-phablet}) {
@@ -72,3 +70,6 @@ footer {
 .hide, .delete { display: none !important; }
 
 table { width: 100% }
+
+body { font-family: 'Open Sans Condensed'; }
+p, table, button, input { font-family: 'Roboto'; }

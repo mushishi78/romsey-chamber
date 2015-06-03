@@ -2,9 +2,11 @@
 title: Ace Liftaway
 category: Trades Services
 telephone: 01794 367939
+image: 'ace-liftaway.png'
+email: 'info@aceliftaway.co.uk'
 website: 'http://www.aceliftaway.co.uk/'
 facebook: 'https://www.facebook.com/pages/Ace-Liftaway-Ltd/616108488424339?fref=ts'
-twitter: 'http://www.twitter.co.uk/aceliftawayltd'
+twitter: '@AceLiftawayLtd'
 address1: The Waste Centre
 address2: Yokesford Hill Estate
 city: Belbins

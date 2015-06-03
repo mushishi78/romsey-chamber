@@ -1,7 +1,6 @@
 ---
 title: Avensis
 category: Trades Services
-image: images/members/AvensisCoach.png
 telephone: 01794 515260
 address1: 29 Premier Way
 city: Romsey

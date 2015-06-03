@@ -4,11 +4,7 @@ permalink: /
 ---
 
 <main class='home'>
-  <section class='panorama'>
-    <img src='{{ site.cloudinary}}/street.jpg' />
-    <img src='{{ site.cloudinary}}/train.jpg' />
-    <img src='{{ site.cloudinary}}/abbey.jpg' />
-  </section>
+  <img src='{{ site.cloudinary}}/river.jpg' class='hero'/>
   <section class='feed'>
     <a href='/news'><h2>News</h2></a>
     <ul>
@@ -52,11 +48,8 @@ permalink: /
 </main>
 
 <footer>
-  Images by:
-  {% for attribution in site.data.image-attributions %}
-    <a href='{{ attribution.link }}' target='_blank'>{{ attribution.by }}</a>
-    {% if forloop.last %}{% else %},{% endif %}
-  {% endfor %}
+  Image by:
+  <a href='https://www.flickr.com/photos/16516058@N03/7871270868' target='_blank'>PapaPiper (Travelling)</a>
 </footer>
 
 {% include hideEvents.html past=false limit=3 %}

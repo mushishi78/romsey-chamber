@@ -1,10 +1,9 @@
-.panorama {
-  margin-top: -10px;
-  padding: 5px 3px 0;
+.hero {
   display: none;
-  img { width: 32.95%; }
-  @media (#{$bp-larger-than-tablet}) { display: block; }
-  @media (#{$bp-larger-than-desktop}) { img { width: 33%; } }
+  width: 99%;
+  margin: 0 0.5% 5px;
+  box-shadow: 0 0 1px 1px #525252;
+  @media (#{$bp-larger-than-phablet}) { display: block; }
 }
 
 .image-attributions {
@@ -13,13 +12,16 @@
 }
 
 .home .feed {
-  background: #F2F2F2;
-  box-shadow: 0 0 1px 1px #aaa;
+  background: #863131;
+  box-shadow: 0 0 2px 2px #711515;
 
   li:hover {
-    background: #fff;
-    box-shadow: inset 0 0 3px 1px #ABABAB;
+    background: #BD5151;
+    box-shadow: inset 0 0 3px 1px #671616;
   }
+
+  a { color: #fff; }
+  time { color: #E0A2A2; }
 
   @media (#{$bp-larger-than-phablet}) {
     width: 45%;

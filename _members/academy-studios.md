@@ -3,6 +3,7 @@ title: Academy Studios
 category: Leisure
 email: nikki.jones@academy-studios.com
 telephone: 01794 515129
+image: 'academy-studios.png'
 website: 'http://academy-studios.com/'
 facebook: 'http://www.facebook.com/academystudios'
 address1: Unit 10, Romsey Industrial Estate

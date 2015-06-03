@@ -3,7 +3,11 @@ title: B M Conversions
 category: Trades Services
 email: info@BMconversions.co.uk
 telephone: 01794 36 89 34
+image: 'b-m-conversions.png'
 website: 'http://www.BMconversions.co.uk'
+instagram: 'https://instagram.com/bmconversions/'
+youtube: 'https://www.youtube.com/channel/UC3nmcp2Iwtn2RaAXn1H-kAg'
+ebay: 'http://www.ebay.co.uk/usr/bm_conversions'
 address1: Unit 27, Wynford Industrial Park
 address2: Belbins
 city: Romsey

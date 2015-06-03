@@ -4,7 +4,7 @@
   <meta name='viewport' content='width=device-width, initial-scale=1'>
   <meta name='description' content='{{ site.description }}'>
 
-  <title>{{ site.title }}</title>
+  <title>{{ site.title }}{% if page.title %} | {{ page.title }}{% endif %}</title>
 
   <link href='/assets/app.css' rel='stylesheet' type='text/css'>
   <!--[if lt IE 9]>

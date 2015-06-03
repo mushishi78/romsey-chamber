@@ -3,7 +3,10 @@ title: Abbey Orthodontics
 category: Healthcare
 email: 'info@abbeyorthodontics.co.uk'
 telephone: 01794 519589
+image: 'abbey-orthodontics.png'
 website: 'http://www.abbeyorthodontics.co.uk/'
+facebook: 'https://www.facebook.com/pages/Abbey-Orthodontics/364313230283869'
+twitter: '@AbbeyInfo'
 address1: 82 The Hundred
 city: Romsey
 county: Hampshire

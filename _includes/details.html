@@ -49,6 +49,61 @@
           </tr>
         {% endif %}
 
+        {% if include.details.linkedin %}
+          <tr>
+            <th>Linkedin:</th>
+            <td>
+              <a href='{{ include.details.linkedin }}' target='_blank'>
+                {{ include.details.linkedin }}
+              </a>
+            </td>
+          </tr>
+        {% endif %}
+
+        {% if include.details.google-plus %}
+          <tr>
+            <th>Google+:</th>
+            <td>
+              <a href='{{ include.details.google-plus }}' target='_blank'>
+                {{ include.details.google-plus }}
+              </a>
+            </td>
+          </tr>
+        {% endif %}
+
+        {% if include.details.instagram %}
+          <tr>
+            <th>Instagram:</th>
+            <td>
+              <a href='{{ include.details.instagram }}' target='_blank'>
+                {{ include.details.instagram }}
+              </a>
+            </td>
+          </tr>
+        {% endif %}
+
+        {% if include.details.youtube %}
+          <tr>
+            <th>YouTube:</th>
+            <td>
+              <a href='{{ include.details.youtube }}' target='_blank'>
+                {{ include.details.youtube }}
+              </a>
+            </td>
+          </tr>
+        {% endif %}
+
+        {% if include.details.ebay %}
+          <tr>
+            <th>Ebay:</th>
+            <td>
+              <a href='{{ include.details.ebay }}' target='_blank'>
+                {{ include.details.ebay }}
+              </a>
+            </td>
+          </tr>
+        {% endif %}
+
         {% if include.details.telephone %}
           <tr>
             <th>Telephone:</th>

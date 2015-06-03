@@ -1,6 +1,12 @@
 ---
 title: Buckley & Co
 category: Business Services
+email: 'info@buckleysca.co.uk'
+telephone: 023 8081 7250
+twitter: '@BuckleysAccount'
+facebook: 'https://www.facebook.com/pages/Buckleys-Chartered-Accountants/137588213085985'
+linkedin: 'https://www.linkedin.com/company/buckleys-chartered-accountants'
+google-plus: 'https://plus.google.com/112450919530466790632/posts'
 website: 'http://www.buckleyandco.info'
 address1: Buckley & Co
 address2: Units 3 & 4, Shelley Farm
