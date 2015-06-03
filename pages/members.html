@@ -36,13 +36,13 @@ categories:
 <script>
   function select(label) {
     var selected = document.querySelector('.selected');
-    var selectedSection = document.querySelector(selected.dataset.category);
+    var section = document.querySelector(selected.getAttribute('data-category'));
     selected.className = selected.className.replace(' selected', '');
-    selectedSection.className = selectedSection.className.concat(' hide');
+    section.className = section.className.concat(' hide');
 
     selected = label;
-    selectedSection = document.querySelector(selected.dataset.category);
+    section = document.querySelector(selected.getAttribute('data-category'));
     selected.className = selected.className.concat(' selected');
-    selectedSection.className = selectedSection.className.replace(' hide', '');
+    section.className = section.className.replace(' hide', '');
   }
 </script>

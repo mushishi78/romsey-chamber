@@ -5,7 +5,7 @@
     var show = {{ include.limit }};
 
     for(var i = 0; i < events.length; i++) {
-      var date = Date.parse(events[i].dataset.date);
+      var date = Date.parse(events[i].getAttribute('data-date'));
 
       if(today {% if include.past %}<{% else %}>{% endif %} date) {
         events[i].className = events[i].className.concat(' delete');
