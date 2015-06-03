@@ -303,6 +303,7 @@ prose:
         field:
           element: text
           label: Website
+          help: 'e.g. http://the-event.com'
       - name: attachment
         field:
           element: text
@@ -389,6 +390,7 @@ prose:
         field:
           element: text
           label: Website
+          help: 'e.g. http://the-organisation-page.co.uk'
       - name: facebook
         field:
           element: text
@@ -453,7 +455,7 @@ prose:
         field:
           element: text
           label: Attachment
-          help: 'e.g. footfall-figure.pdf'
+          help: 'e.g. yearly-figure.xlsx'
     _offers:
       - name: title
         field:
@@ -480,7 +482,9 @@ prose:
         field:
           element: text
           label: Website URL
+          help: 'e.g. http://the-amazing-resource.co.uk'
       - name: download
         field:
           element: text
           label: Download File Name
+          help: 'e.g. awesome-resource.pdf'
