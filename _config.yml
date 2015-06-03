@@ -395,10 +395,37 @@ prose:
         field:
           element: text
           label: Facebook URL
+          help: 'e.g. https://www.facebook.com/pages/the-organisation'
       - name: twitter
         field:
           element: text
-          label: Twitter URL
+          label: Twitter Handle
+          help: 'e.g. @TweetMe'
+      - name: linkedin
+        field:
+          element: text
+          label: LinkedIn URL
+          help: 'e.g. https://www.linkedin.com/company/the-organisation'
+      - name: google-plus
+        field:
+          element: text
+          label: Google Plus URL
+          help: 'e.g. https://plus.google.com/3842732929567247623/posts'
+      - name: instagram
+        field:
+          element: text
+          label: Instagram URL
+          help: 'e.g. https://instagram.com/the-organisation'
+      - name: youtube
+        field:
+          element: text
+          label: YouTube URL
+          help: 'e.g. https://www.youtube.com/channel/EnfDU34ds492d21DU8f-kAg'
+      - name: ebay
+        field:
+          element: text
+          label: eBay URL
+          help: 'e.g. http://www.ebay.co.uk/usr/the-organisation'
       - name: address1
         field:
           element: text
