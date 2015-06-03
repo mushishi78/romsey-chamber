@@ -29,6 +29,14 @@ layout: default
   </div>
   {% endif %}
 
+  {% if page.attachment %}
+    <div class='attachment'>Attachment:
+      <a href='{{ site.cloudinary }}/raw/upload/{{ page.attachment }}'>
+        {{ page.attachment }}
+      </a>
+    </div>
+  {% endif %}
+
   {% include details.html details=page %}
   {% include map.html %}
 

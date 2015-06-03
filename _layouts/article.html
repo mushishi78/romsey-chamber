@@ -5,6 +5,15 @@ layout: default
 <main class='article' itemscope itemtype='http://schema.org/Article'>
   <h2 itemprop='name'>{{ page.title }}</h2>
   <time>{{ page.date | date: '%A %d %b %Y'}}</time>
+
+  {% if page.attachment %}
+    <div class='attachment'>Attachment:
+      <a href='{{ site.cloudinary }}/raw/upload/{{ page.attachment }}'>
+        {{ page.attachment }}
+      </a>
+    </div>
+  {% endif %}
+
   <article itemprop='articleBody'>{{ page.content }}</article>
   {% include disqus.html %}
 </main>

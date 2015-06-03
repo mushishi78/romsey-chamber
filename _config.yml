@@ -303,6 +303,11 @@ prose:
         field:
           element: text
           label: Website
+      - name: attachment
+        field:
+          element: text
+          label: Attachment
+          help: 'e.g. poster.pdf'
       - name: place
         field:
           element: select
@@ -444,6 +449,11 @@ prose:
           element: text
           label: Date
           help: 'yyyy-mm-dd'
+      - name: attachment
+        field:
+          element: text
+          label: Attachment
+          help: 'e.g. footfall-figure.pdf'
     _offers:
       - name: title
         field:
