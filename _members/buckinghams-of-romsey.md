@@ -2,11 +2,14 @@
 title: Buckinghams Of Romsey
 category: Business Services
 telephone: 01794 511212
-address1: 35 The Hundred
+logo: 'buckinghams-of-romsey.png'
+website: 'http://www.hpbproperty.co.uk/'
+email: 'info@hpbproperty.co.uk'
+address1: 9 Latimer Walk
 city: Romsey
 county: Hampshire
 country: UK
-postcode: SO51 8GE
+postcode: SO51 8LA
 ---
 # Romsey's top Estate Agent for 5 qtrs running
 

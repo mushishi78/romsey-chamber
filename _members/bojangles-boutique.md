@@ -3,6 +3,7 @@ title: Bojangles Boutique
 category: Retail
 email: enquiries@bojanglesbrides.co.uk
 telephone: 01794 522 322
+twitter: '@BojanglesBrides'
 address1: Bojangles Boutique
 address2: Latimer Street
 city: Romsey

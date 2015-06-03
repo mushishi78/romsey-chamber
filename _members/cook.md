@@ -3,11 +3,17 @@ title: Cook
 category: Retail
 telephone: 01794 329000
 website: 'http://www.cookfood.net/shops/romsey'
-address1: 4 Latimer Walk
+facebook: 'https://www.facebook.com/thecookkitchen'
+twitter: '@theCOOKkitchen'
+youtube: 'https://www.youtube.com/user/COOKkitchen'
+pinterest: 'https://www.pinterest.com/thecookkitchen/'
+logo: 'cook.png'
+address1: 5 Latimer Walk
 city: Romsey
 county: Hampshire
 country: UK
-postcode: SO51 8LA
+postcode: SO51 8DG
+opening-hours: ['Mo-Sa 09:30-17:30', 'Su 10:00-14:00']
 ---
 To COOK using the same ingredients and techniques you would at home so everything  looks and tastes homemade. Today, nothings changed (except were a bit better at it).
 

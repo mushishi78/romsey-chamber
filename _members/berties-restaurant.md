@@ -1,15 +1,18 @@
 ---
 title: Berties Restaurant
 category: Food
-email: info@berties.co.uk
+email: 'info@berties.co.uk'
 telephone: 01794 83070880
 website: 'http://www.berties.co.uk/'
+facebook: 'https://www.facebook.com/bg55azo'
+logo: 'berties-restaurant.png'
 address1: Berties Restaurant
 address2: The Hundred
 city: Romsey
 county: Hampshire
 country: UK
 postcode: S051 8BX
+opening-hours: ['Mo-Sa 12:00-14:00', 'Mo-Sa 18:30-21:30']
 ---
 We have been established in Romsey since June 1995 and now consider ourselves a fully-supported 'locals' restaurant.
 

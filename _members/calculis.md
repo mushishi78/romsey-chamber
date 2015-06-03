@@ -3,6 +3,7 @@ title: Calculis
 category: Trades Services
 email: info@calculis.co.uk
 telephone: 01794 525500
+logo: 'calculis.png'
 website: 'http://calculis.co.uk'
 address1: 4A The Horsefair
 city: Romsey

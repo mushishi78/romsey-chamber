@@ -2,10 +2,10 @@
 title: Brytech Construction Ltd
 category: Trades Services
 email: chris@brytech.co.uk
+logo: 'brytech-construction-ltd.png'
 telephone: 01794 522544
 website: 'http://www.brytech.co.uk'
-address1: Brytech Construction Ltd
-address2: Unit 37, Romsey Industrial Estate
+address1: Unit 37, Romsey Industrial Estate
 city: Romsey
 county: Hampshire
 country: UK

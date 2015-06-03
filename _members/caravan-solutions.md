@@ -2,6 +2,7 @@
 title: Caravan Solutions
 category: Trades Services
 email: info@caravansolutions.co.uk
+logo: 'caravan-solutions.png'
 telephone: 01794 367325
 website: 'http://www.caravansolutions.co.uk'
 address1: Unit 4, Wynford Industrial Park
@@ -10,6 +11,7 @@ city: Romsey
 county: Hampshire
 country: UK
 postcode: SO51 0PW
+opening-hours: ['Mo-Fr 08:00-17:00']
 ---
 Caravan Solutions is a small business that provides caravan servicing and repairs to customers throughout Hampshire. The company, which is situated in Romsey, started out in 2006 and has many years experience in the caravan repair industry.
 

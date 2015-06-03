@@ -468,6 +468,11 @@ prose:
           element: text
           label: eBay URL
           help: 'e.g. http://www.ebay.co.uk/usr/the-organisation'
+      - name: pinterest
+        field:
+          element: text
+          label: Pinterest URL
+          help: 'e.g. https://uk.pinterest.com/the-organisation/'
     _news:
       - name: title
         field:

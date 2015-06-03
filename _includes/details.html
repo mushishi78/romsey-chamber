@@ -95,10 +95,21 @@
 
         {% if include.details.ebay %}
           <tr>
-            <th>Ebay:</th>
+            <th>eBay:</th>
             <td>
               <a href='{{ include.details.ebay }}' target='_blank'>
                 {{ include.details.ebay }}
+              </a>
+            </td>
+          </tr>
+        {% endif %}
+
+        {% if include.details.pinterest %}
+          <tr>
+            <th>Pinterest:</th>
+            <td>
+              <a href='{{ include.details.pinterest }}' target='_blank'>
+                {{ include.details.pinterest }}
               </a>
             </td>
           </tr>
