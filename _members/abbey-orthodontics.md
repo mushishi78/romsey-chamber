@@ -3,7 +3,7 @@ title: Abbey Orthodontics
 category: Healthcare
 email: 'info@abbeyorthodontics.co.uk'
 telephone: 01794 519589
-image: 'abbey-orthodontics.png'
+logo: 'abbey-orthodontics.png'
 website: 'http://www.abbeyorthodontics.co.uk/'
 facebook: 'https://www.facebook.com/pages/Abbey-Orthodontics/364313230283869'
 twitter: '@AbbeyInfo'

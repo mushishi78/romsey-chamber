@@ -3,6 +3,7 @@ title: Bells Solicitors
 category: Business Services
 telephone: 01794 513328
 email: bells@bells-romsey-solicitors.co.uk
+logo: 'bells-solititors.png'
 website: 'http://www.bells-romsey-solicitors.co.uk'
 address1: 5 Market Place
 city: Romsey

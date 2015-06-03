@@ -2,7 +2,7 @@
 title: Ace Liftaway
 category: Trades Services
 telephone: 01794 367939
-image: 'ace-liftaway.png'
+logo: 'ace-liftaway.png'
 email: 'info@aceliftaway.co.uk'
 website: 'http://www.aceliftaway.co.uk/'
 facebook: 'https://www.facebook.com/pages/Ace-Liftaway-Ltd/616108488424339?fref=ts'

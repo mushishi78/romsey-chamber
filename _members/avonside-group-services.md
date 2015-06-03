@@ -5,7 +5,7 @@ website: 'http://www.avonsidegroupservices.co.uk/'
 linkedin: 'https://www.linkedin.com/company/avonside-group-services-ltd'
 twitter: '@AvonsideGroup'
 facebook: 'https://www.facebook.com/avonsidegroupservices'
-image: 'avonside-group-services.png'
+logo: 'avonside-group-services.png'
 telephone: 01794 324 444
 email: 'info@avonsidegroup.co.uk'
 address1: Suite 5, Chatmohr Estate Office Village

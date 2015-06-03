@@ -4,7 +4,7 @@ category: Trades Services
 telephone: 01794 513393
 website: 'http://www.ahcheater.co.uk/'
 email: 'peace@ahcheater.co.uk'
-image: 'a-h-cheater.png'
+logo: 'a-h-cheater.png'
 address1: 122 The Hundred
 city: Romsey
 county: Hampshire

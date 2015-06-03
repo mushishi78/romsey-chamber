@@ -4,7 +4,6 @@ category: Leisure
 email: office@curvesromsey.co.uk
 telephone: 01794 516646
 website: 'http://curvesromsey.co.uk'
-image: images/members/CurvesPic.png
 address1: Station Approach
 address2: Romsey Railway Station
 city: Romsey

@@ -299,10 +299,6 @@ prose:
         field:
           element: text
           label: Telephone
-      - name: image
-        field:
-          element: text
-          label: Image
       - name: website
         field:
           element: text
@@ -372,10 +368,10 @@ prose:
             - value: Leisure
             - value: Retail
             - value: Trades Services
-      - name: image
+      - name: logo
         field:
           element: text
-          label: Image
+          label: Logo
       - name: email
         field:
           element: text

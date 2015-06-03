@@ -1,7 +1,7 @@
 ---
 title: Asante Coffee Shop
 category: Food
-image: 'asante-coffee-shop.png'
+logo: 'asante-coffee-shop.png'
 website: 'http://www.asantecoffeeshop.co.uk'
 telephone: 01794 518095
 twitter: '@asantecafe'

@@ -2,7 +2,6 @@
 title: Cook
 category: Retail
 telephone: 01794 329000
-image: images/members/Cook2.png
 website: 'http://www.cookfood.net/shops/romsey'
 address1: 4 Latimer Walk
 city: Romsey

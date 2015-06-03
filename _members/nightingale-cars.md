@@ -3,7 +3,6 @@ title: Nightingale Cars
 category: Trades Services
 email: nightingalecars@gmail.com
 website: 'http://www.nightingalecars.com'
-image: images/members/NightingaleCars.png
 address1: 32a Kennett Road
 city: Romsey
 county: Hampshire

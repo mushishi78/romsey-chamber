@@ -1,7 +1,7 @@
 ---
 title: Ampfield Electrical
 category: Trades Services
-image: 'ampfield-electrical.png'
+logo: 'ampfield-electrical.png'
 telephone: 023 8073 1205
 email: 'contact@ampfieldelectrical.co.uk'
 website: 'http://www.ampfieldelectrical.co.uk'
