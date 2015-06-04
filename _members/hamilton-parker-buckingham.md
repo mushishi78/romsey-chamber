@@ -3,8 +3,10 @@ title: Hamilton Parker Buckingham
 category: Trades Services
 telephone: 01794 5111212
 website: www.hpbproperty.co.uk
+Address: 9 Latimer Walk
 city: Romsey
 county: Hampshire
+Postcode: SO51 8LA
 country: UK
 ---
 Hamilton Parker Buckingham was formed in August 2013 by Celeste Hamilton-Hannah and Craig Buckingham.
