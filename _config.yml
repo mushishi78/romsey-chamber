@@ -68,10 +68,6 @@ prose:
     - favicon.ico
   metadata:
     _events:
-      - name: title
-        field:
-          element: text
-          label: Title
       - name: date
         field:
           element: text
@@ -359,10 +355,6 @@ prose:
           element: text
           label: Postcode
     _members:
-      - name: title
-        field:
-          element: text
-          label: Title
       - name: category
         field:
           element: select
@@ -474,10 +466,6 @@ prose:
           label: Pinterest URL
           help: 'e.g. https://uk.pinterest.com/the-organisation/'
     _news:
-      - name: title
-        field:
-          element: text
-          label: Title
       - name: date
         field:
           element: text
@@ -489,20 +477,12 @@ prose:
           label: Attachment
           help: 'e.g. yearly-figure.xlsx'
     _offers:
-      - name: title
-        field:
-          element: text
-          label: Title
       - name: member
         field:
           element: text
           label: Member
           help: Must match member's title exactly
     _resources:
-      - name: title
-        field:
-          element: text
-          label: Title
       - name: category
         field:
           element: select
