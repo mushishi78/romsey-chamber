@@ -5,10 +5,9 @@ layout: default
 <main class='member-page' itemscope itemtype='http://schema.org/LocalBusiness'>
   <div class='heading'>
     {% if page.logo %}
-  		<img src='{{ site.cloudinary}}/{{ page.logo }}' alt='{{ page.title }}' />
-  	{% else %}
-  		<h2 itemprop='name'>{{ page.title }}</h2>
-  	{% endif %}
+      <img src='{{ site.cloudinary}}/{{ page.logo }}' alt='{{ page.title }}' />
+    {% endif %}
+    <h2 itemprop='name'>{{ page.title }}</h2>
   </div>
 
   {% include details.html details=page %}
