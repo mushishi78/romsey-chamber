@@ -1,6 +1,6 @@
 ---
 title: Judy Webb Florist
-category: Retail
+categories: [Retail]
 email: judywebbflorist@live.co.uk
 telephone: 01794 512355
 website: 'http://www.judywebbflorist-romsey.co.uk/'

@@ -1,6 +1,6 @@
 ---
 title: Spitfire Marketing
-category: Business Services
+categories: [Business Services]
 email: 'http://www.spitfiremarketing.co.uk/'
 telephone: 01489 854716
 address1: Hangar 2C Universal Marina

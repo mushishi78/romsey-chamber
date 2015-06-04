@@ -1,6 +1,6 @@
 ---
 title: "Fellas: Men's Hairdressers"
-category: Leisure
+categories: [Leisure]
 telephone: 01794 331 450
 address1: 19 The Hundred
 city: Romsey

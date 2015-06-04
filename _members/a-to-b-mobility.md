@@ -1,6 +1,6 @@
 ---
 title: A to B Mobility
-category: Healthcare
+categories: [Healthcare]
 telephone: 01794 522555
 website: 'http://www.atobmobility.com/'
 logo: 'a-to-b-mobility.png'

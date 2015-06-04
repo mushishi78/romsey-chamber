@@ -1,6 +1,6 @@
 ---
 title: D N WHITE OPTICIANS
-category: Retail
+categories: [Retail]
 email: dnwhite@romseyoptician.co.uk
 website: 'http://www.romseyoptician.co.uk'
 address1: 23 Market Place

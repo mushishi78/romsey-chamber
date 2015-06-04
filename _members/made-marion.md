@@ -1,6 +1,6 @@
 ---
 title: Made Marion
-category: Leisure
+categories: [Leisure]
 telephone: 01794 513173
 address1: 47 The Hundred
 city: Romsey

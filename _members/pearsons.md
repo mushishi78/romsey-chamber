@@ -1,6 +1,6 @@
 ---
 title: Pearsons
-category: Trades Services
+categories: [Trades Services]
 email: romsey@pearsons.com
 telephone: 01794 514516
 website: 'http://pearsons.com'

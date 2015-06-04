@@ -1,6 +1,6 @@
 ---
 title: Fire Care Solutions
-category: Trades Services
+categories: [Trades Services]
 telephone: 08451 770 772
 website: 'http://www.firecaresolutions.co.uk'
 address1: 42 Ashley Gardens

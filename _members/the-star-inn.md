@@ -1,6 +1,6 @@
 ---
 title: The Star Inn
-category: Leisure
+categories: [Leisure]
 telephone: 01794 511165
 website: 'http://www.thestarromsey.co.uk/'
 address1: 13 The Horsefair

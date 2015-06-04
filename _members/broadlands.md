@@ -1,6 +1,6 @@
 ---
 title: Broadlands
-category: Leisure
+categories: [Leisure]
 telephone: 01794 529750
 logo: 'broadlands.png'
 website: 'http://www.broadlandsestates.co.uk/'

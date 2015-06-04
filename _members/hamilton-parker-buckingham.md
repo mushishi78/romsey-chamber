@@ -1,6 +1,6 @@
 ---
 title: Hamilton Parker Buckingham
-category: Trades Services
+categories: [Trades Services]
 telephone: 01794 5111212
 website: "http://www.hpbproperty.co.uk"
 address1: 9 Latimer Walk

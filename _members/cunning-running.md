@@ -1,6 +1,6 @@
 ---
 title: Cunning Running
-category: Business Services
+categories: [Business Services]
 email: b_b@cunningrunning.co.uk
 telephone: 01794 834750
 website: 'http://www.cunningrunning.co.uk'

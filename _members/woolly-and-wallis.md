@@ -1,6 +1,6 @@
 ---
 title: Woolly and Wallis
-category: Trades Services
+categories: [Trades Services]
 email: d.trentham@w-w.co.uk
 telephone: 01794 512129
 website: 'http://www.w-w.co.uk/offices/romsey.aspx'

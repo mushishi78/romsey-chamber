@@ -1,6 +1,6 @@
 ---
 title: Greatbridge Motor Services
-category: Trades Services
+categories: [Trades Services]
 email: gmsworkshop@btconnect.com
 telephone: 01794 516518 or 01794 516 398
 address1: 70 Greatbridge Road

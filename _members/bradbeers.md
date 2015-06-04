@@ -1,6 +1,6 @@
 ---
 title: Bradbeers
-category: Retail
+categories: [Retail]
 telephone: 01794 521992
 logo: 'bradbeers.png'
 website: 'http://www.bradbeers.com/'

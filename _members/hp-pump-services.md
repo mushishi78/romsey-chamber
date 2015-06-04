@@ -1,6 +1,6 @@
 ---
 title: HP Pump Services
-category: Trades Services
+categories: [Trades Services]
 email: andy@hppumpservices.co.uk
 telephone: 01794 367 477 or 07536 098 366 or 07536 098 369
 website: 'http://www.hppumpservices.co.uk'

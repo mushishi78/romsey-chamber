@@ -1,6 +1,6 @@
 ---
 title: Nick Chivers
-category: Trades Services
+categories: [Trades Services]
 email: nick.michell@iname.com
 telephone: 07887 943386
 city: Romsey

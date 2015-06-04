@@ -1,6 +1,6 @@
 ---
 title: Arena Mediation
-category: Trades Services
+categories: [Trades Services]
 logo: 'arena-mediation.png'
 website: 'http://www.arenamediation.co.uk/'
 linkedin: 'https://www.linkedin.com/pub/alison-ambrose/22/779/b59'

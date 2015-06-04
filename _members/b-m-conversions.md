@@ -1,6 +1,6 @@
 ---
 title: B M Conversions
-category: Trades Services
+categories: [Trades Services]
 email: info@BMconversions.co.uk
 telephone: 01794 36 89 34
 logo: 'b-m-conversions.png'

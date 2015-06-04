@@ -15,34 +15,73 @@ categories:
 <main class='members'>
   <h2>Members</h2>
   <aside>
-  {% for category in page.categories %}
-    <h3 class='selectable {% if forloop.first %}selected{% endif %}'
-        onClick='select(this)' data-category='.category{{ forloop.index }}'>
-      {{ category }}
+    <h3 class='selectable selected' data-category='all' onClick='selectAll(this)'>
+      All
     </h3>
-  {% endfor %}
+    <h3>By Category:</h3>
   </aside>
-
-  {% for category in page.categories %}
-    <section class='category{{ forloop.index }} {% if forloop.index0 != 0 %}hide{% endif %}'>
-      {% assign members = site.members | where: 'category', category %}
-      {% for member in members %}
-        <a href='{{ member.url }}'>{{ member.title }}</a>
-      {% endfor %}
-    </section>
-  {% endfor %}
+  <section>
+    {% for member in site.members %}
+      <a href='{{ member.url }}' id='member{{ forloop.index0 }}'>
+        {{ member.title }}
+      </a>
+    {% endfor %}
+  </section>
 </main>
 
 <script>
-  function select(label) {
-    var selected = document.querySelector('.selected');
-    var section = document.querySelector(selected.getAttribute('data-category'));
-    selected.className = selected.className.replace(' selected', '');
-    section.className = section.className.concat(' hide');
+  /*******************************************/
+  var titles = ["{{ site.members | map: 'title' | join: '", "' }}"];
 
-    selected = label;
-    section = document.querySelector(selected.getAttribute('data-category'));
-    selected.className = selected.className.concat(' selected');
-    section.className = section.className.replace(' hide', '');
+  var categories = [{% for member in site.members %}["{{ member.categories | join: '", "' }}"],{% endfor %}];
+
+  /*******************************************/
+  var totals = {};
+
+  for(var i = 0; i < categories.length; i++) {
+    for(var j = 0; j < categories[i].length; j++) {
+      totals[categories[i][j]] = (totals[categories[i][j]] || 0) + 1;
+    }
+  }
+
+  /*******************************************/
+  var aside = document.getElementsByTagName('aside')[0];
+  var docfrag = document.createDocumentFragment();
+
+  for(var category in totals) {
+    var heading = document.createElement('h4');
+    heading.textContent = category + ' (' + totals[category] + ')';
+    heading.onclick = select(heading, category);
+    heading.className = 'selectable';
+    docfrag.appendChild(heading);
+  }
+
+  aside.appendChild(docfrag);
+
+  /*******************************************/
+  function select(heading, category) {
+    return function() {
+      document.querySelector('.selected').className = 'selectable';
+      heading.className = 'selectable selected';
+      showAll();
+
+      for(var i = 0; i < categories.length; i++) {
+        if(categories[i].indexOf(category) < 0) {
+          var el = document.getElementById('member' + i.toString());
+          el.className = 'hide';
+        }
+      }
+    };
+  }
+
+  function selectAll(heading) {
+    document.querySelector('.selected').className = 'selectable';
+    heading.className = 'selectable selected';
+    showAll();
+  }
+
+  function showAll() {
+    var all = document.querySelectorAll('.hide');
+    for(var i = 0; i < all.length; i++) { all[i].className = ''; }
   }
 </script>

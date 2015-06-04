@@ -1,6 +1,6 @@
 ---
 title: Green Room Acupuncture
-category: Healthcare
+categories: [Healthcare]
 email: debbie.saunders@gmail.com
 telephone: 02380 812694
 website: 'www.romseyacupuncture.co.uk'

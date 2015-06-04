@@ -1,6 +1,6 @@
 ---
 title: Rethink
-category: Business Services
+categories: [Business Services]
 email: "info@rethinkresearch.biz"
 telephone: 01794 521411
 website: "http://www.rethinkresearch.biz/"

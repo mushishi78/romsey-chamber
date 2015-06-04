@@ -1,6 +1,6 @@
 ---
 title: South Garden Chinese Restaurant
-category: Food
+categories: [Food]
 city: Romsey
 county: Hampshire
 country: UK

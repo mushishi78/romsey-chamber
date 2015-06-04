@@ -1,6 +1,6 @@
 ---
 title: Buckley & Co
-category: Business Services
+categories: [Business Services]
 email: 'info@buckleysca.co.uk'
 telephone: 023 8081 7250
 logo: 'buckley-co.png'

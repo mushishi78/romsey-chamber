@@ -1,6 +1,6 @@
 ---
 title: Bojangles Boutique
-category: Retail
+categories: [Retail]
 email: enquiries@bojanglesbrides.co.uk
 telephone: 01794 522 322
 twitter: '@BojanglesBrides'

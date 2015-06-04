@@ -1,6 +1,6 @@
 ---
 title: Romsey Abbey
-category: Leisure
+categories: [Leisure]
 city: Romsey
 county: Hampshire
 country: UK

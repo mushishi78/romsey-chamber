@@ -1,6 +1,6 @@
 ---
 title: Integrated Skills (UK) Ltd
-category: Business Services
+categories: [Business Services]
 telephone: +44 (0) 2380 737 983
 website: 'http://www.intergrated-skills.com'
 address1: Bell House

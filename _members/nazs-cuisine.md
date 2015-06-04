@@ -1,6 +1,6 @@
 ---
 title: Naz's Cuisine
-category: Food
+categories: [Food]
 website: 'http://www.nazs-cuisine.com/'
 email: reservations@nazs-cuisine.com
 telephone: 01794 523222

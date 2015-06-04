@@ -1,6 +1,6 @@
 ---
 title: Curves
-category: Leisure
+categories: [Leisure]
 email: office@curvesromsey.co.uk
 telephone: 01794 516646
 website: 'http://curvesromsey.co.uk'

@@ -1,6 +1,6 @@
 ---
 title: Dovetail Framing
-category: Retail
+categories: [Retail]
 email: info@dovetailframing.co.uk
 telephone: 01794 341274
 city: Romsey

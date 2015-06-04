@@ -1,6 +1,6 @@
 ---
 title: R V Dart & Sons
-category: Trades Services
+categories: [Trades Services]
 email: adrian@rvdart.co.uk
 telephone: 01794 830600
 website: 'http://rvdart.co.uk'

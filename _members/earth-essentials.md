@@ -1,6 +1,6 @@
 ---
 title: Earth Essentials
-category: Retail
+categories: [Retail]
 address1: Watermill Studios
 address2: 48 Middlebridge Street
 city: Romsey

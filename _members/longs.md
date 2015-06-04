@@ -1,6 +1,6 @@
 ---
 title: Longs
-category: Retail
+categories: [Retail]
 email: romsey@longs.co.uk
 address1: 16 The Hundred
 city: Romsey

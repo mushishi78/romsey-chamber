@@ -1,6 +1,6 @@
 ---
 title: La Creme
-category: Retail
+categories: [Retail]
 email: dianablakeman@live.com
 telephone: 01794 514194
 website: 'http://www.lacremeromsey.com'

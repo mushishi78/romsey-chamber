@@ -1,6 +1,6 @@
 ---
 title: Romsey Town Council
-category: Business Services
+categories: [Business Services]
 telephone: 01794 512837
 website: 'http://www.romseytowncouncil.hampshire.org.uk/'
 address1: Town Hall

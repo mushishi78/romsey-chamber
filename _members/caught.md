@@ -1,6 +1,6 @@
 ---
 title: Caught
-category: Food
+categories: [Food]
 telephone: 01794 502400
 address1: 12 Church Street
 city: Romsey

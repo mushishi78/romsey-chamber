@@ -1,6 +1,6 @@
 ---
 title: Hampshire Mobility Services
-category: Healthcare
+categories: [Healthcare]
 email: 'info@hampshiremobilityservices.co.uk'
 website: 'http://www.hampshiremobilityservices.co.uk'
 address1: 4 Abbey Walk

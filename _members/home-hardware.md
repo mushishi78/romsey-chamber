@@ -1,6 +1,6 @@
 ---
 title: Home Hardware
-category: Retail
+categories: [Retail]
 telephone: 01794 512141
 address1: 38-40 The Hundred
 city: Romsey

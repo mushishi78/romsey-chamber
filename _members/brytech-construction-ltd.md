@@ -1,6 +1,6 @@
 ---
 title: Brytech Construction Ltd
-category: Trades Services
+categories: [Trades Services]
 email: chris@brytech.co.uk
 logo: 'brytech-construction-ltd.png'
 telephone: 01794 522544

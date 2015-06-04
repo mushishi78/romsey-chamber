@@ -1,6 +1,6 @@
 ---
 title: Dish Deli & Kitchen
-category: Retail
+categories: [Retail]
 telephone: 01794 513663
 website: 'http://www.dishdelikitchen.co.uk'
 address1: 16 Latimer Street

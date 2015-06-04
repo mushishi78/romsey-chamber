@@ -1,6 +1,6 @@
 ---
 title: Winkworth
-category: Retail
+categories: [Retail]
 email: romsey@winkworth.co.uk
 telephone: +44 (0) 1794 511911
 website: 'http://www.winkworth.co.uk/estate-agents/romsey'

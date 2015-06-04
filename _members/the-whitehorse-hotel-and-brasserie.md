@@ -1,6 +1,6 @@
 ---
 title: The Whitehorse Hotel and Brasserie
-category: Leisure
+categories: [Leisure]
 telephone: 01794 512 431
 email: thewhitehorse@silkshotels.com
 address1: Market Place

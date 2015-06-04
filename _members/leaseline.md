@@ -1,6 +1,6 @@
 ---
 title: Leaseline
-category: Retail
+categories: [Retail]
 telephone: 02380 019108
 website: 'http://www.leaseline-southampton.co.uk/'
 city: Romsey

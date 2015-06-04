@@ -1,6 +1,6 @@
 ---
 title: Macklin & Co
-category: Business Services
+categories: [Business Services]
 address1: Top Floor, Buckley House
 address2: 31A The Hundred
 city: Romsey

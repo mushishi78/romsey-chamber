@@ -1,6 +1,6 @@
 ---
 title: Mallon Wealth Management
-category: Trades Services
+categories: [Trades Services]
 email: 'Jamie.Mallon@sjpp.co.uk'
 telephone: 01794 523700
 website: 'http://www.mallonwm.co.uk/'

@@ -1,6 +1,6 @@
 ---
 title: Just a Little Bit Different
-category: Retail
+categories: [Retail]
 email: justalittlebitdifferent@outlook.com
 telephone: 01794 515652
 website: 'http://www.justalittlebitdifferent.co/'

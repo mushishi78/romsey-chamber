@@ -1,6 +1,6 @@
 ---
 title: Basepoint Business Centre
-category: Business Services
+categories: [Business Services]
 telephone: 01794 513080
 logo: 'basepoint-business-centre.png'
 website: 'http://www.basepoint.co.uk/locations/romsey'

@@ -1,6 +1,6 @@
 ---
 title: Corporate Asset Solutions
-category: Business Services
+categories: [Business Services]
 telephone: 08452 799777
 logo: 'corporate-asset-solutions.png'
 email: 'info@corporateasset.co.uk'

@@ -1,6 +1,6 @@
 ---
 title: Cook
-category: Retail
+categories: [Retail]
 telephone: 01794 329000
 website: 'http://www.cookfood.net/shops/romsey'
 facebook: 'https://www.facebook.com/thecookkitchen'

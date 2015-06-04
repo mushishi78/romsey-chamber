@@ -1,6 +1,6 @@
 ---
 title: B K Drummond Butchers
-category: Retail
+categories: [Retail]
 email: 'info@bdrummondbutchers.co.uk'
 telephone: 01794 516003
 website: 'http://www.bdrummondbutchers.co.uk/'

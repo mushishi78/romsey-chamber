@@ -1,6 +1,6 @@
 ---
 title: FBR Accounting Ltd
-category: Business Services
+categories: [Business Services]
 city: Romsey
 county: Hampshire
 country: UK

@@ -1,6 +1,6 @@
 ---
 title: Pipestock Ltd
-category: Trades Services
+categories: [Trades Services]
 city: Romsey
 county: Hampshire
 country: UK

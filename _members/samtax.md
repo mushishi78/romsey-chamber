@@ -1,6 +1,6 @@
 ---
 title: Samtax
-category: Trades Services
+categories: [Trades Services]
 city: Romsey
 county: Hampshire
 country: UK

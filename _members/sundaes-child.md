@@ -1,6 +1,6 @@
 ---
 title: Sundae's Child
-category: Food
+categories: [Food]
 email: info@sundaeschild.com
 telephone: 01794 521280
 website: 'http://sundaeschild.com'

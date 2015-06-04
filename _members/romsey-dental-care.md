@@ -1,6 +1,6 @@
 ---
 title: Romsey Dental Care
-category: Healthcare
+categories: [Healthcare]
 website: 'http://www.romseydentalcare.co.uk/'
 telephone: 01794 522222
 address1: 1 Station Road

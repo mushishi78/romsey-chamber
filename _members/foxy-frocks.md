@@ -1,6 +1,6 @@
 ---
 title: Foxy Frocks
-category: Retail
+categories: [Retail]
 email: foxyfrocks@btinternet.com
 telephone: 07738522804
 city: Romsey

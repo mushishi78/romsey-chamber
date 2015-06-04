@@ -1,6 +1,6 @@
 ---
 title: 'His & Kids'
-category: Retail
+categories: [Retail]
 telephone: 01794 515333
 address1: 4 Latimer Walk
 city: Romsey

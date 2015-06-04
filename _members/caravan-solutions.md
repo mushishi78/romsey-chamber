@@ -1,6 +1,6 @@
 ---
 title: Caravan Solutions
-category: Trades Services
+categories: [Trades Services]
 email: info@caravansolutions.co.uk
 logo: 'caravan-solutions.png'
 telephone: 01794 367325

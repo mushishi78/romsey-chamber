@@ -1,6 +1,6 @@
 ---
 title: Paragons Personnel
-category: Trades Services
+categories: [Trades Services]
 telephone: 01794 524212
 website: 'http://www.paragons.co.uk'
 address1: 9 Latimer Street

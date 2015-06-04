@@ -1,6 +1,6 @@
 ---
 title: Oasis
-category: Retail
+categories: [Retail]
 city: Romsey
 county: Hampshire
 country: UK

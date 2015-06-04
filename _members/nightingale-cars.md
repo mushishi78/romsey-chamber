@@ -1,6 +1,6 @@
 ---
 title: Nightingale Cars
-category: Trades Services
+categories: [Trades Services]
 email: nightingalecars@gmail.com
 website: 'http://www.nightingalecars.com'
 address1: 32a Kennett Road

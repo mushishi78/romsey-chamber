@@ -1,6 +1,6 @@
 ---
 title: Mark Freeman Optician
-category: Retail
+categories: [Retail]
 email: mfreemanfbdo@aol.com
 telephone: 01794 513953
 address1: 3 Market Place

@@ -1,6 +1,6 @@
 ---
 title: Peppercorn Natural Foods
-category: Retail
+categories: [Retail]
 telephone: 01794 513499
 address1: 11 Latimer Street
 city: Romsey

@@ -1,6 +1,6 @@
 ---
 title: HSBC Bank
-category: Trades Services
+categories: [Trades Services]
 address1: 10 Market Place
 city: Romsey
 county: Hampshire

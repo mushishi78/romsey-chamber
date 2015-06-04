@@ -1,6 +1,6 @@
 ---
 title: The Smart Centre
-category: Trades Services
+categories: [Trades Services]
 email: sales@thesmartcentreltd.co.uk
 telephone: 01794 367878
 website: 'http://www.thesmartcentreltd.co.uk'

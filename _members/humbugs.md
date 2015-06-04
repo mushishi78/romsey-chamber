@@ -1,6 +1,6 @@
 ---
 title: Humbugs
-category: Retail
+categories: [Retail]
 email: inquires@humbu.gs
 website: 'http://humbu.gs'
 city: Romsey

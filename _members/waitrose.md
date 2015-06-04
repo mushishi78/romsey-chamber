@@ -1,6 +1,6 @@
 ---
 title: Waitrose
-category: Retail
+categories: [Retail]
 website: 'http://www.waitrose.com'
 city: Romsey
 county: Hampshire

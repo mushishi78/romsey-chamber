@@ -1,6 +1,6 @@
 ---
 title: Savage and Bullock Ltd
-category: Business Services
+categories: [Business Services]
 email: mail@savage-bullock.co.uk
 telephone: 01794 518220
 website: 'http://www.savage-bullock.co.uk'

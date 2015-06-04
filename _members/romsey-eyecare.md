@@ -1,6 +1,6 @@
 ---
 title: Romsey Eyecare
-category: Retail
+categories: [Retail]
 email: emma@romsey-eyecare.co.uk
 telephone: 01794 522747
 city: Romsey

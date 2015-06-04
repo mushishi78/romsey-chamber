@@ -1,6 +1,6 @@
 ---
 title: Michelle Shergill Legal
-category: Business Services
+categories: [Business Services]
 telephone: 01794 329262
 website: 'http://www.shergilllegal.co.uk/'
 city: Romsey

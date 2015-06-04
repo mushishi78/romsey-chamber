@@ -1,6 +1,6 @@
 ---
 title: RGT Financial Management
-category: Business Services
+categories: [Business Services]
 email: dick@rgtfm.co.uk
 address1: 7 Sorrell Close
 city: Romsey

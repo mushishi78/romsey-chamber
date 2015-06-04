@@ -1,6 +1,6 @@
 ---
 title: Hampshire Orthotics
-category: Healthcare
+categories: [Healthcare]
 city: Romsey
 county: Hampshire
 country: UK

@@ -1,6 +1,6 @@
 ---
 title: Avonside Group Services
-category: Trades Services
+categories: [Trades Services]
 website: 'http://www.avonsidegroupservices.co.uk/'
 linkedin: 'https://www.linkedin.com/company/avonside-group-services-ltd'
 twitter: '@AvonsideGroup'

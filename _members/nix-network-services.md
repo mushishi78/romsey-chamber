@@ -1,6 +1,6 @@
 ---
 title: Nix Network Services
-category: Business Services
+categories: [Business Services]
 telephone: 0800 1937700
 website: 'http://www.nixgroup.co.uk'
 city: Romsey

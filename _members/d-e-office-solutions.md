@@ -1,6 +1,6 @@
 ---
 title: D & E Office Solutions
-category: Business Services
+categories: [Business Services]
 email: mitch@deos.co.uk
 telephone: 0845 389 0390
 website: 'http://www.deos.co.uk'

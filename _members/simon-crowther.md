@@ -1,6 +1,6 @@
 ---
 title: Simon Crowther
-category: Business Services
+categories: [Business Services]
 email: simon@john-langford.com
 telephone: 07831 497489
 address1: Travers Farm

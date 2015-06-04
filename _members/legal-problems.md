@@ -1,6 +1,6 @@
 ---
 title: Legal Problems
-category: Business Services
+categories: [Business Services]
 email: inforomsey@footner-ewing.co.uk
 telephone: 01794 512345
 website: 'http://www.footner-ewing.co.uk/'

@@ -1,6 +1,6 @@
 ---
 title: Maxxia
-category: Business Services
+categories: [Business Services]
 email: tony.cuddeford@maxxia.co.uk
 telephone: 020 7520 9450
 website: 'http://www.maxxia.co.uk'

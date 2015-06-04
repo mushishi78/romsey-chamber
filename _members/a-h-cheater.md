@@ -1,6 +1,6 @@
 ---
 title: A H Cheater
-category: Trades Services
+categories: [Trades Services]
 telephone: 01794 513393
 website: 'http://www.ahcheater.co.uk/'
 email: 'peace@ahcheater.co.uk'

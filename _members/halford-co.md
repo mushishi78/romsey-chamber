@@ -1,6 +1,6 @@
 ---
 title: Halford & Co
-category: Business Services
+categories: [Business Services]
 email: keith@halfordaccounting.co.uk
 telephone: 01794 341607
 address1: Unit 14, Home Farm Business Centre

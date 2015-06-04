@@ -1,6 +1,6 @@
 ---
 title: Bibas Hair
-category: Trades Services
+categories: [Trades Services]
 telephone: 01794 523171
 address1: 54 The Hundred
 city: Romsey

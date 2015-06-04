@@ -1,6 +1,6 @@
 ---
 title: Romsey Waste Paper & Recycling
-category: Trades Services
+categories: [Trades Services]
 email: mail@romseywastepaper.co.uk
 telephone: 01794 367875
 website: 'http://www.romseywastepaper.co.uk/'

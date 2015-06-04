@@ -1,6 +1,6 @@
 ---
 title: G Burnett Joinery Ltd
-category: Trades Services
+categories: [Trades Services]
 email: gburnettjoinery@btconnect.com
 telephone: 01794 368031
 address1: Unit 31, Wynford Industrial Park
