@@ -21,7 +21,7 @@
             <th>Website:</th>
             <td>
               <a href='{{ include.details.website }}' itemprop='url' target='_blank'>
-                {{ include.details.website }}
+                {{ include.details.website | replace: 'http://', '' | replace: 'https://', '' }}
               </a>
             </td>
           </tr>

@@ -1,6 +1,6 @@
 ---
 title: Humbugs
-categories: 
+categories:
   - Food
   - Retail
 email: "humbugsofromsey@btinternet.com"
