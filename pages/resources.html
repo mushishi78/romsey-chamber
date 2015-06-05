@@ -6,26 +6,26 @@ categories:
   - Websites
 ---
 <main class='resources'>
-	<h2>Resources</h2>
+  <h2>Resources</h2>
 
-	{% for category in page.categories %}
-	  <section>
-	  	<h3>{{ category }}</h3>
+  {% for category in page.categories %}
+    <section>
+      <h3>{{ category }}</h3>
 
-	  	<ul>
-	    {% assign resources = site.resources | where: 'category', category %}
-	    {% for resource in resources %}
+      <ul>
+      {% assign resources = site.resources | where: 'category', category %}
+      {% for resource in resources %}
 
-	    	<li>
-		      <a href='{% if resource.download %}{{ site.cloudinary }}/raw/upload/{{ resource.download }}{% else %}{{ resource.link }}{% endif %}' target='_blank'>
-		      	{{ resource.title }}
-		      </a>
-		      {{ resource.content }}
-		    </li>
+        <li>
+          <a href='{% if resource.download %}{{ site.cloudinary }}/raw/upload/{{ resource.download }}{% else %}{{ resource.link }}{% endif %}' target='_blank'>
+            {{ resource.title }}
+          </a>
+          {{ resource.content }}
+        </li>
 
-	    {% endfor %}
-	    </ul>
+      {% endfor %}
+      </ul>
 
-	  </section>
-	{% endfor %}
+    </section>
+  {% endfor %}
 </main>

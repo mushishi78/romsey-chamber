@@ -1,0 +1,44 @@
+---
+layout: default
+permalink: /join/
+---
+
+<main class='join'>
+  <h2>Join</h2>
+  <section>
+    <h3>Become a Member</h3>
+    <p>Through the Chamber, members can access a range of services and support and be part of a community of business people working to ensure commercial prosperity.</p>
+    <a href='{{ site.cloudinary }}/raw/upload/membership-form.pdf'
+       target='_blank'>
+      <h2>Membership Form</h2>
+    </a>
+  </section>
+  <section>
+    <h3>Sign-up to our Mailing List</h3>
+    <p>Keep informed of the latest news and events happening in and around Romsey.</p>
+    <form action='http://romseychamber.us11.list-manage.com/subscribe/post'
+          method='POST'>
+      <input type='hidden' name='u' value='9ab877ec4e5ef49dd270f6ff8'>
+      <input type='hidden' name='id' value='ad31c7b1a2'>
+      <input type='hidden' name='group[3709][4]' value='1' />
+      <input type='hidden' name='group[3709][8]' value='1' />
+      <input type='hidden' name='group[3709][16]' value='1' />
+
+      <label for='MERGE0'>Email Address <span class='reqired'>*</span></label>
+      <input type='email' name='MERGE0' />
+
+      <label for='MERGE1'>First Name</label>
+      <input type='text' name='MERGE1' />
+
+      <label for='MERGE2'>Last Name</label>
+      <input type='text' name='MERGE2' />
+
+      <label for='MERGE3'>Company Name</label>
+      <input type='text' name='MERGE3' />
+
+      <!-- real people should not fill this in and expect good things -->
+      <input type='text' class='hide' name='b_9ab877ec4e5ef49dd270f6ff8_ad31c7b1a2' tabindex='-1' />
+      <input type='submit' name='submit' value='Subscribe to list'>
+    </form>
+  </section>
+</main>
