@@ -1,6 +1,6 @@
 ---
 title: Hamilton Parker Buckingham
-categories: 
+categories:
   - Trades Services
 telephone: 01794 5111212
 website: "http://www.hpbproperty.co.uk"
@@ -10,7 +10,6 @@ county: Hampshire
 postcode: SO51 8LA
 country: UK
 published: true
-category: Business Services
 email: "info@hpbproperty.co.uk"
 ---
 

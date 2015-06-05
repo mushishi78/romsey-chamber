@@ -357,8 +357,9 @@ prose:
     _members:
       - name: category
         field:
-          element: select
+          element: multiselect
           label: Category
+          alterable: true
           options:
             - value: Business Services
             - value: Food
