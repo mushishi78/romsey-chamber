@@ -1,4 +1,4 @@
-{% if include.details.organizer or include.details.website or include.details.facebook or include.details.twitter or include.details.telephone or include.details.email or include.details.address1 or include.details.address2 or include.details.postcode %}
+{% if include.details.organizer or include.details.website or include.details.facebook or include.details.twitter or include.details.linkedin or include.details.google-plus or include.details.instagram or include.details.youtube or include.details.ebay or include.details.pinterest or include.details.telephone or include.details.email or include.details.address1 or include.details.address2 or include.details.postcode %}
 
   {% if include.itemtype %}
   <section itemscope itemtype='http://schema.org/{{ include.itemtype }}'>
@@ -27,90 +27,50 @@
           </tr>
         {% endif %}
 
-        {% if include.details.facebook %}
+        {% if include.details.facebook or include.details.twitter or include.details.linkedin or include.details.google-plus or include.details.instagram or include.details.youtube or include.details.ebay %}
           <tr>
-            <th>Facebook:</th>
+            <th>Social Media:</th>
             <td>
-              <a href='{{ include.details.facebook }}' target='_blank'>
-                {{ include.details.facebook }}
-              </a>
-            </td>
-          </tr>
-        {% endif %}
-
-        {% if include.details.twitter %}
-          <tr>
-            <th>Twitter:</th>
-            <td>
-              <a href='https://twitter.com/{{ include.details.twitter | replace: '@', ''}}' target='_blank'>
-                {{ include.details.twitter }}
-              </a>
-            </td>
-          </tr>
-        {% endif %}
-
-        {% if include.details.linkedin %}
-          <tr>
-            <th>Linkedin:</th>
-            <td>
-              <a href='{{ include.details.linkedin }}' target='_blank'>
-                {{ include.details.linkedin }}
-              </a>
-            </td>
-          </tr>
-        {% endif %}
-
-        {% if include.details.google-plus %}
-          <tr>
-            <th>Google+:</th>
-            <td>
-              <a href='{{ include.details.google-plus }}' target='_blank'>
-                {{ include.details.google-plus }}
-              </a>
-            </td>
-          </tr>
-        {% endif %}
-
-        {% if include.details.instagram %}
-          <tr>
-            <th>Instagram:</th>
-            <td>
-              <a href='{{ include.details.instagram }}' target='_blank'>
-                {{ include.details.instagram }}
-              </a>
-            </td>
-          </tr>
-        {% endif %}
-
-        {% if include.details.youtube %}
-          <tr>
-            <th>YouTube:</th>
-            <td>
-              <a href='{{ include.details.youtube }}' target='_blank'>
-                {{ include.details.youtube }}
-              </a>
-            </td>
-          </tr>
-        {% endif %}
-
-        {% if include.details.ebay %}
-          <tr>
-            <th>eBay:</th>
-            <td>
-              <a href='{{ include.details.ebay }}' target='_blank'>
-                {{ include.details.ebay }}
-              </a>
-            </td>
-          </tr>
-        {% endif %}
-
-        {% if include.details.pinterest %}
-          <tr>
-            <th>Pinterest:</th>
-            <td>
-              <a href='{{ include.details.pinterest }}' target='_blank'>
-                {{ include.details.pinterest }}
-              </a>
+              {% if include.details.facebook %}
+                <a href='{{ include.details.facebook }}' target='_blank'>
+                  <img src='{{ site.cloudinary }}/facebook.png' />
+                </a>
+              {% endif %}
+              {% if include.details.twitter %}
+                <a href='https://twitter.com/{{ include.details.twitter | replace: '@', ''}}' target='_blank'>
+                  <img src='{{ site.cloudinary }}/twitter.png' />
+                </a>
+              {% endif %}
+              {% if include.details.linkedin %}
+                <a href='{{ include.details.linkedin }}' target='_blank'>
+                  <img src='{{ site.cloudinary }}/linkedin.png' />
+                </a>
+              {% endif %}
+              {% if include.details.google-plus %}
+                <a href='{{ include.details.google-plus }}' target='_blank'>
+                  <img src='{{ site.cloudinary }}/google-plus.png' />
+                </a>
+              {% endif %}
+              {% if include.details.instagram %}
+                <a href='{{ include.details.instagram }}' target='_blank'>
+                  <img src='{{ site.cloudinary }}/instagram.png' />
+                </a>
+              {% endif %}
+              {% if include.details.youtube %}
+                <a href='{{ include.details.youtube }}' target='_blank'>
+                  <img src='{{ site.cloudinary }}/youtube.png' />
+                </a>
+              {% endif %}
+              {% if include.details.ebay %}
+                <a href='{{ include.details.ebay }}' target='_blank'>
+                  <img src='{{ site.cloudinary }}/ebay.png' />
+                </a>
+              {% endif %}
+              {% if include.details.pinterest %}
+                <a href='{{ include.details.pinterest }}' target='_blank'>
+                  <img src='{{ site.cloudinary }}/pinterest.png' />
+                </a>
+              {% endif %}
             </td>
           </tr>
         {% endif %}
