@@ -1,6 +1,7 @@
 ---
 title: Hamilton Parker Buckingham
-categories: [Trades Services]
+categories: 
+  - Trades Services
 telephone: 01794 5111212
 website: "http://www.hpbproperty.co.uk"
 address1: 9 Latimer Walk
@@ -9,7 +10,10 @@ county: Hampshire
 postcode: SO51 8LA
 country: UK
 published: true
+category: Business Services
+email: "info@hpbproperty.co.uk"
 ---
+
 
 Hamilton Parker Buckingham was formed in August 2013 by Celeste Hamilton-Hannah and Craig Buckingham.
 
