@@ -355,10 +355,10 @@ prose:
           element: text
           label: Postcode
     _members:
-      - name: category
+      - name: categories
         field:
           element: multiselect
-          label: Category
+          label: Categories
           alterable: true
           options:
             - value: Business Services
