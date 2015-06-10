@@ -1,17 +1,119 @@
 ---
 layout: default
 permalink: /events/
+months: [January, February, March, April, May, June, July, August, September, October, November, December]
 ---
 <main class='events'>
-  <section class='feed'>
-    <h2>Events</h2>
-    <a href='/past-events' class='past-link'>Past Events</a>
-    <ul>
-      {% include events.html events=site.events %}
-    </ul>
-    <button onClick='loadMore()'>Load More</button>
-  </section>
+  <h2>Events</h2>
+  <nav>
+    <h2 id='topMonth'></h2>
+    <img src='{{ site.cloudinary }}/prev.png' onClick='prev()' />
+    <img src='{{ site.cloudinary }}/next.png' onClick='next()' />
+  </nav>
+
+  {% for event in site.events %}
+    {% assign year = event.date | date: "%Y" %}
+    {% assign month = event.date | date: "%B" %}
+
+    {% if year != current_year %}
+      {% assign new_year = true %}
+      {% assign current_year = year %}
+    {% else %}
+      {% assign new_year = false %}
+    {% endif %}
+
+    {% if month != current_month %}
+      {% assign new_month = true %}
+      {% assign current_month = month %}
+    {% else %}
+      {% assign new_month = false %}
+    {% endif %}
+
+    {% if new_year %}
+      {% if forloop.index != 1 %}
+              </div>
+            </section>
+          </div>
+        </article>
+      {% endif %}
+      <article class='y{{ year }}'>
+        <h3>{{ year}}</h3>
+        <div>
+    {% endif %}
+
+    {% if new_month %}
+      {% unless new_year %}
+          </div>
+        </section>
+      {% endunless %}
+      <section class='{{ month }} y{{ year }}'>
+        <h4>{{ month }}</h4>
+        <div>
+    {% endif %}
+
+      <a href='{{ event.url }}'>
+        <time class='day'>{{ event.date | date: "%d" }}</time>
+        {% if event.end-date %}
+          <time class='end-day'>-
+            {{ event.end-date | date: "%d" }}
+          </time>
+        {% endif %}
+
+        <div class='event-detail'>
+          <span>{{ event.title }}</span>
+
+          {% if event.start-time != '-' %}
+            <time class='time'>
+              {{ event.start-time }}{% if event.end-time != '-' %}-{{ event.end-time }}
+              {% endif %}
+            </time>
+          {% endif %}
+        </div>
+      </a>
+
+  {% endfor %}
+        </div>
+      </section>
+    </div>
+  </article>
 </main>
 
-{% include loadMore.html %}
-{% include hideEvents.html past=false limit=site.page_size %}
+<script>
+  var date = new Date();
+  var topMonth = document.getElementById('topMonth');
+  var months = ["{{ page.months | join: '", "' }}"];
+
+  setMonth(0);
+  function prev() { setMonth(-1); }
+  function next() { setMonth(1); }
+
+  function setMonth(diff) {
+    date.setMonth(date.getMonth() + diff);
+    topMonth.innerHTML = months[date.getMonth()];
+    showAll();
+
+    var currentYear = date.getFullYear();
+
+    for(var i = 2012; i < currentYear; i++) {
+      hide(document.querySelector('.y' + i));
+    }
+
+    for(var i = 0; i < date.getMonth(); i++) {
+      hide(document.querySelector('.' + months[i] + '.y' + currentYear));
+    }
+  }
+
+  function showAll() {
+    var elems = document.querySelectorAll('.hide');
+
+    for(var i = 0; i < elems.length; i++) {
+      elems[i].className = elems[i].className.replace(' hide', '');
+    }
+  }
+
+  function hide(elem) {
+    if(elem) {
+      elem.className = elem.className.replace(' hide', '') + ' hide';
+    }
+  }
+</script>

@@ -1,0 +1,99 @@
+.events {
+  padding: 5px 15px 0;
+  margin: 5px 3% 0;
+
+  h2 {
+    text-align: center;
+    margin: 0;
+  }
+
+  nav {
+    background: initial;
+    box-shadow: initial;
+    text-align: right;
+    margin: 0;
+
+    h2 {
+      display: inline-block;
+      font-size: 3.5em;
+      width: 3.5em;
+      text-align: right;
+    }
+
+    img {
+      cursor: pointer;
+    }
+  }
+
+  div { width: 100%; }
+
+  h4 {
+    text-align: center;
+    display: block;
+    width: 100%;
+  }
+
+  h3, h4, div {
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 0;
+    font-family: roboto;
+  }
+
+  a {
+    display: block;
+    color: initial;
+    text-decoration: initial;
+    padding: 5px 15px;
+    margin: 10px 1%;
+    background: #F2F2F2;
+    box-shadow: 0 0 1px 1px #aaa;
+  }
+
+  @media (#{$bp-larger-than-tablet}) {
+    div { width: 91.9%; }
+
+    h3, h4 {
+      -webkit-transform:rotate(-90deg);
+      -moz-transform:rotate(-90deg);
+      -o-transform: rotate(-90deg);
+      -ms-transform:rotate(-90deg);
+      transform: rotate(-90deg);
+      width: 4em;
+      text-align: right;
+      margin: 1.5em 0 0 -2.6em;
+    }
+
+    a {
+      display: inline-block;
+      vertical-align: top;
+      width: 6em;
+      min-height: 11em;
+    }
+  }
+
+  .day { font-size: 1.6em; }
+
+  .event-detail {
+    text-align: center;
+    font-size: 1.05em;
+  }
+
+  span, .time {
+    display: block;
+  }
+
+  section { border-left: 2px solid #000; }
+  section.January   { border-left-color: #99E; }
+  section.February  { border-left-color: #9E9; }
+  section.March     { border-left-color: #E99; }
+  section.April     { border-left-color: #E9E; }
+  section.May       { border-left-color: #EE9; }
+  section.June      { border-left-color: #9EE; }
+  section.July      { border-left-color: #E93; }
+  section.August    { border-left-color: #39E; }
+  section.September { border-left-color: #E39; }
+  section.October   { border-left-color: #EE3; }
+  section.November  { border-left-color: #E3E; }
+  section.December  { border-left-color: #33E; }
+}

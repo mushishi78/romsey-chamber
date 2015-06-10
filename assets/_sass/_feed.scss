@@ -7,11 +7,6 @@
     margin-bottom: 0;
   }
 
-  .past-link, .future-link {
-    display: block;
-    text-align: right;
-  }
-
   li {
     list-style: none;
     padding: 5px 5px 0;
@@ -36,9 +31,7 @@
   button { width: 100%; }
 }
 
-.news, .events {
-  li:hover {
-    background: #F2F2F2;
-    box-shadow: 0 0 1px 1px #ABABAB;
-  }
+.news li:hover {
+  background: #F2F2F2;
+  box-shadow: 0 0 1px 1px #ABABAB;
 }

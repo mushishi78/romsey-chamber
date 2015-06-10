@@ -52,4 +52,20 @@ permalink: /
   <a href='https://www.flickr.com/photos/16516058@N03/7871270868' target='_blank'>PapaPiper (Travelling)</a>
 </footer>
 
-{% include hideEvents.html past=false limit=3 %}
+<script>
+  (function(){
+    var events = document.querySelectorAll('.event');
+    var today = Date.now();
+    var show = 3;
+
+    for(var i = 0; i < events.length; i++) {
+      var date = Date.parse(events[i].getAttribute('data-date'));
+
+      if(date > today && show > 0) {
+        show -= 1;
+      } else {
+        events[i].className = events[i].className.concat(' hide');
+      }
+    }
+  })();
+</script>
