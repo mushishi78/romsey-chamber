@@ -2,9 +2,10 @@
 title: Romsey Footfall Figures
 date: "2015-05-08"
 published: true
+attachment: Romsey_Footfall_c1qzhy
 ---
 
-![]({{site.baseurl}}/Romsey_Footfall_c1qzhy)You might be interested to know that the footfall figures attached, which compare weekly totals for 2015 year to date with 2014, show a small growth of around 1.5%.
+You might be interested to know that the footfall figures attached, which compare weekly totals for 2015 year to date with 2014, show a small growth of around 1.5%.
 
 When this is compared with the falling figures in many other towns this can only be good news.
 
