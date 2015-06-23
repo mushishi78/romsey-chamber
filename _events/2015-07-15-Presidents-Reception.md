@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 "start-time": "19:00"
 "end-time": "-"
 email: "info@romseychamber.co.uk"
