@@ -1,5 +1,5 @@
 ---
-title: Foxy Frocks
+heading: Foxy Frocks
 categories: [Retail]
 email: foxyfrocks@btinternet.com
 telephone: 07738522804

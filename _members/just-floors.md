@@ -1,5 +1,5 @@
 ---
-title: Just Floors
+heading: Just Floors
 categories: [Trades Services]
 email: joanne@justfloors-ltd.co.uk
 telephone: 01794 519965

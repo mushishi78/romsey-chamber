@@ -1,5 +1,5 @@
 ---
-title: Caravan Solutions
+heading: Caravan Solutions
 categories: [Trades Services]
 email: info@caravansolutions.co.uk
 logo: 'caravan-solutions.png'

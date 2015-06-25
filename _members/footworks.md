@@ -1,5 +1,5 @@
 ---
-title: Footworks
+heading: Footworks
 categories: [Leisure]
 email: jmj100@alumni.soton.ac.uk
 telephone: 01794 523653

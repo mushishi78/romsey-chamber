@@ -1,5 +1,5 @@
 ---
-title: Romsey & District Chamber of Commerce and Industry AGM
+heading: Romsey & District Chamber of Commerce and Industry AGM
 date: '2014-05-07'
 start-time: '18:00'
 end-time: '-'

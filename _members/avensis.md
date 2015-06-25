@@ -1,5 +1,5 @@
 ---
-title: Avensis
+heading: Avensis
 categories: [Trades Services]
 telephone: 01794 515260
 address1: 29 Premier Way

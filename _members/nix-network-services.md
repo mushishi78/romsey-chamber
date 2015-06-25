@@ -1,5 +1,5 @@
 ---
-title: Nix Network Services
+heading: Nix Network Services
 categories: [Business Services]
 telephone: 0800 1937700
 website: 'http://www.nixgroup.co.uk'

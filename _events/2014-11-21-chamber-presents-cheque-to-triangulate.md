@@ -1,5 +1,5 @@
 ---
-title: Chamber presents cheque to Triangulate
+heading: Chamber presents cheque to Triangulate
 date: '2014-11-21'
 start-time: '-'
 end-time: '-'

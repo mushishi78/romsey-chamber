@@ -1,5 +1,5 @@
 ---
-title: Rum's Eg
+heading: Rum's Eg
 categories: [Not for Profit]
 website: 'http://www.rumseg.co.uk/'
 city: Romsey

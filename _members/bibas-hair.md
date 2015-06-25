@@ -1,5 +1,5 @@
 ---
-title: Bibas Hair
+heading: Bibas Hair
 categories: [Trades Services]
 telephone: 01794 523171
 address1: 54 The Hundred

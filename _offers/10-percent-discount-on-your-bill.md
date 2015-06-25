@@ -1,5 +1,5 @@
 ---
-title: 10% discount on your bill
+heading: 10% discount on your bill
 member: Naz's Cuisine
 ---
 And enjoy the experience of our 50 seater, comfortable and friendly Indian & Bangladeshi restaurant.

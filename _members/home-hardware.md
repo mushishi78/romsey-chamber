@@ -1,5 +1,5 @@
 ---
-title: Home Hardware
+heading: Home Hardware
 categories: [Retail]
 telephone: 01794 512141
 address1: 38-40 The Hundred

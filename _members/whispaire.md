@@ -1,5 +1,5 @@
 ---
-title: Whispaire
+heading: Whispaire
 categories: [Leisure]
 email: info@whispaire.co.uk
 telephone: 01794 523999

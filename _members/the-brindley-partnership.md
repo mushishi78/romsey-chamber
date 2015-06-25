@@ -1,5 +1,5 @@
 ---
-title: The Brindley Partnership
+heading: The Brindley Partnership
 categories: [Business Services]
 email: info@brindleypartnership.co.uk
 telephone: 01794 517667

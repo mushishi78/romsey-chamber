@@ -1,5 +1,5 @@
 ---
-title: Triangulate
+heading: Triangulate
 categories: [Not for Profit]
 email: info@triangulate.org.uk
 website: 'http://www.triangulate.org.uk/'

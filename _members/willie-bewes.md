@@ -1,5 +1,5 @@
 ---
-title: Willie Bewes
+heading: Willie Bewes
 categories: [Other Services]
 email: willie.bewes@romseychamber.co.uk
 telephone: 07768 915265

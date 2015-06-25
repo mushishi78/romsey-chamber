@@ -1,5 +1,5 @@
 ---
-title: "Fellas: Men's Hairdressers"
+heading: "Fellas: Men's Hairdressers"
 categories: [Leisure]
 telephone: 01794 331 450
 address1: 19 The Hundred

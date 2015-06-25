@@ -1,5 +1,5 @@
 ---
-title: Hamilton Parker Buckingham
+heading: Hamilton Parker Buckingham
 categories:
   - Trades Services
 telephone: 01794 5111212

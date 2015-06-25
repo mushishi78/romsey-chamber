@@ -1,5 +1,5 @@
 ---
-title: The Simply Finance Group
+heading: The Simply Finance Group
 categories: [Business Services]
 email: enquiries@simplyfinancegroup.com
 telephone: 0800 1218349 or 02380 382880

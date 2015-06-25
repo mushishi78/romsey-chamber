@@ -1,5 +1,5 @@
 ---
-title: Kit & Caboodle
+heading: Kit & Caboodle
 categories: [Retail]
 email: info@kit-and-caboodle.co.uk
 telephone: 01794 518359

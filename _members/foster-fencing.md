@@ -1,5 +1,5 @@
 ---
-title: Foster Fencing
+heading: Foster Fencing
 categories: [Retail]
 email: info@fosterfencing.co.uk
 telephone: 01794 367770

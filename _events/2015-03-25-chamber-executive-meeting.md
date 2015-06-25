@@ -1,5 +1,5 @@
 ---
-title: Chamber Executive Meeting
+heading: Chamber Executive Meeting
 date: '2015-03-25'
 start-time: '18:00'
 end-time: '-'

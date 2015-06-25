@@ -1,5 +1,5 @@
 ---
-title: Woolly and Wallis
+heading: Woolly and Wallis
 categories: [Trades Services]
 email: d.trentham@w-w.co.uk
 telephone: 01794 512129

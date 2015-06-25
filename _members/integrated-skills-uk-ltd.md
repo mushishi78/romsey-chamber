@@ -1,5 +1,5 @@
 ---
-title: Integrated Skills (UK) Ltd
+heading: Integrated Skills (UK) Ltd
 categories: [Business Services]
 telephone: +44 (0) 2380 737 983
 website: 'http://www.intergrated-skills.com'

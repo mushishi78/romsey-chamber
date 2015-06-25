@@ -1,5 +1,5 @@
 ---
-title: Footner & Ewing
+heading: Footner & Ewing
 categories: [Business Services]
 email: inforomsey@footner-ewing.co.uk
 telephone: 01794 512345

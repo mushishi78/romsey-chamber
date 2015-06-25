@@ -1,5 +1,5 @@
 ---
-title: Broadlands
+heading: Broadlands
 categories: [Leisure]
 telephone: 01794 529750
 logo: 'broadlands.png'

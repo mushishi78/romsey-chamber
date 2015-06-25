@@ -1,5 +1,5 @@
 ---
-title: C H Design (Europe) Ltd
+heading: C H Design (Europe) Ltd
 categories: [Trades Services]
 telephone: 01794 830444
 address1: 47 The Hundred

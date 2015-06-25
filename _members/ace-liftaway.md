@@ -1,5 +1,5 @@
 ---
-title: Ace Liftaway
+heading: Ace Liftaway
 categories: [Trades Services]
 telephone: 01794 367939
 logo: 'ace-liftaway.png'

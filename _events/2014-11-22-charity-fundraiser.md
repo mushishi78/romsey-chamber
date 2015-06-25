@@ -1,5 +1,5 @@
 ---
-title: Charity Fundraiser
+heading: Charity Fundraiser
 date: '2014-11-22'
 start-time: '19:30'
 end-time: '-'

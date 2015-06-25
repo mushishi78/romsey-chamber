@@ -1,5 +1,5 @@
 ---
-title: 'His & Kids'
+heading: 'His & Kids'
 categories: [Retail]
 telephone: 01794 515333
 address1: 4 Latimer Walk

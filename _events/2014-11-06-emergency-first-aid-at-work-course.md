@@ -1,5 +1,5 @@
 ---
-title: 'Emergency First Aid at Work course'
+heading: 'Emergency First Aid at Work course'
 date: '2014-11-06'
 start-time: '09:00'
 end-time: '17:00'

@@ -1,5 +1,5 @@
 ---
-title: Halford & Co
+heading: Halford & Co
 categories: [Business Services]
 email: keith@halfordaccounting.co.uk
 telephone: 01794 341607

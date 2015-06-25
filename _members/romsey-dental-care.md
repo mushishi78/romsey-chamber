@@ -1,5 +1,5 @@
 ---
-title: Romsey Dental Care
+heading: Romsey Dental Care
 categories: [Healthcare]
 website: 'http://www.romseydentalcare.co.uk/'
 telephone: 01794 522222

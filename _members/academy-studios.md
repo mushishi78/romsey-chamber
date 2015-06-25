@@ -1,5 +1,5 @@
 ---
-title: Academy Studios
+heading: Academy Studios
 categories: [Leisure]
 email: nikki.jones@academy-studios.com
 telephone: 01794 515129

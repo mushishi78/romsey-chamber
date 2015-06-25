@@ -1,5 +1,5 @@
 ---
-title: HSBC Bank
+heading: HSBC Bank
 categories: [Trades Services]
 address1: 10 Market Place
 city: Romsey

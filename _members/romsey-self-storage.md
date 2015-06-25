@@ -1,5 +1,5 @@
 ---
-title: Romsey Self Storage
+heading: Romsey Self Storage
 categories: [Business Services]
 email: info@romseyselfstorage.com
 telephone: 01794 367151

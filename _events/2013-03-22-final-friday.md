@@ -1,5 +1,5 @@
 ---
-title: Final Friday
+heading: Final Friday
 date: '2013-03-22'
 start-time: '17:30'
 end-time: '18:30'

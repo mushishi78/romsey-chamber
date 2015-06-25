@@ -1,5 +1,5 @@
 ---
-title: Invitation to an Evening Celebration
+heading: Invitation to an Evening Celebration
 date: '2014-11-06'
 start-time: '-'
 end-time: '-'

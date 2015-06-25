@@ -1,5 +1,5 @@
 ---
-title: Dementia Friendly Town
+heading: Dementia Friendly Town
 date: '2014-05-01'
 start-time: '14:30'
 end-time: '16:00'

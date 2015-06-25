@@ -1,5 +1,5 @@
 ---
-title: Medieval Banquet
+heading: Medieval Banquet
 date: '2015-04-25'
 start-time: '-'
 end-time: '-'

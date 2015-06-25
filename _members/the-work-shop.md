@@ -1,5 +1,5 @@
 ---
-title: The Work Shop
+heading: The Work Shop
 categories: [Business Services]
 email: shelly@thework-shop.co.uk
 telephone: 01425 489393

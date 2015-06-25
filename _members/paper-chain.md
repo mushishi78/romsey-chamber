@@ -1,5 +1,5 @@
 ---
-title: Paper Chain
+heading: Paper Chain
 categories: [Retail]
 city: Romsey
 county: Hampshire

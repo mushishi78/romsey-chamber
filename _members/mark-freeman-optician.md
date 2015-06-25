@@ -1,5 +1,5 @@
 ---
-title: Mark Freeman Optician
+heading: Mark Freeman Optician
 categories: [Retail]
 email: mfreemanfbdo@aol.com
 telephone: 01794 513953

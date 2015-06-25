@@ -1,5 +1,5 @@
 ---
-title: Paragons Personnel
+heading: Paragons Personnel
 categories: [Trades Services]
 telephone: 01794 524212
 website: 'http://www.paragons.co.uk'

@@ -1,5 +1,5 @@
 ---
-title: Hampshire Orthotics
+heading: Hampshire Orthotics
 categories: [Healthcare]
 city: Romsey
 county: Hampshire

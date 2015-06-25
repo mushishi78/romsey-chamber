@@ -1,5 +1,5 @@
 ---
-title: Shwop Til You Drop Fundraiser
+heading: Shwop Til You Drop Fundraiser
 date: '2014-10-16'
 start-time: '19:00'
 end-time: '-'

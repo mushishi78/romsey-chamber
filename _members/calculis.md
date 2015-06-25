@@ -1,5 +1,5 @@
 ---
-title: Calculis
+heading: Calculis
 categories: [Trades Services]
 email: info@calculis.co.uk
 telephone: 01794 525500

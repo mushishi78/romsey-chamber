@@ -1,5 +1,5 @@
 ---
-title: Brytech Construction Ltd
+heading: Brytech Construction Ltd
 categories: [Trades Services]
 email: chris@brytech.co.uk
 logo: 'brytech-construction-ltd.png'

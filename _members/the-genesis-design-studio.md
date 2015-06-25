@@ -1,5 +1,5 @@
 ---
-title: The Genesis Design Studio
+heading: The Genesis Design Studio
 categories: [Business Services]
 email: mail@thegenesisdesignstudio.com
 telephone: 01794 519333

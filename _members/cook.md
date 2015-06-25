@@ -1,5 +1,5 @@
 ---
-title: Cook
+heading: Cook
 categories: [Retail]
 telephone: 01794 329000
 website: 'http://www.cookfood.net/shops/romsey'

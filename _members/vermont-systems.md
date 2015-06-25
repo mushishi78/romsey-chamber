@@ -1,5 +1,5 @@
 ---
-title: Vermont Systems
+heading: Vermont Systems
 categories: [Business Services]
 city: Romsey
 county: Hampshire

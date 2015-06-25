@@ -1,5 +1,5 @@
 ---
-title: Pearsons
+heading: Pearsons
 categories: [Trades Services]
 email: romsey@pearsons.com
 telephone: 01794 514516

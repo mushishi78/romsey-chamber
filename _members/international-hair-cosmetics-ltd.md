@@ -1,5 +1,5 @@
 ---
-title: International Hair Cosmetics Ltd
+heading: International Hair Cosmetics Ltd
 categories: [Trades Services]
 email: sales@affinage.com
 telephone: 01794 527111

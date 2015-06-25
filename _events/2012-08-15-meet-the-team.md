@@ -1,5 +1,5 @@
 ---
-title: Meet the Team
+heading: Meet the Team
 date: '2012-08-15'
 start-time: '-'
 end-time: '-'

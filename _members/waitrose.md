@@ -1,5 +1,5 @@
 ---
-title: Waitrose
+heading: Waitrose
 categories: [Retail]
 website: 'http://www.waitrose.com'
 city: Romsey

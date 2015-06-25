@@ -1,5 +1,5 @@
 ---
-title: Dovetail Framing
+heading: Dovetail Framing
 categories: [Retail]
 email: info@dovetailframing.co.uk
 telephone: 01794 341274

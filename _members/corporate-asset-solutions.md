@@ -1,5 +1,5 @@
 ---
-title: Corporate Asset Solutions
+heading: Corporate Asset Solutions
 categories: [Business Services]
 telephone: 08452 799777
 logo: 'corporate-asset-solutions.png'

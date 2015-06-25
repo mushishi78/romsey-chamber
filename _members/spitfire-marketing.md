@@ -1,5 +1,5 @@
 ---
-title: Spitfire Marketing
+heading: Spitfire Marketing
 categories: [Business Services]
 email: 'http://www.spitfiremarketing.co.uk/'
 telephone: 01489 854716

@@ -1,5 +1,5 @@
 ---
-title: It's coming...Christmas Window Display Competition and Christmas Trees
+heading: It's coming...Christmas Window Display Competition and Christmas Trees
 date: '2014-10-28'
 ---
 Dear All,

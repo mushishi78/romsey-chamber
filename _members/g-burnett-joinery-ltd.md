@@ -1,5 +1,5 @@
 ---
-title: G Burnett Joinery Ltd
+heading: G Burnett Joinery Ltd
 categories: [Trades Services]
 email: gburnettjoinery@btconnect.com
 telephone: 01794 368031

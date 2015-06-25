@@ -1,5 +1,5 @@
 ---
-title: Just a Little Bit Different
+heading: Just a Little Bit Different
 categories: [Retail]
 email: justalittlebitdifferent@outlook.com
 telephone: 01794 515652

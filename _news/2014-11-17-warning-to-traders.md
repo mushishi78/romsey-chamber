@@ -1,5 +1,5 @@
 ---
-title: Warning to traders
+heading: Warning to traders
 date: '2014-11-17'
 ---
 Sadly COOK Romsey was a victim of burglary on Thursday 13th November during the night.

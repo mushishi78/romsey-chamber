@@ -1,5 +1,5 @@
 ---
-title: Nick Chivers
+heading: Nick Chivers
 categories: [Trades Services]
 email: nick.michell@iname.com
 telephone: 07887 943386

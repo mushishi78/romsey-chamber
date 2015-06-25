@@ -10,7 +10,7 @@ permalink: /news/
       {% for article in articles %}
       <li class='{% if forloop.index > site.page_size %}hide{% endif %}'>
         <a href='{{ article.url }}'>
-          <h3>{{ article.title }}</h3>
+          <h3>{{ article.heading }}</h3>
           <time>{{ article.date | date: "%A %d %b %Y"}}</time>
           <p>{{ article.content | strip_html | truncatewords: 100 }}</p>
         </a>

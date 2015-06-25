@@ -1,5 +1,5 @@
 ---
-title: Wisdom House
+heading: Wisdom House
 categories: [Not for Profit]
 city: Romsey
 county: Hampshire

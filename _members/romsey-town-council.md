@@ -1,5 +1,5 @@
 ---
-title: Romsey Town Council
+heading: Romsey Town Council
 categories: [Business Services]
 telephone: 01794 512837
 website: 'http://www.romseytowncouncil.hampshire.org.uk/'

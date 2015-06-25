@@ -1,5 +1,5 @@
 ---
-title: Romsey Chiropractic Clinic
+heading: Romsey Chiropractic Clinic
 categories: [Healthcare]
 ---
 Here at the Romsey Chiropractic Clinic, we provide first class care to people of all ages, from small children through to those enjoying their retirement years that present with a variety of musculoskeletal complaints.

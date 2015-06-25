@@ -1,5 +1,5 @@
 ---
-title: President's Reception - POSTPONED
+heading: President's Reception - POSTPONED
 date: '2013-06-10'
 ---
 This year's President's Reception **was due to take place** on Wednesday 17th July, 7pm at Horsebridge Station, Horsbridge, King Somborne, Nr Stockbridge, SO20 6PU.

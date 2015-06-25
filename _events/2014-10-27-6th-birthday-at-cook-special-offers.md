@@ -1,5 +1,5 @@
 ---
-title: 6th Birthday at COOK - special offers
+heading: 6th Birthday at COOK - special offers
 date: '2014-10-27'
 start-time: '-'
 end-time: '-'

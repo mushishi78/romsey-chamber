@@ -1,5 +1,5 @@
 ---
-title: The Star Inn
+heading: The Star Inn
 categories: [Leisure]
 telephone: 01794 511165
 website: 'http://www.thestarromsey.co.uk/'

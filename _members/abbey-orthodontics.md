@@ -1,5 +1,5 @@
 ---
-title: Abbey Orthodontics
+heading: Abbey Orthodontics
 categories: [Healthcare]
 email: 'info@abbeyorthodontics.co.uk'
 telephone: 01794 519589

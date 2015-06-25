@@ -1,5 +1,5 @@
 ---
-title: A Funny Thing Happened on the Way to the Forum
+heading: A Funny Thing Happened on the Way to the Forum
 date: '2014-10-13'
 start-time: '19:30'
 end-time: '-'

@@ -1,5 +1,5 @@
 ---
-title: Digital Media at IT Donut
+heading: Digital Media at IT Donut
 category: Websites
 link: 'http://www.itdonut.co.uk/'
 ---

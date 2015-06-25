@@ -1,5 +1,5 @@
 ---
-title: Asante Coffee Shop
+heading: Asante Coffee Shop
 categories: [Food]
 logo: 'asante-coffee-shop.png'
 website: 'http://www.asantecoffeeshop.co.uk'

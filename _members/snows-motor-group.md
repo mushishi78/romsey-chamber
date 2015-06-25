@@ -1,5 +1,5 @@
 ---
-title: Snows Motor Group
+heading: Snows Motor Group
 categories: [Retail]
 city: Romsey
 county: Hampshire

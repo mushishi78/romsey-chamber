@@ -1,5 +1,5 @@
 ---
-title: Romsey Amateur Operatic Dramatic Society
+heading: Romsey Amateur Operatic Dramatic Society
 categories: [Leisure]
 city: Romsey
 county: Hampshire

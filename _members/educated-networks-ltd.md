@@ -1,5 +1,5 @@
 ---
-title: Educated Networks Ltd
+heading: Educated Networks Ltd
 categories: [Business Services]
 email: info@educatednetworks.net
 telephone: 01794 323555 or 01794 324499

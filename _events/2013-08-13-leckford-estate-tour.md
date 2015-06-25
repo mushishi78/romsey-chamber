@@ -1,5 +1,5 @@
 ---
-title: Leckford Estate Tour
+heading: Leckford Estate Tour
 date: '2013-08-13'
 start-time: '-'
 end-time: '-'

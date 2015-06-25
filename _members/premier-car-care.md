@@ -1,5 +1,5 @@
 ---
-title: Premier Car Care
+heading: Premier Car Care
 categories: [Trades Services]
 email: service@pcc-premiercarcare.co.uk
 telephone: 01794 367852

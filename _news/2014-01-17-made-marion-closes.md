@@ -1,5 +1,5 @@
 ---
-title: Made Marion Closes
+heading: Made Marion Closes
 date: '2014-01-17'
 ---
 ## The doors finally close at MADE MARION

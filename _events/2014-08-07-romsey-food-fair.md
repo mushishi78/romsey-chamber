@@ -1,5 +1,5 @@
 ---
-title: Romsey Food Fair
+heading: Romsey Food Fair
 date: '2014-09-01'
 start-time: '10:00'
 end-time: '16:00'

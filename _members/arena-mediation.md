@@ -1,5 +1,5 @@
 ---
-title: Arena Mediation
+heading: Arena Mediation
 categories: [Trades Services]
 logo: 'arena-mediation.png'
 website: 'http://www.arenamediation.co.uk/'

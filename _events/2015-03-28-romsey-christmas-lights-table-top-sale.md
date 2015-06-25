@@ -1,5 +1,5 @@
 ---
-title: Romsey Christmas Lights Table Top Sale
+heading: Romsey Christmas Lights Table Top Sale
 date: '2015-03-28'
 start-time: '10:30'
 end-time: '12:30'

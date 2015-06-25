@@ -1,5 +1,5 @@
 ---
-title: Fire Safety Workshop
+heading: Fire Safety Workshop
 date: '2014-10-21'
 start-time: '18:00'
 end-time: '-'

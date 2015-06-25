@@ -1,5 +1,5 @@
 ---
-title: BML PRINT
+heading: BML PRINT
 categories: [Trades Services]
 email: info@bmlprint.co.uk
 telephone: 01794 518518

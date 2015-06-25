@@ -1,5 +1,5 @@
 ---
-title: White Horse Hotel & Brasserie
+heading: White Horse Hotel & Brasserie
 categories: [Leisure]
 city: Romsey
 county: Hampshire

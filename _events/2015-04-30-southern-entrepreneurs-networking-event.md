@@ -1,5 +1,5 @@
 ---
-title: Southern Entrepreneurs Networking Event
+heading: Southern Entrepreneurs Networking Event
 date: '2015-04-30'
 start-time: '19:00'
 end-time: '21:00'

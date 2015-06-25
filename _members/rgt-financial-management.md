@@ -1,5 +1,5 @@
 ---
-title: RGT Financial Management
+heading: RGT Financial Management
 categories: [Business Services]
 email: dick@rgtfm.co.uk
 address1: 7 Sorrell Close

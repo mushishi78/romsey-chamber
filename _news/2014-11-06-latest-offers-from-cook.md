@@ -1,5 +1,5 @@
 ---
-title: Latest offers from Cook...
+heading: Latest offers from Cook...
 date: '2014-11-06'
 ---
 **Get ready for Christmas at Cook!**

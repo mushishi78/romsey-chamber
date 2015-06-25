@@ -1,5 +1,5 @@
 ---
-title: Pro Tints
+heading: Pro Tints
 categories: [Trades Services]
 email: sales@pro-tints.co.uk
 telephone: 01794 367088

@@ -1,5 +1,5 @@
 ---
-title: Late Night Shopping
+heading: Late Night Shopping
 date: '2014-12-05'
 start-time: '17:15'
 end-time: '19:30'

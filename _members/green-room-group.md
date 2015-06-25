@@ -1,5 +1,5 @@
 ---
-title: Green Room Group
+heading: Green Room Group
 categories: [Business Services]
 email: direct@greenroomgroup.co.uk
 telephone: 02381 097 097

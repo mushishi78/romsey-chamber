@@ -1,5 +1,5 @@
 ---
-title: Basepoint Business Centre
+heading: Basepoint Business Centre
 categories: [Business Services]
 telephone: 01794 513080
 logo: 'basepoint-business-centre.png'

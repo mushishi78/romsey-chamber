@@ -1,5 +1,5 @@
 ---
-title: The Consortium
+heading: The Consortium
 categories: [Retail]
 city: Romsey
 county: Hampshire

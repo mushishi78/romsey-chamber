@@ -1,5 +1,5 @@
 ---
-title: Berties Restaurant
+heading: Berties Restaurant
 categories: [Food]
 email: 'info@berties.co.uk'
 telephone: 01794 83070880

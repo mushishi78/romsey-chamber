@@ -1,5 +1,5 @@
 ---
-title: F W Kersey & Son
+heading: F W Kersey & Son
 categories: [Retail]
 email: china@kerseyandson.co.uk
 telephone: 01794 512230

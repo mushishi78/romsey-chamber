@@ -1,5 +1,5 @@
 ---
-title: Dish Deli & Kitchen
+heading: Dish Deli & Kitchen
 categories: [Retail]
 telephone: 01794 513663
 website: 'http://www.dishdelikitchen.co.uk'

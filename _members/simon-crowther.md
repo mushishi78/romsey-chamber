@@ -1,5 +1,5 @@
 ---
-title: Simon Crowther
+heading: Simon Crowther
 categories: [Business Services]
 email: simon@john-langford.com
 telephone: 07831 497489

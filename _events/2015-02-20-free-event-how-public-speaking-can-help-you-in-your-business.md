@@ -1,5 +1,5 @@
 ---
-title: 'Free event: How public speaking can help you in your business'
+heading: 'Free event: How public speaking can help you in your business'
 date: '2015-02-25'
 start-time: '7:30'
 end-time: '-'

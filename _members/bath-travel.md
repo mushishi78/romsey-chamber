@@ -1,5 +1,5 @@
 ---
-title: Bath Travel
+heading: Bath Travel
 categories: [Trades Services]
 email: romsey@bathtravel.com
 telephone: 01794 517700

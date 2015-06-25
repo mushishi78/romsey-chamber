@@ -1,5 +1,5 @@
 ---
-title: Meet the Hampshire Chamber
+heading: Meet the Hampshire Chamber
 date: '2013-05-29'
 start-time: '-'
 end-time: '-'

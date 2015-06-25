@@ -1,5 +1,5 @@
 ---
-title: D N WHITE OPTICIANS
+heading: D N WHITE OPTICIANS
 categories: [Retail]
 email: dnwhite@romseyoptician.co.uk
 website: 'http://www.romseyoptician.co.uk'

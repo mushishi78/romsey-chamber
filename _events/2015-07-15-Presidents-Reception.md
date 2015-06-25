@@ -1,5 +1,5 @@
 ---
-title: "President's Reception"
+heading: "President's Reception"
 start-time: '19:00'
 end-time: '-'
 email: 'info@romseychamber.co.uk'

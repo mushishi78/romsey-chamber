@@ -1,5 +1,5 @@
 ---
-title: Flack Manor Brewery
+heading: Flack Manor Brewery
 categories: [Trades Services]
 email: info@flackmanor.co.uk
 telephone: 01794 518 520

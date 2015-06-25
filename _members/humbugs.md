@@ -1,5 +1,5 @@
 ---
-title: Humbugs
+heading: Humbugs
 categories:
   - Food
   - Retail

@@ -1,5 +1,5 @@
 ---
-title: Made Marion
+heading: Made Marion
 categories: [Leisure]
 telephone: 01794 513173
 address1: 47 The Hundred

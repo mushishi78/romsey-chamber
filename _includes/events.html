@@ -1,7 +1,7 @@
 {% for event in include.events %}
 <li class='event' data-date='{{ event.date }}'>
   <a href='{{ event.url }}'>
-    <h3>{{ event.title }}</h3>
+    <h3>{{ event.heading }}</h3>
     <time>
       {{ event.date | date: "%d %B" }}
 

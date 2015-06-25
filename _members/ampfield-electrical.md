@@ -1,5 +1,5 @@
 ---
-title: Ampfield Electrical
+heading: Ampfield Electrical
 categories: [Trades Services]
 logo: 'ampfield-electrical.png'
 telephone: 023 8073 1205

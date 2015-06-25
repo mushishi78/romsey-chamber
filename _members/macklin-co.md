@@ -1,5 +1,5 @@
 ---
-title: Macklin & Co
+heading: Macklin & Co
 categories: [Business Services]
 address1: Top Floor, Buckley House
 address2: 31A The Hundred

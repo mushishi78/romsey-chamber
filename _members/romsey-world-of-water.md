@@ -1,5 +1,5 @@
 ---
-title: Romsey World of Water
+heading: Romsey World of Water
 categories: [Leisure]
 email: general@romseyworldofwater.co.uk
 telephone: 01794 515923

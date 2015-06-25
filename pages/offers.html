@@ -6,11 +6,11 @@ permalink: /offers/
 <main class='offers'>
   <h2>Member to Member Offers</h2>
   {% for offer in site.offers %}
-    {% assign member = site.members | where: 'title', offer.member | first %}
+    {% assign member = site.members | where: 'heading', offer.member | first %}
 
     <section>
-      <h3>{{ offer.title }}</h3>
-      <h4><a href='{{ member.url }}'>{{ member.title }}</a></h4>
+      <h3>{{ offer.heading }}</h3>
+      <h4><a href='{{ member.url }}'>{{ member.heading }}</a></h4>
       {{ offer.content }}
     </section>
 

@@ -1,5 +1,5 @@
 ---
-title: Naz's Cuisine
+heading: Naz's Cuisine
 categories: [Food]
 website: 'http://www.nazs-cuisine.com/'
 email: reservations@nazs-cuisine.com

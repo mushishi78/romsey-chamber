@@ -1,5 +1,5 @@
 ---
-title: Final Friday Network
+heading: Final Friday Network
 date: '2012-10-26'
 start-time: '17:30'
 end-time: '18:30'

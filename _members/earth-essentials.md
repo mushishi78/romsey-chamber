@@ -1,5 +1,5 @@
 ---
-title: Earth Essentials
+heading: Earth Essentials
 categories: [Retail]
 address1: Watermill Studios
 address2: 48 Middlebridge Street

@@ -1,5 +1,5 @@
 ---
-title: Green Room Acupuncture
+heading: Green Room Acupuncture
 categories: [Healthcare]
 email: debbie.saunders@gmail.com
 telephone: 02380 812694

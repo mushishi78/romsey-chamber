@@ -1,5 +1,5 @@
 ---
-title: The Daisy Cake Company
+heading: The Daisy Cake Company
 categories: [Food]
 email: info@daisycakecompany.co.uk
 telephone: 0845 474 2253

@@ -1,5 +1,5 @@
 ---
-title: Peppercorn Natural Foods
+heading: Peppercorn Natural Foods
 categories: [Retail]
 telephone: 01794 513499
 address1: 11 Latimer Street

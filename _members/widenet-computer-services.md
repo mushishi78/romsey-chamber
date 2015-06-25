@@ -1,5 +1,5 @@
 ---
-title: Widenet Computer Services
+heading: Widenet Computer Services
 categories: [Trades Services]
 city: Romsey
 county: Hampshire

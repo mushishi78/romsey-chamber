@@ -1,5 +1,5 @@
 ---
-title: A H Cheater
+heading: A H Cheater
 categories: [Trades Services]
 telephone: 01794 513393
 website: 'http://www.ahcheater.co.uk/'

@@ -1,5 +1,5 @@
 ---
-title: Fire Care Solutions
+heading: Fire Care Solutions
 categories: [Trades Services]
 telephone: 08451 770 772
 website: 'http://www.firecaresolutions.co.uk'

@@ -1,5 +1,5 @@
 ---
-title: Wilkins Kennedy Chart'd Accountants
+heading: Wilkins Kennedy Chart'd Accountants
 categories: [Business Services]
 email: romsey@wilkinskennedy.com
 telephone: +44 (0)1794 515441

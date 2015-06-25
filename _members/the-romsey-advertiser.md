@@ -1,5 +1,5 @@
 ---
-title: The Romsey Advertiser
+heading: The Romsey Advertiser
 categories: [Trades Services]
 city: Romsey
 county: Hampshire

@@ -1,5 +1,5 @@
 ---
-title: La Parisienne
+heading: La Parisienne
 categories: [Food]
 telephone: 01794 512067
 website: 'http://www.la-parisienne.co.uk'

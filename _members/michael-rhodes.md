@@ -1,5 +1,5 @@
 ---
-title: Michael Rhodes
+heading: Michael Rhodes
 categories: [Retail]
 email: c.riley@michaelrhodes.co.uk
 telephone: 01794 514455

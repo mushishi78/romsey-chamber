@@ -21,7 +21,7 @@ permalink: /members/
   <section>
     {% for member in site.members %}
       <a href='{{ member.url }}' id='member{{ forloop.index0 }}'>
-        {{ member.title }}
+        {{ member.heading }}
       </a>
     {% endfor %}
   </section>
@@ -29,7 +29,7 @@ permalink: /members/
 
 <script>
   var totals = {};
-  var titles = ["{{ site.members | map: 'title' | join: '", "' }}"];
+  var headings = ["{{ site.members | map: 'heading' | join: '", "' }}"];
   var categories = [{% for member in site.members %}["{{ member.categories | join: '", "' }}"],{% endfor %}];
 
   for(var i = 0; i < categories.length; i++) {
@@ -85,8 +85,8 @@ permalink: /members/
       select(allHeading);
     } else {
       select(input);
-      for(var i = 0; i < titles.length; i++) {
-        if(!titles[i].match(new RegExp(input.value, 'i'))) { hide(i); }
+      for(var i = 0; i < headings.length; i++) {
+        if(!headings[i].match(new RegExp(input.value, 'i'))) { hide(i); }
       }
     }
   }

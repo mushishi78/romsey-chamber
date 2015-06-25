@@ -1,5 +1,5 @@
 ---
-title: 140 members and guests enjoy the Summer Reception
+heading: 140 members and guests enjoy the Summer Reception
 date: '2014-07-25'
 ---
 This year's reception was held on a warm evening at The Water Gardens in Romsey.

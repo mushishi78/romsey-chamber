@@ -1,5 +1,5 @@
 ---
-title: Hampshire Mobility Services
+heading: Hampshire Mobility Services
 categories: [Healthcare]
 email: 'info@hampshiremobilityservices.co.uk'
 website: 'http://www.hampshiremobilityservices.co.uk'

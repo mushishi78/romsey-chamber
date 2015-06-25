@@ -1,5 +1,5 @@
 ---
-title: RRBF - Romsey Tourism
+heading: RRBF - Romsey Tourism
 date: '2013-06-11'
 start-time: '-'
 end-time: '-'

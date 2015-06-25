@@ -1,5 +1,5 @@
 ---
-title: Nightingale Cars
+heading: Nightingale Cars
 categories: [Trades Services]
 email: nightingalecars@gmail.com
 website: 'http://www.nightingalecars.com'

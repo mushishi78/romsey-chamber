@@ -1,5 +1,5 @@
 ---
-title: Itchen Sash Windows
+heading: Itchen Sash Windows
 categories: [Trades Services]
 email: contact@sash-windows-uk.com
 telephone: 0800 458 5642

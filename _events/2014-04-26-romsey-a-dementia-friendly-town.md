@@ -1,5 +1,5 @@
 ---
-title: Romsey a Dementia Friendly Town
+heading: Romsey a Dementia Friendly Town
 date: '2014-04-26'
 start-time: '-'
 end-time: '-'

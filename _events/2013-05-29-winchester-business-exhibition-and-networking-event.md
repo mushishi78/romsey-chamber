@@ -1,5 +1,5 @@
 ---
-title: Winchester Business Exhibition and Networking Event
+heading: Winchester Business Exhibition and Networking Event
 date: '2013-05-29'
 start-time: '-'
 end-time: '-'

@@ -1,5 +1,5 @@
 ---
-title: Lantern Project Public Meeting
+heading: Lantern Project Public Meeting
 date: '2015-02-26'
 start-time: '19:30'
 end-time: '-'

@@ -1,5 +1,5 @@
 ---
-title: OptimHome
+heading: OptimHome
 categories: [Trades Services]
 email: 'steve.gilmore@optimhome.co.uk'
 telephone: 01794 514545

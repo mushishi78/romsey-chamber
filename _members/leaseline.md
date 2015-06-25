@@ -1,5 +1,5 @@
 ---
-title: Leaseline
+heading: Leaseline
 categories: [Retail]
 telephone: 02380 019108
 website: 'http://www.leaseline-southampton.co.uk/'

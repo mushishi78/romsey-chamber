@@ -1,5 +1,5 @@
 ---
-title: RRBF Evening Meeting
+heading: RRBF Evening Meeting
 date: '2013-06-11'
 start-time: '18:00'
 end-time: '19:30'

@@ -1,5 +1,5 @@
 ---
-title: Ashford Bridge
+heading: Ashford Bridge
 date: '2013-05-26'
 ---
 Last week the Advertiser reported on the Romsey Forum meeting at which discussed the closure of the A27 at the between The Rapids and the Ashfield Roundabout to permit the reconstruction of the railway bridge. It was reported that tempers flared.

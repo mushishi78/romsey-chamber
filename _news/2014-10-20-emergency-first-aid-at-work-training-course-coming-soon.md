@@ -1,5 +1,5 @@
 ---
-title: Emergency First Aid at Work Training Course - Coming Soon
+heading: Emergency First Aid at Work Training Course - Coming Soon
 date: '2014-10-20'
 ---
 Dear All,

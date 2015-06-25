@@ -1,5 +1,5 @@
 ---
-title: SLK Associates
+heading: SLK Associates
 categories: [Business Services]
 email: info@slkassociates.com
 telephone: 0800 566 8350

@@ -1,5 +1,5 @@
 ---
-title: Mayor of Winchester Charity Events
+heading: Mayor of Winchester Charity Events
 date: '2015-02-14'
 start-time: '-'
 end-time: '-'

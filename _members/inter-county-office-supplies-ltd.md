@@ -1,5 +1,5 @@
 ---
-title: Inter County Office Supplies Ltd
+heading: Inter County Office Supplies Ltd
 categories: [Trades Services]
 email: sales@icosgroup.com
 telephone: 0800 731 6721

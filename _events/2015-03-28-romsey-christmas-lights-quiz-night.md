@@ -1,5 +1,5 @@
 ---
-title: Romsey Christmas Lights Quiz Night
+heading: Romsey Christmas Lights Quiz Night
 date: '2015-03-28'
 start-time: '19:00'
 end-time: '00:00'

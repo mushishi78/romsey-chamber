@@ -1,5 +1,5 @@
 ---
-title: Michelle Shergill Legal
+heading: Michelle Shergill Legal
 categories: [Business Services]
 telephone: 01794 329262
 website: 'http://www.shergilllegal.co.uk/'

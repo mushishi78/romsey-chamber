@@ -1,5 +1,5 @@
 ---
-title: Festival of Wellbeing
+heading: Festival of Wellbeing
 date: '2014-03-29'
 start-time: '10:00'
 end-time: '14:00'

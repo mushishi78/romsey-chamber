@@ -1,5 +1,5 @@
 ---
-title: RRBF Evening Social
+heading: RRBF Evening Social
 date: '2014-04-08'
 start-time: '18:00'
 end-time: '-'
