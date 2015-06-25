@@ -1,10 +1,15 @@
 ---
 heading: "President's Reception"
+date: '2015-07-15'
 start-time: '19:00'
 end-time: '-'
 email: 'info@romseychamber.co.uk'
-place: mill-water-gardens
-date: '2015-07-15'
+address1: Mill Water Gardens
+address2: Mill Lane
+city: Romsey
+county: Hampshire
+country: UK
+postcode: SO51 8EQ
 ---
 Dress Code:	Lounge Suits/Blazers and Boaters
 

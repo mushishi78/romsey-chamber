@@ -314,6 +314,7 @@ prose:
           element: select
           label: Place
           options:
+            - value: '-'
             - name: Basepoint
               value: basepoint
             - name: Broadlands
@@ -324,8 +325,6 @@ prose:
               value: crosfield-hall
             - name: "King John's House"
               value: king-johns-house
-            - name: Mill Water Gardens
-              value: mill-water-gardens
             - name: Plaza Theatre
               value: plaza-theatre
             - name: "Rum's Eg"

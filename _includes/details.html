@@ -1,4 +1,10 @@
-{% if include.details.organizer or include.details.website or include.details.facebook or include.details.twitter or include.details.linkedin or include.details.google-plus or include.details.instagram or include.details.youtube or include.details.ebay or include.details.pinterest or include.details.telephone or include.details.email or include.details.address1 or include.details.address2 or include.details.postcode %}
+{% if include.details.place and include.details.place != '-' %}
+  {% assign address = site.data.places[include.details.place] %}
+{% else %}
+  {% assign address = include.details %}
+{% endif %}
+
+{% if include.details.organizer or include.details.website or include.details.facebook or include.details.twitter or include.details.linkedin or include.details.google-plus or include.details.instagram or include.details.youtube or include.details.ebay or include.details.pinterest or include.details.telephone or include.details.email or address.postcode %}
 
   {% if include.itemtype %}
   <section itemscope itemtype='http://schema.org/{{ include.itemtype }}'>
@@ -91,12 +97,6 @@
               </a>
             </td>
           </tr>
-        {% endif %}
-
-        {% if include.details.place %}
-          {% assign address = site.data.places[include.details.place] %}
-        {% else %}
-          {% assign address = include.details %}
         {% endif %}
 
         {% if address.postcode %}
