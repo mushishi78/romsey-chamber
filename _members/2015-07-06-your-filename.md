@@ -12,6 +12,7 @@ address2: Broadwater Road
 postcode: SO51 8PJ
 website: www.thestudioromsey.co.uk
 telephone: 01794 511 800
+twitter: "@TheStudioRomsey"
 ---
 
 ## The Studio
