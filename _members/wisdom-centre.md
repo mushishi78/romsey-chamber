@@ -1,5 +1,5 @@
 ---
-heading: Wisdom House
+heading: Wisdom Centre
 categories: 
   - Leisure
 city: Romsey
