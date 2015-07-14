@@ -5,6 +5,7 @@ date: "2015-07-14"
 attachment: Enterprise_First_Support_for_Business_nm6m6r.pdf
 ---
 
+
 ## Enterprise First - Support for Business
 
 New FREE services for Romsey Businesses
@@ -15,6 +16,3 @@ Test Valley Borough Council working with Romsey Town Council would like to provi
 - Free Access to bank of useful information and services
 See the attachment for further information and your chance to make an appointment.
 [Enterprise_First_Support_for_Business_nm6m6r.pdf](Enterprise_First_Support_for_Business_nm6m6r.pdf "Enterprise First Support for Businesses")
-
-
-
