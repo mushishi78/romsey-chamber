@@ -2,8 +2,9 @@
 heading: Romsey Lantern Parade
 date: "2015-12-04"
 attachment: ""
-published: false
+published: true
 ---
+
 
 ## Romsey Lantern Parade
 
