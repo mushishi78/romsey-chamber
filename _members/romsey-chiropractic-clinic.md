@@ -11,8 +11,19 @@ telephone: 01794 519330
 address1: 3 Abbey Walk
 address2: Church Street
 postcode: SO51 5QF
-logo: RCC_Logo_JPEG_x9az0p.jpg
+logo: RCC_Logo_JPEG_ppfz7u
+email: ""
+"opening-hours": null
+facebook: ""
+twitter: ""
+linkedin: ""
+"google-plus": ""
+instagram: ""
+youtube: ""
+ebay: ""
+pinterest: ""
 ---
+
 
 A friendly dedicated practice in the heart of Romsey that specialises in the diagnosis, treatment and management of mechanical low back and neck pain , as well as musculoskeletal complaints affecting the upper and lower limbs.
 
