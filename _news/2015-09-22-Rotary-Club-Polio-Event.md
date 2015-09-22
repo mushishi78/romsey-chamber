@@ -2,12 +2,12 @@
 heading: The Rotary Club Polio Event
 date: "2015-09-22"
 attachment: " Polio_Poster_from_20151003_oggvrw.pdf"
-published: false
+published: true
 ---
+
 
 ## The Rotary Club Polio Event
 
-[Polio Poster]( Polio_Poster_from_20151003_oggvrw.pdf)
 
 The Rotary Club movement worldwide has spent many years and millions of pounds trying to eliminate POLIO. We are VERY nearly there!
 
@@ -21,4 +21,3 @@ This year Romsey Test Rotary Club are giving away packs of "Purple Pinky Crocuse
 This will be taking place for a short time in The Town Centre on the morning of Saturday 3rd October.
 
 Click above to see a poster about this. We urge anyone who can to print this out and display it in their windows to help spread the word.
-
