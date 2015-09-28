@@ -12,7 +12,8 @@ city: Romsey
 county: Hampshire
 country: UK
 postcode: SO51 7NG
-"opening-hours": null
+"opening-hours": 
+  - "null"
 facebook: ""
 twitter: ""
 linkedin: ""
@@ -21,8 +22,9 @@ instagram: ""
 youtube: ""
 ebay: ""
 pinterest: ""
-published: false
+published: true
 ---
+
 
 Samantha James Design is a new  Interior Design business Romsey, Hampshire.
 A love of Interior Design started 30 years ago for its owner Tracy Mawdsley when she purchased her first property and realised she had a natural talent for styling and decorating and an eye for detail in  re-upholstery, and making her own soft furnishings.
