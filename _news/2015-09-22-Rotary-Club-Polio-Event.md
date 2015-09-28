@@ -1,9 +1,10 @@
 ---
 heading: The Rotary Club Polio Event
 date: "2015-09-22"
-attachment: " Polio_Poster_from_20151003_oggvrw.pdf"
+attachment: Polio_Poster_from_20151003_oggvrw.pdf
 published: true
 ---
+
 
 
 
