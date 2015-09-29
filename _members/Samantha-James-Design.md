@@ -3,7 +3,7 @@ heading: Samantha James Design
 categories: 
   - Retail
 logo: Samantha_James_Design_fu5oli
-email: "t.mawdsley620@btinternet.com"
+email: "samanthajamesdesign@yahoo.co.uk"
 telephone: " 07984 684081"
 website: "http://www.samanthajamesdesign.com/"
 address1: Hill House
@@ -14,16 +14,17 @@ country: UK
 postcode: SO51 7NG
 "opening-hours": 
   - "null"
-facebook: ""
+facebook: "https://www.facebook.com/Samanthajamesdesign.co.uk/"
 twitter: ""
-linkedin: ""
+linkedin: "https://www.linkedin.com/in/samanthajamesdesign "
 "google-plus": ""
-instagram: ""
+instagram: "https://Instagram.com/samanthajamesdesign "
 youtube: ""
 ebay: ""
-pinterest: ""
+pinterest: "https://www.pinterest.com/tracymawdsley/https://www.pinterest.com/tracymawdsley/"
 published: true
 ---
+
 
 
 
