@@ -30,6 +30,7 @@ published: true
 
 
 
+
 Samantha James Design is a new  Interior Design business Romsey, Hampshire.
 A love of Interior Design started 30 years ago for its owner Tracy Mawdsley when she purchased her first property and realised she had a natural talent for styling and decorating and an eye for detail in  re-upholstery, and making her own soft furnishings.
 She continued in styling and decorating homes since 1985 for herself, friends and family and also on a freelance basis, but realised if she wanted to do this on a professional basis she would need to get qualifications.
