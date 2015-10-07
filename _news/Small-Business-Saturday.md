@@ -1,7 +1,7 @@
 ---
 heading: Small Business Saturday
 date: "2015-10-07"
-attachment: "Small-Business-Saturday-UK-2015-Blue-250_lwbwmz"
+attachment: ""
 published: true
 ---
 
