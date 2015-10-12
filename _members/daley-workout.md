@@ -12,7 +12,8 @@ city: Romsey
 county: Hampshire
 country: UK
 postcode: ""
-"opening-hours": null
+"opening-hours": 
+  - "null"
 facebook: "https://www.facebook.com/daleyworkout"
 twitter: ""
 linkedin: ""
@@ -21,9 +22,10 @@ instagram: ""
 youtube: ""
 ebay: ""
 pinterest: ""
-published: false
+published: true
 ---
+
 
 “Supporting the community in achieving a Healthy Active Lifestyle – one person at a time”
 We provide fitness and nutritional evaluations to help people reach their goals and support them throughout their journey. 
-We are part of the Herbalife family and offer their world leading supplements designed for inner and outer nutrition.   
+We are part of the Herbalife family and offer their world leading supplements designed for inner and outer nutrition.
