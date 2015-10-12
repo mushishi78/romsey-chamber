@@ -1,6 +1,6 @@
 ---
-heading: ""
-date: ""
+heading: Halloween Poster
+date: "2015-10-12"
 attachment: ""
 published: true
 ---
