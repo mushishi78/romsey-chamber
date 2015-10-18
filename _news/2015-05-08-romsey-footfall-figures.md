@@ -5,6 +5,7 @@ published: true
 attachment: "romsey-footfall.pdf"
 ---
 
+
 You might be interested to know that the footfall figures attached, which compare weekly totals for 2015 year to date with 2014, show a small growth of around 1.5%.
 
 When this is compared with the falling figures in many other towns this can only be good news.
