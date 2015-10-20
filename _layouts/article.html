@@ -8,7 +8,7 @@ layout: default
 
   {% if page.attachment %}
     <div class='attachment'>Attachment:
-      <a href='{{ site.cloudinary }}/raw/upload/{{ page.attachment }}'>
+      <a href='{{ site.cloudinary }}/raw/upload/{{ page.attachment | strip }}'>
         {{ page.attachment }}
       </a>
     </div>

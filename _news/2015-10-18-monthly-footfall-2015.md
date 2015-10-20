@@ -1,11 +1,9 @@
 ---
 heading: Romsey Footfall 2015
 date: "2015-10-18"
-attachment: 2015_Romsey_Footfall_uhoosq.pdf
+attachment: '2015_Romsey_Footfall_uhoosq.pdf'
 published: true
 ---
-
-
 ## A New Post
 
 We have received the following from Mark Edgerley, the Town Centre Manager:
@@ -19,4 +17,3 @@ I am not sure we are doing anything different than 2013 when in almost every mon
 Do not become depressed! These figure are much healthier than Andover where considerably more investment is made to draw people into the town but they have signifigant out of town centre shopping areas.
 
 Just a reminder, these are not absolute numbers as we only have a single footfall sensor in the Hundred – will refine this report for wider distribution when I get a moment.
-![Footfall Graph](http://res.cloudinary.com/romsey-chamber/Romsey_Footfall_2015_yosynl.jpg)
