@@ -1,22 +1,14 @@
 ---
 heading: The Rotary Club Polio Event
 date: "2015-09-22"
-attachment: Polio_Poster_from_20151003_oggvrw.pdf
+attachment: 'Polio_Poster_from_20151003_oggvrw.pdf'
 published: true
 ---
-
-
-
-
-## The Rotary Club Polio Event
-
-[Polio Poster](Polio_Poster_from_20151003_oggvrw.pdf)
 The Rotary Club movement worldwide has spent many years and millions of pounds trying to eliminate POLIO. We are VERY nearly there!
 
-Children who have had the vaccination against POLIO have their little finger dipped in a purple dye to show they have been treated - "a purple pinky". 
+Children who have had the vaccination against POLIO have their little finger dipped in a purple dye to show they have been treated - "a purple pinky".
 
-
-To celebrate this fantastic achievement of nearly eliminating POLIO, Rotary Clubs plant "purple pinky" crocuses each year. 
+To celebrate this fantastic achievement of nearly eliminating POLIO, Rotary Clubs plant "purple pinky" crocuses each year.
 
 This year Romsey Test Rotary Club are giving away packs of "Purple Pinky Crocuses" for Romsey folk to plant.
 

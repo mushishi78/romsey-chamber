@@ -4,8 +4,6 @@ date: "2015-10-18"
 attachment: '2015_Romsey_Footfall_uhoosq.pdf'
 published: true
 ---
-## A New Post
-
 We have received the following from Mark Edgerley, the Town Centre Manager:
 
 Please find attached graph of monthly footfall figures for Romsey during 2015
