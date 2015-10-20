@@ -1,7 +1,7 @@
 ---
 heading: Romsey Footfall 2015
 date: "2015-10-18"
-attachment: " 2015_Romsey_Footfall_uhoosq.pdf"
+attachment: 2015_Romsey_Footfall_uhoosq.pdf
 published: true
 ---
 
