@@ -1,13 +1,14 @@
 ---
 heading: Romsey Footfall 2015
 date: "2015-10-18"
-attachment: "https://cloudinary.com/console/media_library#/dialog/raw/upload/romsey-footfall.pdf"
+attachment: Romsey_Footfall_2015_yosynl
 published: false
 ---
 
+
 ## A New Post
 
-We received the following from Mark Edgerley, the Town Centre Manager:
+We have received the following from Mark Edgerley, the Town Centre Manager:
 
 Please find attached graph of monthly footfall figures for Romsey during 2015
 
