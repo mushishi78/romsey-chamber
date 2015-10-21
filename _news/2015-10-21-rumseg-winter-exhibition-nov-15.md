@@ -7,4 +7,4 @@ published: false
 
 ## A New Post
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Please see attached an invitation to a private view of Rum's Eg's Winter Exhibition on 3 November.  Further details can also be found in our [Events](http://www.romseychamber.co.uk/events/2015-10-21-rumseg-winter-exhibition-3-nov-15.html) page.
