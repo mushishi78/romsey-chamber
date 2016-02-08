@@ -1,19 +1,20 @@
 ---
-heading: "F W Kersey & Son"
+heading: Hartford Care Limited
 categories: 
-  - Retail
-email: "china@kerseyandson.co.uk"
-telephone: 01794 512230
-website: "http://www.kerseyandson.co.uk"
-address1: 3 The Hundred
+  - Healthcare
+email: "debbie.holmes@hartfordcare.co.uk"
+telephone: "01794- 528700"
+website: "http://www.hartfordcare.co.uk/"
+address1: Abbotswood Court
 city: Romsey
 county: Hampshire
 country: UK
-postcode: SO51 8YP
+postcode: SO51 0LB
 published: true
 logo: ""
-address2: ""
-"opening-hours": null
+address2: Minchin Road
+"opening-hours": 
+  - "null"
 facebook: ""
 twitter: ""
 linkedin: ""
@@ -23,6 +24,7 @@ youtube: ""
 ebay: ""
 pinterest: ""
 ---
+
 
 ## specialist residential and dementia care – including permanent care, respite and day care services 
 
@@ -37,6 +39,3 @@ The 60 individual bedrooms, with en-suite wet rooms, are light, spacious and com
 Abbotswood Court has been carefully created with three underlying values at its core. These are care, comfort and companionship.
 
 For information on our current room availability and our quality care services, please [get in touch]("http://www.hartfordcare.co.uk/abbotswood-court2/")where Debbie, our Home Admissions Advisor, will be happy to answer any of your questions.
-
-
-
