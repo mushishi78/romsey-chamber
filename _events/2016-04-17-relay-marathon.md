@@ -16,8 +16,9 @@ city: ""
 county: ""
 country: ""
 postcode: ""
-published: false
+published: true
 ---
+
 
 The Relay Marathon is a unique opportunity to raise money for charities of your choice by running as part of a team to complete a marathon.
 
