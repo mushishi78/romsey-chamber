@@ -1,10 +1,29 @@
 ---
 heading: Vermont Systems
-categories: [Business Services]
+categories: 
+  - Business Services
 city: Romsey
 county: Hampshire
 country: UK
+published: false
+logo: ""
+email: ""
+telephone: ""
+website: ""
+address1: ""
+address2: ""
+postcode: ""
+"opening-hours": null
+facebook: ""
+twitter: ""
+linkedin: ""
+"google-plus": ""
+instagram: ""
+youtube: ""
+ebay: ""
+pinterest: ""
 ---
+
 Vermont has been making IT work for small and medium businesses since 1997. Technology has changed massively since we first started. As it has become an increasingly important part of our businesses, it has also become more and more complex.
 
 Just as the systems we recommend and install for our customers have changed, so have the methods we use to give the best possible level of IT support and management.
