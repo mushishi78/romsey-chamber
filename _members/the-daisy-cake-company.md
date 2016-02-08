@@ -1,15 +1,29 @@
 ---
 heading: The Daisy Cake Company
-categories: [Food]
-email: info@daisycakecompany.co.uk
+categories: 
+  - Food
+email: "info@daisycakecompany.co.uk"
 telephone: 0845 474 2253
-website: 'http://www.daiseycakecompany.co.uk/'
+website: "http://www.daiseycakecompany.co.uk/"
 address1: 5 Bell Street
 city: Romsey
 county: Hampshire
 country: UK
 postcode: SO51 8GY
+published: false
+logo: ""
+address2: ""
+"opening-hours": null
+facebook: ""
+twitter: ""
+linkedin: ""
+"google-plus": ""
+instagram: ""
+youtube: ""
+ebay: ""
+pinterest: ""
 ---
+
 The Daisy Cake Company is pleased to bring the first boutique Cake Room to Romsey, Hampshire.
 
 Offering artisan handmade cakes, baked on the premises using the finest local ingredients, The Daisy Cake Company not only has a daily selection to eat in or take-away, but can design and hand make the perfect celebration cake for your special event.
