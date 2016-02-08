@@ -1,6 +1,6 @@
 ---
 heading: ""
-date: ""
+date: "2016-01-27"
 end-date: ""
 start-time: "-"
 end-time: "-"

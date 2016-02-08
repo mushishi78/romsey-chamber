@@ -1,5 +1,5 @@
 {% for event in include.events %}
-<li class='event' data-date='{{ event.date }}'>
+<li class='event' data-date='{{ event.date | date: "%y-%m-%d" }}'>
   <a href='{{ event.url }}'>
     <h3>{{ event.heading }}</h3>
     <time>
