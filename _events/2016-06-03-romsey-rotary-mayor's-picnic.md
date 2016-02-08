@@ -1,9 +1,9 @@
 ---
 heading: ""
-date: ""
-"end-date": ""
-"start-time": "-"
-"end-time": "-"
+date: "2016-06-03"
+end-date: ""
+start-time: "-"
+end-time: "-"
 organizer: ""
 email: "info@romseychamber.co.uk"
 telephone: ""

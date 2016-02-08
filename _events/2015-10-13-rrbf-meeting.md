@@ -1,8 +1,8 @@
 ---
 heading: RRBF Meeting
 date: "2015-10-13"
-"start-time": "18:00"
-"end-time": "-"
+start-time: "18:00"
+end-time: "-"
 published: true
 email: "info@romseychamber.co.uk"
 place: basepoint

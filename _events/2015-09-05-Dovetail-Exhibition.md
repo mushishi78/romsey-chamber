@@ -1,12 +1,12 @@
 ---
 published: true
-"start-time": "-"
-"end-time": "-"
+start-time: "-"
+end-time: "-"
 email: "info@romseychamber.co.uk"
 place: "rums-eg"
 heading: Dovetail Exhibition
 date: "2015-08-05"
-"end-date": "2015-09-06"
+end-date: "2015-09-06"
 ---
 
 

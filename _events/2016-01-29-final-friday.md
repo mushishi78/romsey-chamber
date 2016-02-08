@@ -1,12 +1,12 @@
 ---
 heading: Final Friday
 date: "2015-05-29"
-"start-time": "17:30"
-"end-time": "18:30"
+start-time: "17:30"
+end-time: "18:30"
 email: "info@romseychamber.co.uk"
 place: "the-whitehorse"
 published: true
-"end-date": ""
+end-date: ""
 organizer: ""
 telephone: ""
 website: ""

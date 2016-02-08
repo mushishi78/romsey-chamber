@@ -29,7 +29,7 @@ published: true
 
 
 
-
+![]({{site.baseurl}}/![Samantha James Design](http://res.cloudinary.com/romsey-chamber/SJD_Picture_wwb2s0.jpg))
 
 
 Samantha James Design is a new  Interior Design business Romsey, Hampshire.

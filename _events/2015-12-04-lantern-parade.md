@@ -1,7 +1,7 @@
 ---
 published: false
-"start-time": "-"
-"end-time": "-"
+start-time: "-"
+end-time: "-"
 email: "info@romseychamber.co.uk"
 place: "-"
 heading: Romsey Lantern Parade
