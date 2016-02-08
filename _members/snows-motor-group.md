@@ -1,9 +1,27 @@
 ---
 heading: Snows Motor Group
-categories: [Retail]
+categories: 
+  - Retail
 city: Romsey
 county: Hampshire
 country: UK
+published: false
+logo: ""
+email: ""
+telephone: ""
+website: ""
+address1: ""
+address2: ""
+postcode: ""
+"opening-hours": null
+facebook: ""
+twitter: ""
+linkedin: ""
+"google-plus": ""
+instagram: ""
+youtube: ""
+ebay: ""
+pinterest: ""
 ---
-Snows Group is a privately owned, family company that has been operating in southern England for over half a century. Currently representing a network of 25 franchised dealerships, consisting of two BMW franchises - Portsmouth and Isle of Wight, two MINI franchises - Portsmouth and Isle of Wight, six Toyota franchises - Hedge End, Southampton, Plymouth, Exeter, Torbay and Honiton, three Lexus franchises in Hedge End, Plymouth and Exeter and five Volvo franchises - Southampton, Winchester, Poole, Salisbury and Basingstoke, one Kia franchise in Basingstoke, one Peugeot franchise in Romsey and five SEAT franchises - Isle of Wight, Southampton, Poole, Portsmouth and Salisbury.
 
+Snows Group is a privately owned, family company that has been operating in southern England for over half a century. Currently representing a network of 25 franchised dealerships, consisting of two BMW franchises - Portsmouth and Isle of Wight, two MINI franchises - Portsmouth and Isle of Wight, six Toyota franchises - Hedge End, Southampton, Plymouth, Exeter, Torbay and Honiton, three Lexus franchises in Hedge End, Plymouth and Exeter and five Volvo franchises - Southampton, Winchester, Poole, Salisbury and Basingstoke, one Kia franchise in Basingstoke, one Peugeot franchise in Romsey and five SEAT franchises - Isle of Wight, Southampton, Poole, Portsmouth and Salisbury.
