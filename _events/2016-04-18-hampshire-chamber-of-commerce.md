@@ -16,8 +16,9 @@ city: ""
 county: ""
 country: ""
 postcode: ""
-published: false
+published: true
 ---
+
 
 Meet the Chamber and Business Exhibition at 4pm, Southampton Football Club SO14 5FP.
 
