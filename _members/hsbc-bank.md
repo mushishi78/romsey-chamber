@@ -1,13 +1,31 @@
 ---
 heading: HSBC Bank
-categories: [Trades Services]
+categories: 
+  - Trades Services
 address1: 10 Market Place
 city: Romsey
 county: Hampshire
 country: UK
 postcode: SO518XD
-opening-hours: ['Mo-Fr 09:30-16:30', 'Sa 09:00-14:00']
+"opening-hours": 
+  - "Mo-Fr 09:30-16:30"
+  - "Sa 09:00-14:00"
+published: false
+logo: ""
+email: ""
+telephone: ""
+website: ""
+address2: ""
+facebook: ""
+twitter: ""
+linkedin: ""
+"google-plus": ""
+instagram: ""
+youtube: ""
+ebay: ""
+pinterest: ""
 ---
+
 Counter service times may vary.
 
 To book an appointment with a customer representative call:
