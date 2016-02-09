@@ -1,9 +1,9 @@
 ---
 heading: ""
 date: "2016-12-23"
-end-date: ""
-start-time: "-"
-end-time: "-"
+"end-date": ""
+"start-time": "-"
+"end-time": "-"
 organizer: ""
 email: "info@romseychamber.co.uk"
 telephone: ""
@@ -18,7 +18,6 @@ country: ""
 postcode: ""
 published: true
 ---
-
 
 On the last Friday of the month we have a social and informal meeting in the White Horse where members and prospective members can meet, chat, express your views or ask questions of the executive committee.
 
