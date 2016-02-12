@@ -1,5 +1,5 @@
 ---
-heading: ""
+heading: Final Friday Networking
 date: "2016-10-28"
 "end-date": ""
 "start-time": "17:30"
@@ -16,8 +16,9 @@ city: Romsey
 county: ""
 country: ""
 postcode: SO51 8ZJ
-published: true
+published: false
 ---
+
 
 
 On the last Friday of the month we have a social and informal meeting in the White Horse where members and prospective members can meet, chat, express your views or ask questions of the executive committee.
