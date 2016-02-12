@@ -1,5 +1,5 @@
 ---
-heading: ""
+heading: Final Friday Networking
 date: "2016-11-25"
 "end-date": ""
 "start-time": "17:30"
@@ -18,6 +18,7 @@ country: ""
 postcode: SO51 8ZJ
 published: true
 ---
+
 
 
 On the last Friday of the month we have a social and informal meeting in the White Horse where members and prospective members can meet, chat, express your views or ask questions of the executive committee.
