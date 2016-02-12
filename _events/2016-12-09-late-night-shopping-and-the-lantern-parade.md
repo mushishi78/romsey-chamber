@@ -16,7 +16,8 @@ city: Romsey
 county: ""
 country: ""
 postcode: SO51
-published: false
+published: true
 ---
+
 
 Late night shopping event and the Lantern Parade
