@@ -1,9 +1,9 @@
 ---
-heading: ""
+heading: Executive Committee Meeting
 date: "2016-09-28"
-end-date: ""
-start-time: "-"
-end-time: "-"
+"end-date": ""
+"start-time": "-"
+"end-time": "-"
 organizer: ""
 email: "info@romseychamber.co.uk"
 telephone: ""
@@ -19,3 +19,4 @@ postcode: ""
 published: true
 ---
 
+Executive Committee Meeting - Committee Members Only
