@@ -1,6 +1,6 @@
 ---
 heading: Executive Committee Meeting
-date: "2016-03-30"
+date: "2016-03-23"
 "end-date": ""
 "start-time": "18:00"
 "end-time": "20:00"
