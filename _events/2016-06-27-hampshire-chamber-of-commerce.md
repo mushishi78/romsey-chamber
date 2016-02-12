@@ -10,14 +10,15 @@ telephone: ""
 website: ""
 attachment: ""
 place: "-"
-address1: ""
+address1: Botley Road
 address2: ""
-city: ""
+city: Southampton
 county: ""
 country: ""
 postcode: ""
-published: true
+published: false
 ---
+
 
 
 **HAMPSHIRE - MEET THE CHAMBER AND BUSINESS EXHIBITION**
