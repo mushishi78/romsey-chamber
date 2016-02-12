@@ -1,23 +1,24 @@
 ---
-heading: ""
+heading: "Hampshire Chamber - Meet the Chamber and Business Exhibitions"
 date: "2016-04-18"
-end-date: ""
-start-time: "-"
-end-time: "-"
+"end-date": ""
+"start-time": "16:00"
+"end-time": "18:30"
 organizer: ""
 email: "info@romseychamber.co.uk"
 telephone: ""
 website: ""
 attachment: ""
 place: "-"
-address1: ""
+address1: Southampton Football Club
 address2: ""
 city: ""
 county: ""
 country: ""
-postcode: ""
+postcode: SO14 5FP
 published: true
 ---
+
 
 **HAMPSHIRE - MEET THE CHAMBER AND BUSINESS EXHIBITION**
 
