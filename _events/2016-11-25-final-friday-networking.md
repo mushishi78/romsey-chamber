@@ -2,20 +2,20 @@
 heading: ""
 date: "2016-11-25"
 "end-date": ""
-"start-time": "-"
-"end-time": "-"
-organizer: ""
+"start-time": "17:30"
+"end-time": "18:30"
+organizer: Peter Spiers
 email: "info@romseychamber.co.uk"
 telephone: ""
 website: ""
 attachment: ""
-place: "-"
-address1: ""
+place: "the-whitehorse"
+address1: Market Place
 address2: ""
-city: ""
+city: Romsey
 county: ""
 country: ""
-postcode: ""
+postcode: SO51 8ZJ
 published: false
 ---
 
