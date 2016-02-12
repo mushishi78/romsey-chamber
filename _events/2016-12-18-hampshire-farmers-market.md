@@ -16,7 +16,8 @@ city: ""
 county: ""
 country: ""
 postcode: ""
-published: false
+published: true
 ---
 
-Hampshire Farmers Market
+
+Hampshire Farmers Market will visiting this month giving you the opportunity to buy best value award winning Hampshire food that is in season and locally produced.
