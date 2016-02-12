@@ -1,7 +1,7 @@
 ---
 heading: Christmas Light Switch On
 date: "2016-11-26"
-"end-date": "2016-11-26"
+"end-date": ""
 "start-time": "18:00"
 "end-time": "21:00"
 organizer: Romsey Town Council
