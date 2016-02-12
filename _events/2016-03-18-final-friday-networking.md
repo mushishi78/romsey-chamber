@@ -4,7 +4,7 @@ date: "2016-03-18"
 "end-date": ""
 "start-time": "17:30"
 "end-time": "18:30"
-organizer: Peter Spiers
+organizer: Peter Speirs
 email: "info@romseychamber.co.uk"
 telephone: ""
 website: ""
@@ -19,6 +19,6 @@ postcode: SO51 8ZJ
 published: true
 ---
 
-On the last Friday of the month we have a social and informal meeting in the White Horse where members and prospective members can meet, chat, express your views or ask questions of the executive committee.
+Not quite Final Friday due to the way Easter falls this year - we have a social and informal meeting in the White Horse where members and prospective members can meet, chat, express your views or ask questions of the executive committee.
 
 The meeting is informal but we have a draw for a bottle and give one member a chance to talk to the group about their business - have your "elevator pitch" ready and don't forget your business cards.
