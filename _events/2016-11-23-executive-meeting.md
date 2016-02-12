@@ -1,5 +1,5 @@
 ---
-heading: Executive Meeting
+heading: "Executive Committee Meeting "
 date: "2016-11-23"
 "end-date": ""
 "start-time": "-"
