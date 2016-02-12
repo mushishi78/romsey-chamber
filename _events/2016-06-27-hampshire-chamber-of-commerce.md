@@ -1,9 +1,9 @@
 ---
-heading: ""
+heading: "Hampshire Chamber -Meet the Chamber"
 date: "2016-06-27"
-end-date: ""
-start-time: "-"
-end-time: "-"
+"end-date": ""
+"start-time": "16:00"
+"end-time": "18:30"
 organizer: ""
 email: "info@romseychamber.co.uk"
 telephone: ""
@@ -18,6 +18,7 @@ country: ""
 postcode: ""
 published: true
 ---
+
 
 **HAMPSHIRE - MEET THE CHAMBER AND BUSINESS EXHIBITION**
 
