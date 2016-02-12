@@ -1,5 +1,5 @@
 ---
-heading: Final Friday
+heading: Not Quite Final Friday Networking
 date: "2016-12-16"
 "end-date": ""
 "start-time": "17:30"
@@ -18,6 +18,7 @@ country: ""
 postcode: SO51 8ZJ
 published: false
 ---
+
 
 
 Slightly earlier and not quite a Final Friday due to the festivities why not join us for  a social and informal meeting in the White Horse where members and prospective members can meet, chat, express your views or ask questions of the executive committee.
