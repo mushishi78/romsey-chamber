@@ -2,8 +2,8 @@
 heading: Christmas Light Switch On
 date: "2016-11-26"
 "end-date": "2016-11-26"
-"start-time": "18:30"
-"end-time": "23:45"
+"start-time": "18:00"
+"end-time": "21:00"
 organizer: Romsey Town Council
 email: "contact@romseychristmaslights.org.uk"
 telephone: ""
