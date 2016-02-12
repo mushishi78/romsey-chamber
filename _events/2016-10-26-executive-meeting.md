@@ -16,7 +16,8 @@ city: ""
 county: ""
 country: ""
 postcode: ""
-published: false
+published: true
 ---
+
 
 Executive Committee Meeting - Committee Members Only
