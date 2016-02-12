@@ -16,7 +16,8 @@ city: Romsey
 county: ""
 country: ""
 postcode: ""
-published: false
+published: true
 ---
+
 
 Christmas Carols in the Market Place
