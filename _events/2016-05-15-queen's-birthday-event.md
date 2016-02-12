@@ -1,9 +1,9 @@
 ---
-heading: ""
+heading: The Queens Birthday Event
 date: "2016-05-15"
-end-date: ""
-start-time: "-"
-end-time: "-"
+"end-date": ""
+"start-time": "-"
+"end-time": "-"
 organizer: ""
 email: "info@romseychamber.co.uk"
 telephone: ""
@@ -19,3 +19,4 @@ postcode: ""
 published: true
 ---
 
+Details coming soon.
