@@ -16,7 +16,8 @@ city: ""
 county: ""
 country: ""
 postcode: ""
-published: false
+published: true
 ---
+
 
 To be confirmed
