@@ -25,8 +25,6 @@ pinterest: ""
 published: true
 ---
 
-
-
 The Palmerston Rooms
 
 In the heart of Romsey, The Palmerston Rooms is a recently renovated and upgraded Bed and Breakfast in a beautiful grade 2 listed building.
