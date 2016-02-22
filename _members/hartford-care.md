@@ -27,6 +27,7 @@ pinterest: ""
 
 
 
+
 ## Specialist residential and dementia care – including permanent care, respite and day care services 
 
 Abbotswood Court, our newly purpose-built Care Home that has been carefully designed with its residents as its priority opened to its first residents in September 2015.
