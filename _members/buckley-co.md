@@ -15,7 +15,7 @@ city: Romsey
 county: Hampshire
 country: UK
 postcode: SO51 6AS
-published: false
+published: true
 address2: ""
 "opening-hours": null
 instagram: ""
