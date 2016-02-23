@@ -13,7 +13,8 @@ website: ""
 address1: ""
 address2: ""
 postcode: ""
-"opening-hours": null
+"opening-hours": 
+  - "null"
 facebook: ""
 twitter: ""
 linkedin: ""
@@ -23,5 +24,6 @@ youtube: ""
 ebay: ""
 pinterest: ""
 ---
+
 
 Established in 1999 and based in Romsey, Hampshire, Widenet Computer Services provides aresponsive, friendly and knowledgeable computer repair service for both home users and business clients throughout Hampshire.
