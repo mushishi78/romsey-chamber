@@ -12,7 +12,8 @@ city: Romsey
 county: Hampshire
 country: UK
 postcode: SO51 7RQ
-"opening-hours": null
+"opening-hours": 
+  - "null"
 facebook: ""
 twitter: ""
 linkedin: ""
@@ -21,8 +22,9 @@ instagram: ""
 youtube: ""
 ebay: ""
 pinterest: ""
-published: false
+published: true
 ---
+
 
 Romsey Consulting Limited
 
