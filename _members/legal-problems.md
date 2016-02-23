@@ -10,10 +10,11 @@ city: Romsey
 county: Hampshire
 country: UK
 postcode: SO51 8XH
-published: false
+published: true
 logo: ""
 address2: ""
-"opening-hours": null
+"opening-hours": 
+  - "null"
 facebook: ""
 twitter: ""
 linkedin: ""
@@ -23,5 +24,6 @@ youtube: ""
 ebay: ""
 pinterest: ""
 ---
+
 
 From contract to leases, employment to corporate. Peter McVean at Footners and Ewing will help point you in the right direction.
