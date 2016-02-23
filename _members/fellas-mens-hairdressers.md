@@ -1,14 +1,32 @@
 ---
 heading: "Fellas: Men's Hairdressers"
-categories: [Leisure]
+categories: 
+  - Leisure
 telephone: 01794 331 450
 address1: 19 The Hundred
 city: Romsey
 county: Hampshire
 country: UK
 postcode: SO51 8GD
-opening-hours: ['Mo-Tu 09:00-17:00', 'We 09:00-19:00', 'Th-Sa 09:00-17:00']
+"opening-hours": 
+  - "Mo-Tu 09:00-17:00"
+  - "We 09:00-19:00"
+  - "Th-Sa 09:00-17:00"
+published: false
+logo: ""
+email: ""
+website: ""
+address2: ""
+facebook: ""
+twitter: ""
+linkedin: ""
+"google-plus": ""
+instagram: ""
+youtube: ""
+ebay: ""
+pinterest: ""
 ---
+
 Fella's is one of the finest independent barber shops in Romsey that has been established since 1955.
 
 For almost 60 years we have been providing traditional haircuts and modern re-styling to men of all ages.
