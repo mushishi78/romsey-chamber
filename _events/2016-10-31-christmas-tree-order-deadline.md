@@ -19,6 +19,5 @@ postcode: ""
 published: true
 ---
 
-
 Order Deadline:
 Your Christmas Tree Order Forms must be completed and returned to Peter Speirs (Humbugs, 19 Latimer Street) or to the Chamber Post Box (18 Market Place) by 31st October 2016. Please ensure your payment is included.
