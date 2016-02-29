@@ -1,9 +1,10 @@
 ---
 heading: Nominated Charity 2016
 date: "2016-02-29"
-attachment: Charity_Nomination_form.doc
+attachment: Charity_Nomination_form.pdf
 published: true
 ---
+
 
 
 
