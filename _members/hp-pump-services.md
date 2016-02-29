@@ -1,15 +1,29 @@
 ---
 heading: HP Pump Services
-categories: [Trades Services]
-email: andy@hppumpservices.co.uk
+categories: 
+  - Trades Services
+email: "andy@hppumpservices.co.uk"
 telephone: 01794 367 477 or 07536 098 366 or 07536 098 369
-website: 'http://www.hppumpservices.co.uk'
+website: "http://www.hppumpservices.co.uk"
 address1: Unit 32 Wynford Industrial Park
 city: Romsey
 county: Hampshire
 country: UK
 postcode: SO51 0PW
+published: false
+logo: ""
+address2: ""
+"opening-hours": null
+facebook: ""
+twitter: ""
+linkedin: ""
+"google-plus": ""
+instagram: ""
+youtube: ""
+ebay: ""
+pinterest: ""
 ---
+
 We are specialists in High Pressure and Ultra High Pressure Water Jets & Pumps. We offer a fast and reliable range of services to all sectors of the Water Jetting Industry and with over 15 years of hands on experience.
 
 Our Services include:
