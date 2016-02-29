@@ -2,8 +2,9 @@
 heading: Nominated Charity 2016
 date: ""
 attachment: Charity_Nomination_form.doc
-published: false
+published: true
 ---
+
 
 Romsey Chamber - Nominated Charity
 
