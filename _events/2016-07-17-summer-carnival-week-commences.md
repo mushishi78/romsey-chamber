@@ -16,8 +16,8 @@ city: ""
 county: ""
 country: ""
 postcode: ""
-published: false
+published: true
 ---
 
-Romsey Summer Carvival - Events in the preceding week
 
+Romsey Summer Carvival - Events in the preceding week
