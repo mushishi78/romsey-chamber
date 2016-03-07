@@ -1,6 +1,6 @@
 ---
-heading: Charity Nomination Form
-date: "2016-03-07"
+heading: ""
+date: ""
 attachment: ""
 published: true
 ---
@@ -19,5 +19,4 @@ It is that time of year where the AGM will soon be upon us, we will be choosing 
 
 [Nomination Form (PDF Version)](http://res.cloudinary.com/romsey-chamber/raw/upload/Charity_Nomination_form_twv4if.pdf)
 
-
-Due to a temporary technical difficulty we are unable to provide a link for you to download the form direct so please request your nomination form by emailing: info@romseychamber.co.uk
+Please request your nomination form by emailing: info@romseychamber.co.uk
