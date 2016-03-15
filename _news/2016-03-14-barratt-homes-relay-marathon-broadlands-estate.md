@@ -4,10 +4,6 @@ date: "2016-04-17"
 published: true
 attachment: ""
 ---
-
-
-## Barratt Homes Relay Marathon - Broadlands Estate 
-
 Romsey Chamber of Commerce are looking for people to join their team to run the relay marathon in aid of our nominated charity.
 
 The Relay Marathon gives an opportunity for anyone to partake in a Marathon, as part of a team who collectively will run the 26 miles and 385 yards. The 4th Relay Marathon will be held on Sunday 17th April 2016 and will again be hosted at the Broadlands Estate on the outskirts of Romsey.
