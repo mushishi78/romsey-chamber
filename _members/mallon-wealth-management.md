@@ -8,12 +8,13 @@ website: "http://www.mallonwm.co.uk/"
 city: Romsey
 county: Hampshire
 country: UK
-published: false
+published: true
 logo: ""
 address1: ""
 address2: ""
 postcode: ""
-"opening-hours": null
+"opening-hours": 
+  - "null"
 facebook: ""
 twitter: ""
 linkedin: ""
@@ -23,6 +24,7 @@ youtube: ""
 ebay: ""
 pinterest: ""
 ---
+
 
 A wealth of expertise on your doorstep. We provide an experienced wealth management service and offer specialist advice in a wide range of areas including:
 
