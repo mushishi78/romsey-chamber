@@ -25,8 +25,7 @@ ebay: ""
 pinterest: ""
 ---
 
-
-Samtax is the oldest taxi company in Romsey and can be found in the Bus station in the centre of Romsey. Samtax operate a fully computerised booking and despatch system, theThe Romsey School vision:
+The Romsey School vision:
 
 Our ethos is inclusive where all young people succeed
 Students are supported and happy, with staff who go that extra mile
