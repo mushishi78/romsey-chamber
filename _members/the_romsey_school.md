@@ -5,7 +5,7 @@ categories:
 city: Romsey
 county: Hampshire
 country: UK
-published: false
+published: true
 logo: ""
 email: "admin@romsey.hants.sch.uk"
 telephone: 01794 512 334
