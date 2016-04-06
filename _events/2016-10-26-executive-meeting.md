@@ -1,6 +1,6 @@
 ---
 heading: "Executive Committee Meeting "
-date: "20161026"
+date: "2016-10-26"
 "end-date": ""
 "start-time": "-"
 "end-time": "-"
@@ -18,6 +18,7 @@ country: ""
 postcode: ""
 published: true
 ---
+
 
 
 Executive Committee Meeting - Committee Members Only
