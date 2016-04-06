@@ -1,7 +1,7 @@
 ---
 heading: "Executive Committee Meeting "
 date: "2016-10-26"
-"end-date": ""
+"end-date": "2016-10-26"
 "start-time": "-"
 "end-time": "-"
 organizer: ""
