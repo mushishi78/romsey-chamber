@@ -1,13 +1,24 @@
 ---
 heading: Final Friday Network
-date: '2012-10-26'
-start-time: '17:30'
-end-time: '18:30'
+date: "2012-10-26"
+"start-time": "17:30"
+"end-time": "18:30"
 organizer: Romsey Chamber of Commerce
-email: info@romseychamber.co.uk
+email: "info@romseychamber.co.uk"
 telephone: 01794 513135
-place: the-whitehorse
+place: "the-whitehorse"
+published: false
+"end-date": ""
+website: ""
+attachment: ""
+address1: ""
+address2: ""
+city: ""
+county: ""
+country: ""
+postcode: ""
 ---
+
 Dear members,
 
 Following the launch of our informal networking event 'Final Friday' in September, I am delighted to say that following a very enjoyable and well attended event we will be holding the next Final Friday at The Whitehorse Hotel Romsey on Friday 26th October from 5.30pm to 6.30pm
@@ -20,4 +31,3 @@ See you there!
 
 John Natt
 Treasurer
-
