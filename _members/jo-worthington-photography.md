@@ -25,6 +25,7 @@ ebay: ""
 pinterest: ""
 ---
 
+
 Jo specialises in children and family portraits. Capturing the magic of childhood is at the heart of my photo sessions. 
 
 Jo can create photos that show their spirit, curiosity of life, and the connections between your family. I work on location, using natural light. Her style is vibrant and whimsical. 
