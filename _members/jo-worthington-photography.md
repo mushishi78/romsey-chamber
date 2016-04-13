@@ -10,7 +10,7 @@ city: Romsey
 county: Hampshire
 country: UK
 postcode: SO51 6EU
-published: false
+published: true
 logo: ""
 address2: East Wellow
 "opening-hours": 
