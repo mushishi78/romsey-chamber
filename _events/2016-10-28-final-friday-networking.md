@@ -1,9 +1,9 @@
 ---
 heading: Final Friday Networking
 date: "2016-10-28"
-"end-date": ""
+"end-date": "2016-10-28"
 "start-time": "17:30"
-"end-time": "18:30"
+"end-time": "19:00"
 organizer: Peter Speirs
 email: "info@romseychamber.co.uk"
 telephone: ""
