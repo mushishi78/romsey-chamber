@@ -5,7 +5,7 @@ date: "2016-06-29"
 "end-time": "22:30"
 email: "events.north@hampshirechamber.co.uk"
 telephone: 01329 242427
-published: false
+published: true
 "end-date": ""
 organizer: ""
 website: "https://www.eventbrite.co.uk/e/presidents-reception-2016-tickets-24479915085"
