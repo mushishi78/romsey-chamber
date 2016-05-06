@@ -6,7 +6,7 @@ date: "2016-06-10"
 published: true
 "end-date": ""
 organizer: ""
-email: "info@romseychamber.co.uk"
+email: ""
 telephone: ""
 website: "https://www.eventbrite.co.uk/e/presidents-reception-2016-tickets-24479915085"
 attachment: ""
