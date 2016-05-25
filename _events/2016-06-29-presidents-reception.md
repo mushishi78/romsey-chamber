@@ -1,22 +1,11 @@
 ---
 heading: Presidents Reception 2016
-date: "2016-06-10"
+date: "2016-06-29"
 "start-time": "19:00"
 "end-time": "19:30"
 published: true
-"end-date": ""
-organizer: ""
-email: ""
-telephone: ""
 website: "https://www.eventbrite.co.uk/e/presidents-reception-2016-tickets-24479915085"
-attachment: ""
 place: "-"
-address1: ""
-address2: ""
-city: ""
-county: ""
-country: ""
-postcode: ""
 ---
 The President's Reception this year will be held at The Mill Water Gardens on Wednesday 29th June 2016 and will be starting at 19:00 until around 22:30.
 
