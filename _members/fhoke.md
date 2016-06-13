@@ -7,7 +7,7 @@ city: Romsey
 county: Hampshire
 country: UK
 postcode: 'SO51 0JT '
-published: false
+published: true
 email: Hello@FHOKE.com
 telephone: 01794 340 979
 address2: ' East Tytherly Road,  Lockerley, '
