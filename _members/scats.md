@@ -1,9 +1,11 @@
 ---
 heading: Scats
-categories: [Retail]
+categories:
+  - Retail
 city: Romsey
 county: Hampshire
 country: UK
+published: false
 ---
 We have 18 stores throughout the South of England and South Wales.
 
