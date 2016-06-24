@@ -11,7 +11,7 @@ country: UK
 postcode: SO51 8GD
 published: true
 email: enquiries@armanagement.co.uk
-logo: logo.gif
+logo: ARM.gif
 address2: 19D The Hundred
 ---
 BUSINESS MANAGEMENT
@@ -38,9 +38,3 @@ It is easy to make suggestions and recommendations, the art is to truly understa
 We act as business partners and develop innovative strategies combining the knowledge we gain about your organisation with the knowledge we bring through experience and expertise.
 
 To find out more about the consultancy services we provide, please select the relevant sections
-
-
-
-
-
-
