@@ -9,7 +9,7 @@ city: Romsey
 county: Hampshire
 country: UK
 postcode: SO51 8GD
-published: false
+published: true
 email: enquiries@armanagement.co.uk
 logo: logo.gif
 address2: 19D The Hundred
