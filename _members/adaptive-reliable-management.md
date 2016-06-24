@@ -11,7 +11,7 @@ country: UK
 postcode: SO51 8GD
 published: true
 email: enquiries@armanagement.co.uk
-logo: ARM.gif
+logo: Arm.jpg
 address2: 19D The Hundred
 ---
 BUSINESS MANAGEMENT
