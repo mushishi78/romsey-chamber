@@ -7,7 +7,7 @@ city: Romsey
 county: Hampshire
 country: UK
 postcode: SO51 9AQ
-published: false
+published: true
 address2: 'Premier Way, Abbey Park Industrial Estate,'
 facebook: >-
   https://www.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fv2.3%2Fdialog%2Fshare%3Fredirect_uri%3Dhttps%253A%252F%252Fwww.facebook.com%252Fdialog%252Freturn%252Fclose%26display%3Dpopup%26href%3Dhttp%253A%252F%252Fwww.wmcesltd.co.uk%252Fabout%252F%26client_id%3D966242223397117%26ret%3Dlogin&cancel_url=https%3A%2F%2Fwww.facebook.com%2Fdialog%2Freturn%2Fclose%3F%23_%3D_&display=popup&locale=en_GB
