@@ -1,7 +1,7 @@
 ---
 heading: Romsey's first Business Networking Dinner
 date: '2016-11-09'
-published: false
+published: true
 ---
 Romsey Chamber of Commerce invites local businesses from Test Valley & Hampshire to our first networking dinner at the town’s newest prestige venue, the recently opened Stables at The White Horse Hotel.
 
@@ -32,4 +32,6 @@ Cafetière coffee
 GF = Gluten Free V = Vegetarian
 
 After Dinner Guest Speaker – Name to be confirmed
+
+Tickets will be on sale shortly and these are priced at £22.00 per person
 
