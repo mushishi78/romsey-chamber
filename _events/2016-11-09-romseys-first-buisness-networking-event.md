@@ -3,7 +3,7 @@ start-time: '18:30'
 end-time: '22:00'
 email: info@romseychamber.co.uk
 place: the-whitehorse
-published: false
+published: true
 heading: Romsey’s first Business Networking Dinner
 date: '2016-11-09'
 end-date: '2016-11-09'
@@ -40,4 +40,4 @@ GF = Gluten Free V = Vegetarian
 
 After Dinner Guest Speaker – Name to be confirmed
 
-Cost: £22 per person - tickets on sale shortly
+Cost: £22 per person - tickets on sale now
