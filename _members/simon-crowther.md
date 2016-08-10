@@ -1,6 +1,7 @@
 ---
 heading: Simon Crowther
-categories: [Business Services]
+categories:
+  - Business Services
 email: simon@john-langford.com
 telephone: 07831 497489
 address1: Travers Farm
@@ -9,6 +10,7 @@ city: Crondall
 county: Hampshire
 country: UK
 postcode: GU10 5HJ
+published: false
 ---
 We provide business mentoring services for all types of retailers. We are regulated by Grey for Gold and The National Skills Academy Retail division.
 
