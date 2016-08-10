@@ -1,15 +1,17 @@
 ---
 heading: Green Room Acupuncture
-categories: [Healthcare]
+categories:
+  - Healthcare
 email: debbie.saunders@gmail.com
 telephone: 02380 812694
-website: 'www.romseyacupuncture.co.uk'
+website: www.romseyacupuncture.co.uk
 address1: Ridgemount House
 address2: Romsey Road
 city: Romsey
 county: Hampshire
 country: UK
 postcode: SO51 6AE
+published: false
 ---
 ### DeborahSaunders
 
