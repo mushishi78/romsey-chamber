@@ -1,11 +1,13 @@
 ---
 heading: Nix Network Services
-categories: [Business Services]
+categories:
+  - Business Services
 telephone: 0800 1937700
 website: 'http://www.nixgroup.co.uk'
 city: Romsey
 county: Hampshire
 country: UK
+published: false
 ---
 Romseys Telecoms Provider of Choice NIX Network Services NIX Network Services are proud to announce they are the telecoms provider of choice for the Romsey Chamber of Commerce.
 
