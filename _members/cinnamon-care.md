@@ -1,10 +1,10 @@
 ---
 heading: Cinnamon Care Limited
-categories: 
+categories:
   - Healthcare
-email: "debbie.holmes@hartfordcare.co.uk"
-telephone: "01794- 528700"
-website: "http://cinnamoncc.com/luxury-care-homes/abbotswood-court"
+email: debbie.holmes@hartfordcare.co.uk
+telephone: 01794- 528700
+website: 'http://cinnamoncc.com/luxury-care-homes/abbotswood-court'
 address1: Abbotswood Court
 city: Romsey
 county: Hampshire
@@ -12,8 +12,8 @@ country: UK
 postcode: SO51 0LB
 published: true
 address2: Minchin Road
-"opening-hours": 
-  - "null"
+opening-hours:
+  - 'null'
 ---
 
 
