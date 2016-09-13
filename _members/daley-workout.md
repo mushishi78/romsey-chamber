@@ -1,28 +1,18 @@
 ---
 heading: Daley Workout
-categories: 
+categories:
   - Healthcare
 logo: daley_workout_logo_yipkwc
-email: "kerry2177@gmail.com"
+email: kerry2177@gmail.com
 telephone: 07824 905168
-website: ""
-address1: ""
-address2: ""
 city: Romsey
 county: Hampshire
 country: UK
-postcode: ""
-"opening-hours": 
-  - "null"
-facebook: "https://www.facebook.com/daleyworkout"
-twitter: ""
-linkedin: ""
-"google-plus": ""
-instagram: ""
-youtube: ""
-ebay: ""
-pinterest: ""
+opening-hours:
+  - 'null'
+facebook: 'https://www.facebook.com/daleyworkout'
 published: true
+website: www.daleyworkout.com
 ---
 
 
