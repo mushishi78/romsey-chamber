@@ -1,11 +1,13 @@
 ---
 heading: Michelle Shergill Legal
-categories: [Business Services]
+categories:
+  - Business Services
 telephone: 01794 329262
 website: 'http://www.shergilllegal.co.uk/'
 city: Romsey
 county: Hampshire
 country: UK
+published: false
 ---
 **- Protective Family Wills**
 
