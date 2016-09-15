@@ -45,4 +45,4 @@ Cost: £22 per person - tickets on sale now
 
 
 
-https://www.eventbrite.co.uk/e/romseys-first-business-networking-dinner-tickets-26964480487
+[https://www.eventbrite.co.uk/e/romseys-first-business-networking-dinner-tickets-26964480487]()
