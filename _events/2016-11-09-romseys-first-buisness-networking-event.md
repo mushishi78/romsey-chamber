@@ -7,6 +7,7 @@ published: true
 heading: Romsey’s first Business Networking Dinner
 date: '2016-11-09'
 end-date: '2016-11-09'
+website: ' https://www.eventbrite.co.uk/e/romseys-first-business-networking-dinner-tickets-26964480487'
 ---
 Join us for a prestigious new event,
 Romsey’s first Business Networking Dinner
@@ -41,3 +42,7 @@ GF = Gluten Free V = Vegetarian
 After Dinner Guest Speaker – Name to be confirmed
 
 Cost: £22 per person - tickets on sale now
+
+
+
+https://www.eventbrite.co.uk/e/romseys-first-business-networking-dinner-tickets-26964480487
