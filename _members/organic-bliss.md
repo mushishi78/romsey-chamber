@@ -14,7 +14,7 @@ categories:
 address2: Broadwater Road
 opening-hours:
   - 'online shop is open 24/7, 365 days a year '
-  - 'Tues-Sat 10:00-17:45'
+  - 'Tu-Sa 10:00-17:45'
 facebook: 'https://www.facebook.com/OrganicBlissUK'
 twitter: '@OrganicBlissUK'
 ---
