@@ -8,7 +8,7 @@ city: Romsey
 county: Hampshire
 country: UK
 postcode: SO51 8PJ
-published: false
+published: true
 categories:
   - Retail
 address2: Broadwater Road
