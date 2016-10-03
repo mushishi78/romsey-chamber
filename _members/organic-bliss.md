@@ -13,8 +13,8 @@ categories:
   - Retail
 address2: Broadwater Road
 opening-hours:
-  - 'Tuesday to Saturday 10:00 to 17:45'
   - 'online shop is open 24/7, 365 days a year '
+  - 'Tues-Sat 10:00-17:45'
 facebook: 'https://www.facebook.com/OrganicBlissUK'
 twitter: '@OrganicBlissUK'
 ---
@@ -25,3 +25,11 @@ Our shop sells an extensive range of quality children's clothes from Frugi, Picc
 Rose is a fully qualified and experienced baby wearing (sling) consultant, and knows a bit about washable nappies too!
 
 Find us at 5 Dukes Mill, Broadwater Road, Romsey SO51 8PJ. Parking is free in Romsey public car parks (not Aldi) after 4pm...
+
+Our opening hours are Tuesday to Saturday, 10:00 to 17:45, while our online shop is open 24/7, 365 days a year (with free delivery to SO and BH postcodes). We are closed on Bank Holidays. Our contact email is info@organicbliss.co.uk, or you can use Facebook or Twitter to contact us.
+
+We look forward to seeing you soon!
+
+Rose & Brian x
+
+"...and every day, everywhere, our children spread their dreams under our feet. And we should tread softly." - Sir Ken Robinson
