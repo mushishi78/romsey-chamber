@@ -16,7 +16,7 @@ opening-hours:
   - 'Tuesday to Saturday 10:00 to 17:45'
   - 'online shop is open 24/7, 365 days a year '
 facebook: 'https://www.facebook.com/OrganicBlissUK'
-twitter: 'https://twitter.com/OrganicBlissUK'
+twitter: '@OrganicBlissUK'
 ---
 Organic Bliss is a destination retail store in Romsey, Hampshire, where you will find the finest quality sustainable, Fair Trade, organic and local products for both children and adults. 
 
