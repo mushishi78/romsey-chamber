@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 heading: Small Business Saturday
 date: '2016-12-03'
 ---
@@ -28,5 +28,3 @@ With best wishes
 Jonathan Birch
 Romsey Chamber of Commerce
 Small Business Saturday 2016 Coordinator.
-
-
