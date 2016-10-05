@@ -2,7 +2,7 @@
 city: Romsey
 county: Hampshire
 country: UK
-published: false
+published: true
 website: 'http://www.oceanworldtravel.com'
 heading: Ocean World Travel
 ---
@@ -71,5 +71,3 @@ I love working here, the team and the environment are a pleasure to be around an
 
 Lindsey - Cruise consultant
 I have been working for Ocean World Travel since 2013. I have recently returned from maternity leave after having a baby girl. I enjoy cruising, especially with P&O, and have booked to go on their newest ship, the Britannia, after I get married in the summer.
-
-  
