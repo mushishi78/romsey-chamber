@@ -3,6 +3,7 @@ published: true
 heading: >-
   Physio & THAW Sports & Remedial Therapy Is offering 20% off FIRST
   Ttreatment/Consultancy
+member: Physio & THAW Sports & Remedial Therapy
 ---
 Physio & THAW Sports & Remedial Therapy
 Is offering 20% off fIRST treatment/consultancy for the months of November & December 2016
