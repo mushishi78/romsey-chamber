@@ -3,7 +3,7 @@ heading: Ali Rosen
 categories:
   - Healthcare
 website: 'http://www.justgiving.com/Alison-Rosen1'
-published: false
+published: true
 city: Romsey
 county: Hampshire
 country: UK
