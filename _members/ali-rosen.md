@@ -2,7 +2,7 @@
 heading: Ali Rosen
 categories:
   - Healthcare
-published: false
+published: true
 city: Romsey
 county: Hampshire
 country: UK
