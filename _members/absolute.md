@@ -1,6 +1,6 @@
 ---
 heading: Absolute
-published: false
+published: true
 ---
 
 **Welcome to Absolute!**
