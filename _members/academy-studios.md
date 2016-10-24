@@ -1,18 +1,22 @@
 ---
 heading: Academy Studios
-categories: [Leisure]
+categories:
+  - Leisure
 email: nikki.jones@academy-studios.com
 telephone: 01794 515129
-logo: 'academy-studios.png'
+logo: academy-studios.png
 website: 'http://academy-studios.com/'
 facebook: 'http://www.facebook.com/academystudios'
-address1: Unit 10, Romsey Industrial Estate
+address1: 'Unit 10, Romsey Industrial Estate'
 address2: Greatbridge Road
 city: Romsey
 county: Hampshire
 country: UK
 postcode: SO51 0HR
+published: true
 ---
+
+**Welcome to Academy Studios**
 
 * Stage School
 * Parties Children
