@@ -13,7 +13,9 @@ country: UK
 postcode: SO51 9DF
 published: true
 ---
-** A to B Mobility **! are a new independent company offering a wide range of scooters, mobility and household aids from the leading suppliers in the market.
+** A to B Mobility **! 
+
+A new independent company offering a wide range of scooters, mobility and household aids from the leading suppliers in the market.
 
 A to B Mobilitys aim is to supply the best quality products at competitive prices, whilst giving you the very highest standard of good old fashioned service. Smiles included!!
 
