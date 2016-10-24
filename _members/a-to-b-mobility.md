@@ -13,7 +13,8 @@ country: UK
 postcode: SO51 9DF
 published: true
 ---
-**A to B Mobility!** 
+
+**Welcome to Absolute!**
 
 A new independent company offering a wide range of scooters, mobility and household aids from the leading suppliers in the market.
 
