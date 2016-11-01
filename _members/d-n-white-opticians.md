@@ -1,6 +1,7 @@
 ---
-heading: D N WHITE OPTICIANS
-categories: [Retail]
+heading: D N White Opticians
+categories:
+  - Retail
 email: dnwhite@romseyoptician.co.uk
 website: 'http://www.romseyoptician.co.uk'
 address1: 23 Market Place
@@ -8,6 +9,7 @@ city: Romsey
 county: Hampshire
 country: UK
 postcode: SO51 8NA
+published: true
 ---
 We are a family owned and run independent opticians who take pride in the  quality of service and products that we provide.
 
