@@ -2,7 +2,7 @@
 city: Romsey
 county: Hampshire
 country: UK
-published: false
+published: true
 heading: Beauty From Nature
 email: ssbatch@gmail.com
 telephone: 07790004612
