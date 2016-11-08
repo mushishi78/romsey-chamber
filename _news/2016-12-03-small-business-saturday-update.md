@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Small Business Saturday 2016 - Update
 
