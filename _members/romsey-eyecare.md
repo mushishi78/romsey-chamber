@@ -18,6 +18,6 @@ opening-hours:
   - 'Sat 10.00-16:00'
 ---
 
-### Romsey Eyecare now open!
+### Romsey Eyecare
 
-Romsey's newest and most friendly opticians.
+
