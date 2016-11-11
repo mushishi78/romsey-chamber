@@ -2,7 +2,7 @@
 city: Romsey
 county: Hampshire
 country: UK
-published: false
+published: true
 heading: B H M Electrical Services Limited
 email: info@bhmelectrical.co.uk
 telephone: 01794 523363
