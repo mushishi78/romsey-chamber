@@ -13,4 +13,4 @@ postcode: SO51 7JF
 ---
 ## B H M Electrical Services Limited
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+One of our newest members, B H M Electrical Services Limited as based at Belbins Business Park 
