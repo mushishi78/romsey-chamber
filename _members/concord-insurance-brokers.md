@@ -2,7 +2,7 @@
 city: Chandlers Ford
 county: Hampshire
 country: UK
-published: false
+published: true
 email: admin@concordeinsurance.co.uk
 website: 'http://www.concordeinsurance.co.uk/'
 telephone: 02380 251404
