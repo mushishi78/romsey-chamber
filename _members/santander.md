@@ -2,7 +2,7 @@
 city: Romsey
 county: Hampshire
 country: UK
-published: false
+published: true
 heading: Santander
 categories:
   - Banking
