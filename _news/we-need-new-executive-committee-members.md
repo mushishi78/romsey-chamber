@@ -5,11 +5,8 @@ date: '2016-11-23'
 ---
 ## We need new Executive Committee Members
 
-What is happening?
-
 As we approach the New Year, we are seeking additional Executive Committee members from our existing members.  Being an Executive committee member is an exciting task with real potential to affect what happens in our local chamber.
 
- 
 
 What does an Executive Committee member do?
 
