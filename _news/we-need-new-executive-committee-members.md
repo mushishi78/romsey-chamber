@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 heading: We need new Executive Committee Members
 date: '2016-11-23'
 ---
@@ -33,5 +33,3 @@ How can I apply?
 Please send your application to Annamarie Tongs at info@romseychamber.co.uk Please send us your CV and covering letter demonstrating what skills and experience you would like to bring to the role. 
 
 We look forward to receiving your application.
-
- 
