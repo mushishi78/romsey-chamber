@@ -7,7 +7,7 @@ date: '2016-11-23'
 
 What is happening?
 
-As we approach the New Year, we need to find new Executive Committee members from our members.  Being an Executive committee member is an exciting task with real potential to affect what happens in our local chamber.
+As we approach the New Year, we are seeking additional Executive Committee members from our existing members.  Being an Executive committee member is an exciting task with real potential to affect what happens in our local chamber.
 
  
 
