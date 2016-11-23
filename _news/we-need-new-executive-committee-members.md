@@ -3,8 +3,6 @@ published: true
 heading: We need new Executive Committee Members
 date: '2016-11-23'
 ---
-## We need new Executive Committee Members
-
 As we approach the New Year, we are seeking additional Executive Committee members from our existing members.  Being an Executive committee member is an exciting task with real potential to affect what happens in our local chamber.
 
 
