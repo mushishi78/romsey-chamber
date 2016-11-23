@@ -13,14 +13,21 @@ As we approach the New Year, we are seeking additional Executive Committee membe
 
 What does an Executive Committee member do?
 
-Represents Romsey Chamber of Commerce within the local business community
-Offer support to fellow business people
-Assist with local events organised by the Chamber
-Attend monthly meetings - the last day of the month and the last Friday of the month 
-Attend Final Friday Networking 
-Attend social events organised by the Chamber such as our recent Networking Dinner
-Act as an ambassador of the Romsey Chamber of Commerce in the local area
-Welcome new members personally to the Chamber
+- Represents Romsey Chamber of Commerce within the local business community
+
+- Offer support to fellow business people
+
+- Assist with local events organised by the Chamber
+
+- Attend monthly meetings - the last day of the month and the last Friday of the month 
+
+- Attend Final Friday Networking 
+
+- Attend social events organised by the Chamber such as our recent Networking Dinner
+
+- Act as an ambassador of the Romsey Chamber of Commerce in the local area
+
+- Welcome new members personally to the Chamber
 
  
 Who can apply?
