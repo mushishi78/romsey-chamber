@@ -2,7 +2,7 @@
 city: Romsey
 county: Hampshire
 country: UK
-published: false
+published: true
 heading: Travel Counsellor
 website: ' http://www.travelcounsellors.com/kirsty.ricketts '
 telephone: 01794 878250
