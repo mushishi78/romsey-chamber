@@ -10,6 +10,10 @@ email: 'kirsty.ricketts@travelcounsellors.com '
 categories:
   - Business Services
   - Leisure
+postcode: SO51
+facebook: 'https://www.facebook.com/KirstyRickettsTravelCounsellors'
+linkedin: 'https://www.linkedin.com/in/kirsty-ricketts-a836b252'
+twitter: 'https://twitter.com/@KRicketts_TC'
 ---
 ## Travel Counsellor
 
