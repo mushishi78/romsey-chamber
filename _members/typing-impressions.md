@@ -3,10 +3,12 @@ heading: Typing Impressions
 email: typingimpressions@gmail.com
 telephone: 01794 83070880
 website: 'http://typingimpressions.co.uk/'
-facebook: 'https://www.facebook.com/bg55azo'
 published: true
 categories:
   - Business Services
+city: Romsey
+county: Hampshire
+country: UK
 ---
 
 Do you need more time to run your business?
@@ -36,5 +38,3 @@ We aim to provide high quality, accurate and professionally typed documents to s
 We are based near Romsey in Hampshire, but can help wherever you are, as we work remotely.
 
 Please contact us here if you need any more information or advice.
-
- 
