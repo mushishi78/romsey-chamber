@@ -1,7 +1,7 @@
 ---
 heading: Typing Impressions
 email: typingimpressions@gmail.com
-telephone: 01794 83070880
+telephone: ' 01794 324791'
 website: 'http://typingimpressions.co.uk'
 published: true
 categories:
