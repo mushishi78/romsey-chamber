@@ -2,7 +2,7 @@
 city: Lockerley
 county: Hampshire
 country: UK
-published: false
+published: true
 heading: Honeycomb Skincare
 email: sarah@honeycombskincare.co.uk
 website: www.honeycombskincare.co.uk
