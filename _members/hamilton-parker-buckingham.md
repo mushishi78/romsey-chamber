@@ -3,14 +3,14 @@ heading: Hamilton Parker Buckingham
 categories:
   - Trades Services
 telephone: 01794 5111212
-website: "http://www.hpbproperty.co.uk"
+website: 'http://www.hpbproperty.co.uk'
 address1: 9 Latimer Walk
 city: Romsey
 county: Hampshire
 postcode: SO51 8LA
 country: UK
-published: true
-email: "info@hpbproperty.co.uk"
+published: false
+email: info@hpbproperty.co.uk
 ---
 
 
