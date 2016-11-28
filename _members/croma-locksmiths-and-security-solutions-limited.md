@@ -3,6 +3,9 @@ city: Romsey
 county: Hampshire
 country: UK
 published: false
+heading: 'Croma Locksmiths & Security Solutions Limited '
+categories:
+  - Trades Services
 ---
 We are one of the largest lock suppliers in the U.K. bringing security to your door for over 40 years.
 
