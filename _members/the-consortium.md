@@ -1,9 +1,11 @@
 ---
 heading: The Consortium
-categories: [Retail]
+categories:
+  - Retail
 city: Romsey
 county: Hampshire
 country: UK
+published: false
 ---
 Come and visit our lovely Vintage Furniture shop in Romsey, Hampshire. We are stockists of Annie Sloan Chalk paint, and use this fantastic paint on many items of furniture available in our Hampshire shop as well as online.
 
