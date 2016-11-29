@@ -7,10 +7,10 @@ A warm welcome to one of our newest members
 
 BMH Electrical Services
 
-Travel Coundellors
+Travel Counsellors
 
 Honeycomb Skincare
 
-Croma Locksmiths & Securoty Solutions
+Croma Locksmiths & Security Solutions
 
 Great to have you onboard!
