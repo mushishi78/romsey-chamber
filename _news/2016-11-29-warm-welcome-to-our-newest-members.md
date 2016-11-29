@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 heading: 'Warm welcome to our newest members:'
 date: '2016-11-29'
 ---
@@ -14,6 +14,3 @@ Honeycomb Skincare
 Croma Locksmiths & Securoty Solutions
 
 Great to have you onboard!
-
-
-
