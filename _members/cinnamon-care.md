@@ -2,7 +2,7 @@
 heading: Cinnamon Care Limited
 categories:
   - Healthcare
-email: debbie.holmes@hartfordcare.co.uk
+email: debbie.holmes@cinnamoncc.com
 telephone: 01794- 528700
 website: 'http://cinnamoncc.com/luxury-care-homes/abbotswood-court'
 address1: Abbotswood Court
