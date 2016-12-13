@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 member: The Dental Shop
 heading: Seasonal Offers
 ---
