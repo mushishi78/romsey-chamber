@@ -1,6 +1,5 @@
 ---
 published: true
-member: Seasonal Offers
 heading: The Dental Shop
 ---
 The Dental Shop
