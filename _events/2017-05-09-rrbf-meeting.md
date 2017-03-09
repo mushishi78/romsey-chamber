@@ -7,4 +7,4 @@ place: town-hall
 published: true
 email: info@romseychamber.co.uk
 ---
-
+Please inform if attending.
