@@ -2,7 +2,7 @@
 city: Romsey
 county: Hampshire
 country: UK
-published: false
+published: true
 heading: Koh Thai Tapas
 website: 'http://www.koh-thai.co.uk'
 address1: 80  The Hundred
