@@ -3,7 +3,7 @@ start-time: '10:00'
 end-time: '14:00'
 email: info@romseychamber.co.uk
 place: '-'
-published: false
+published: true
 heading: 'Small Business Saturday '
 date: '2017-02-12'
 organizer: Jonathan Birch
