@@ -2,7 +2,7 @@
 city: Romsey
 county: Hampshire
 country: UK
-published: false
+published: true
 website: 'http://www.aecprotection.co.uk/'
 heading: AEC Protection
 telephone: 01794 848 999
