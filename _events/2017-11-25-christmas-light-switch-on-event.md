@@ -1,8 +1,8 @@
 ---
 heading: Christmas Light Switch On Event
 date: '2017-11-25'
-start-time: '07:45'
-end-time: '08:45'
+start-time: '-'
+end-time: '-'
 place: '-'
 published: true
 email: info@romseychamber.co.uk
