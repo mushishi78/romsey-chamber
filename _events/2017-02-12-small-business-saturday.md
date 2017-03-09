@@ -5,7 +5,7 @@ email: info@romseychamber.co.uk
 place: '-'
 published: true
 heading: 'Small Business Saturday '
-date: '2017-02-12'
+date: '2017-12-02'
 organizer: Jonathan Birch
 website: 'https://smallbusinesssaturdayuk.com/'
 ---
