@@ -1,7 +1,9 @@
 ---
 heading: Romsey Abbey
-categories: [Leisure]
+categories:
+  - Leisure
 city: Romsey
 county: Hampshire
 country: UK
+published: false
 ---
