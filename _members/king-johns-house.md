@@ -8,6 +8,12 @@ email: annerhc@aol.com
 telephone: 01794 512200
 address1: 12 Church Street
 postcode: SO51 8DF
+categories:
+  - Leisure
+facebook: 'https://www.facebook.com/pg/KingJohnsHouse/about/?tab=page_info'
+instagram: 'https://www.instagram.com/kingjohnshouse/'
+pinterest: 'https://uk.pinterest.com/kingjohnshouse/'
+twitter: 'https://twitter.com/kingjohnshouse'
 ---
 King John's House, Romsey
 
