@@ -2,7 +2,7 @@
 city: Romsey
 county: Hampshire
 country: UK
-published: false
+published: true
 website: 'http://kingjohnshouse.org.uk/'
 email: annerhc@aol.com
 telephone: 01794 512200
