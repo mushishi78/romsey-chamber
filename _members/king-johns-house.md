@@ -9,6 +9,6 @@ telephone: 01794 512200
 address1: 12 Church Street
 postcode: SO51 8DF
 ---
-## A New Post
+King John's House, Romsey
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Located in one of Romsey's oldest thoroughfares, King John's House and Heritage Centre is an accredited museum that emcompasses three buildings that contain 750 years of history. As well as exciting exhibitions and a wonderful tearoom, we also hold monthly historical talks, art exhibitions, craft events, recreational role play events and school trips. Explore our website to find out more.
