@@ -1,28 +1,17 @@
 ---
 heading: Mallon Wealth Management
-categories: 
-  - Trades Services
-email: "Jamie.Mallon@sjpp.co.uk"
+email: Jamie.Mallon@sjpp.co.uk
 telephone: 01794 523700
-website: "http://www.mallonwm.co.uk/"
+website: 'http://www.mallonwm.co.uk'
 city: Romsey
 county: Hampshire
 country: UK
 published: true
-logo: ""
-address1: ""
-address2: ""
-postcode: ""
-"opening-hours": 
-  - "null"
-facebook: ""
-twitter: ""
-linkedin: ""
-"google-plus": ""
-instagram: ""
-youtube: ""
-ebay: ""
-pinterest: ""
+categories:
+  - Financial Planning
+address1: 1st Floor
+address2: 30 Bell Streef
+postcode: SO51 8GW
 ---
 
 
