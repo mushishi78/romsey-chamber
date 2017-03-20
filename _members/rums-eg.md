@@ -1,10 +1,15 @@
 ---
 heading: Rum's Eg
-categories: [Not for Profit]
-website: 'http://www.rumseg.co.uk/'
+categories:
+  - Not for Profit
+website: 'hhttp://www.hampshireartandcraft.org/'
 city: Romsey
 county: Hampshire
 country: UK
+published: true
+telephone: 01794 511220
+postcode: SO51 8GY
+address1: 27 Bell Street
 ---
 AN EXCITING NEW ART INITIATIVE FOR HAMPSHIRE
 
