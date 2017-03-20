@@ -1,7 +1,7 @@
 ---
 heading: Spitfire Marketing
-categories: [Business Services]
-email: 'http://www.spitfiremarketing.co.uk/'
+categories:
+  - Business Services
 telephone: 01489 854716
 address1: Hangar 2C Universal Marina
 address2: Crableck Lane
@@ -9,6 +9,9 @@ city: Southampton
 county: Hampshire
 country: UK
 postcode: SO31 7ZN
+published: true
+website: 'http://www.spitfiremarketing.co.uk/'
+email: info@spitfiremarketing.co.uk
 ---
 **Spitfire Marketing are a highly experienced marketing agency working with a broad range of clients from SME's to some of the UK's industry leaders.**
 
