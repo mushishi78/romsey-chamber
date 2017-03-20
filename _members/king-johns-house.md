@@ -14,6 +14,7 @@ facebook: 'https://www.facebook.com/pg/KingJohnsHouse/about/?tab=page_info'
 instagram: 'https://www.instagram.com/kingjohnshouse/'
 pinterest: 'https://uk.pinterest.com/kingjohnshouse/'
 twitter: 'https://twitter.com/kingjohnshouse'
+heading: King Johns House
 ---
 King John's House, Romsey
 
