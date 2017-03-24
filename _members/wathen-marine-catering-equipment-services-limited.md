@@ -2,7 +2,7 @@
 heading: Wathen Marine Catering Equipment Services Ltd
 email: ' ieuan@wmcesltd.co.uk'
 website: 'http://www.wmcesltd.co.uk/'
-address1: 'Unit 16 Basepoint Romsey,'
+address1: 'Unit 47-48 Basepoint Romsey,'
 city: Romsey
 county: Hampshire
 country: UK
