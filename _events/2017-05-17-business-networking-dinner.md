@@ -3,11 +3,11 @@ start-time: '-'
 end-time: '-'
 email: info@romseychamber.co.uk
 place: '-'
-published: false
+published: true
 heading: Romsey's Second Business Networking Dinner
 date: '20170517'
 ---
-Romsey's Second Business Netwroking Dinner
+Romsey's Second Business Networking Dinner
 
 Following the success of our last Business Networking Dinner, we are pleased to announce Romsey's second Business Networking event to be held on Wednesday 17th May 2017.
 
