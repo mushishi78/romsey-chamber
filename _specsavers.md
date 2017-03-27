@@ -2,7 +2,7 @@
 city: Romsey
 county: Hampshire
 country: UK
-published: false
+published: true
 telephone: 01794 511902
 website: specsavers.co.uk
 address1: 22 Market Place
