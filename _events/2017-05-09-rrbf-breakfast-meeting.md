@@ -3,7 +3,7 @@ start-time: '07:45'
 end-time: '08:45'
 email: info@romseychamber.co.uk
 place: town-hall
-published: false
+published: true
 heading: RRBF Breakfast Meeing
 date: '2017-05-09'
 ---
