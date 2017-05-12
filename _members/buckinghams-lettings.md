@@ -10,7 +10,7 @@ website: www.blettings.co.uk
 address1: Unit 5
 address2: 'Tanners Court, Tanners Lane'
 postcode: SO51 6DP
-twitter: 'https://mobile.twitter.com/b_lettings'
+twitter: '@b_lettings'
 facebook: 'https://m.facebook.com/buckinghamslettings/?locale2=en_GB'
 categories:
   - Letting Agent
