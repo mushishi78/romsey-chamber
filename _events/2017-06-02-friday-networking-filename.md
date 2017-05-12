@@ -6,6 +6,11 @@ place: '-'
 published: true
 heading: Friday Networking
 date: '2017-06-02'
+address1: The Tipsy Pig
+address2: 45 Latimer Street
+city: Romsey
+county: Hampshire
+postcode: SO51 8DF
 ---
 Launch of the new Friday Networking 
 
