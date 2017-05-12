@@ -1,5 +1,6 @@
 ---
 published: true
+heading: Welcome Buckinghams Lettings
 ---
 Welcome to our newest memeber of the chamber - Buckinghams Lettings
 
