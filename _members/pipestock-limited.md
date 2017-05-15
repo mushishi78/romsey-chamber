@@ -2,7 +2,7 @@
 city: Romsey
 county: Hampshire
 country: UK
-published: false
+published: true
 telephone: 0845 634 1053
 categories:
   - Industrial Trade Supplier
