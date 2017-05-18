@@ -9,7 +9,7 @@ city: Romsey
 county: Hampshire
 country: UK
 postcode: SO51 8NA
-published: false
+published: true
 ---
 We are a family owned and run independent opticians who take pride in the  quality of service and products that we provide.
 
