@@ -3,7 +3,7 @@ start-time: '18:30'
 end-time: '21:30'
 email: info@romseychamber.co.uk
 place: the-whitehorse
-published: false
+published: true
 heading: Business Networking Dinner
 date: '2017-11-15'
 end-date: '2017-11-15'
