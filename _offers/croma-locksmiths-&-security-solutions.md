@@ -1,10 +1,12 @@
 ---
 published: true
-member: croma locksmiths and security solutions limited
+member: croma-locksmiths-&-security-solutions.md
 ---
-**Croma Locksmiths & Security Solutions Ltd**
+**Free Security Check**
 
-Free Security Survey 
+Croma Locksmiths & Security Solutions Ltd
+
+
 
 Samantha Cleal, Client Relationship Manager of Croma Locksmiths & Security Solutions Ltd, is pleased to offer members  a free Security Survey. This is to include both residential and commercial  properties. 
 
