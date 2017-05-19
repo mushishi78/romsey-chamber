@@ -1,7 +1,7 @@
 ---
 heading: Business Networking Dinner
 date: '2017-11-15'
-published: false
+published: true
 ---
 Romsey Chamber of Commerce invites local businesses from Test Valley & Hampshire to our first networking dinner at the town’s newest prestige venue, the recently opened Stables at The White Horse Hotel.
 
