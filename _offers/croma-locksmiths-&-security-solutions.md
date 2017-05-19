@@ -1,7 +1,6 @@
 ---
 published: true
-heading: Croma Locksmiths & Security Solutions Limited
-member: Croma Locksmiths & Security Solutions Limited
+member: croma locksmiths and security solutions limited
 ---
 **Croma Locksmiths & Security Solutions Ltd**
 
