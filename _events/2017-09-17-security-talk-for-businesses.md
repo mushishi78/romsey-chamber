@@ -3,7 +3,7 @@ start-time: '18:00'
 end-time: '20:30'
 email: info@romseychamber.co.uk
 place: town-hall
-published: false
+published: true
 heading: Security Talk for Businesses
 date: '2017-09-17'
 organizer: Samantha Cleal
@@ -26,6 +26,6 @@ Also attending will be the Cybercrime unit from Hampshire Police, Croma security
 
 After the talks and any questions we can lead into a networking session as it is an ideal opportunity to mingle.
 
-To reserve your tickets please click copy the following link:[Eventbrite Ticket Reservation](https://www.eventbrite.co.uk/e/romsey-chamber-of-commerce-romsey-town-hall-security-talk-wednesday-13th-september-2017-tickets-34744206858 "Eventbrite Ticket Reservation")
+To reserve your tickets please click copy the following link: [Eventbrite Ticket Reservation](https://www.eventbrite.co.uk/e/romsey-chamber-of-commerce-romsey-town-hall-security-talk-wednesday-13th-september-2017-tickets-34744206858 "Eventbrite Ticket Reservation")
 
 We look forward to seeing you there!
