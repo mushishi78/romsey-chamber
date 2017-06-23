@@ -2,7 +2,7 @@
 city: Romsey
 county: Hampshire
 country: UK
-published: false
+published: true
 heading: Giant Pea
 categories:
   - Business Services
@@ -18,5 +18,3 @@ twitter: '@GiantPea'
 Giant Pea is a small creative design and digital studio located in the heart of Romsey.
 
 Our creative design services include brand identity, design for print, websites and digital design.
-
-
