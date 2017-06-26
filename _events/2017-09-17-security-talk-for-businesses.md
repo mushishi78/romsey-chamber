@@ -5,7 +5,7 @@ email: info@romseychamber.co.uk
 place: town-hall
 published: true
 heading: Security Talk for Businesses
-date: '2017-09-17'
+date: '2017-09-13'
 organizer: Samantha Cleal
 website: >-
   https://www.eventbrite.co.uk/e/romsey-chamber-of-commerce-romsey-town-hall-security-talk-wednesday-13th-september-2017-tickets-34744206858
