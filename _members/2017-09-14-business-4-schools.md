@@ -2,7 +2,7 @@
 city: Havant
 county: Hampshire
 country: UK
-published: false
+published: true
 email: hello@business4schools.co.uk
 heading: Business 4 Schools
 website: 'http://www.business4schools.co.uk/'
@@ -29,4 +29,3 @@ Captive audience
 Businesses have quickly seen the value of advertising within these products, reaching out to a huge audience of parents and school stakeholders.  Theirs is a captive audience, straddling a wide demographic, who want to read what is happening in their local school.
 
 So let us open the door for your business to sit at the heart of the community and to partner with your school.  There are plenty of inexpensive opportunities to support the school and further promote your business.
-
