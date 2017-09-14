@@ -13,6 +13,6 @@ address1: ' 57 Winchester Road'
 postcode: SO51 8JB
 heading: SO51 Fitness & Wellbeing
 ---
-## SO51 Fitness and Wellbeing
+## SO51 Fitness & Wellbeing
 
 SO51 is a local community solution to all things fitness & wellbeing related. From general fitness classes, corporate fitness and wellbeing packages, pre & post natal exercise, children's fitness and various massage - including Swedish and pregnancy-specific, there is something for everyone.
