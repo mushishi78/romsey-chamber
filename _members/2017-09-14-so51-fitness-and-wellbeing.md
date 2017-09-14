@@ -14,4 +14,4 @@ postcode: SO51 8JB
 ---
 ## SO51 Fitness and Wellbeing
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+SO51 is a local community solution to all things fitness & wellbeing related. From general fitness classes, corporate fitness and wellbeing packages, pre & post natal exercise, children's fitness and various massage - including Swedish and pregnancy-specific, there is something for everyone.
