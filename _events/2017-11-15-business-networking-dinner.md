@@ -6,7 +6,6 @@ place: the-whitehorse
 published: true
 heading: Business Networking Dinner
 date: '2017-11-15'
-end-date: '2017-11-15'
 website: >-
   https://www.eventbrite.co.uk/o/romsey-chamber-of-commerce-and-industry-10636314646
 address1: Market Place
