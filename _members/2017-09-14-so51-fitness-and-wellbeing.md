@@ -2,7 +2,7 @@
 city: Winchester
 county: Hampshire
 country: UK
-published: false
+published: true
 email: info@so51fitness.co.uk
 telephone: 07815 687425
 website: 'http://www.so51fitness.co.uk/'
@@ -11,6 +11,7 @@ twitter: 'https://twitter.com/SO51Fitness'
 facebook: 'https://www.facebook.com/SO51Fitness'
 address1: ' 57 Winchester Road'
 postcode: SO51 8JB
+heading: SO51 Fitness & Wellbeing
 ---
 ## SO51 Fitness and Wellbeing
 
