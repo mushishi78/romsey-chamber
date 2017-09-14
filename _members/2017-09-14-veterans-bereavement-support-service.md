@@ -3,7 +3,7 @@ city: Romsey
 county: Hampshire
 country: UK
 published: true
-heading: Veterans Bereavement Support
+heading: Veterans Bereavement Support Service
 email: info@veteransbereavementsupport.co.uk
 telephone: 01794 874149
 website: 'http://www.veteransfunerals.co.uk/'
