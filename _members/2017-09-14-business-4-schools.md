@@ -10,7 +10,7 @@ address1: Langstone Technology Park
 postcode: 'PO9 1SA '
 telephone: 02392 445227
 categories:
-  - Educational Services
+  - Academic
 ---
 ## Business 4 Schools
 
