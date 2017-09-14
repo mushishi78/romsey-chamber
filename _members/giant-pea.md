@@ -9,9 +9,10 @@ categories:
 email: hello@giantpea.com
 telephone: 01794 830 556
 website: www.giantpea.com
-address1: 4 Latimer Street
-postcode: SO51 8DG
+address1: 18  Market Place
+postcode: SO51 8NA
 twitter: '@GiantPea'
+address2: 'First Floor, Suite 4'
 ---
 ## Giant Pea
 
