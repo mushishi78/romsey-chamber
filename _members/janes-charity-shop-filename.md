@@ -14,4 +14,4 @@ postcode: SO51 8DF
 ---
 ## Jane's Charity Shop
 
-Jane Scarth House is a local charity opened in 1995, founded in memory of Romsey resident and mother of two, Jane Scarth, whose family to this day remain closely involved with the work of the charity.p.
+Jane Scarth House is a local charity opened in 1995, founded in memory of Romsey resident and mother of two, Jane Scarth, whose family to this day remain closely involved with the work of the charity.
