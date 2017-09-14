@@ -2,7 +2,7 @@
 city: Romsey
 county: Hampshire
 country: UK
-published: false
+published: true
 email: phil.newton@ibdpglobal.com
 website: 'https://www.ibdpglobal.com/'
 heading: International Business Development Partner
