@@ -9,16 +9,12 @@ telephone: 077 1717 1916
 categories:
   - Business Services
 email: info@elfinhsw.co.uk
-address1: Unit 10
-address2: 'Solent Industrial Estate,  Shamblehurst Lane'
+address1: Unit 10 Solent Industrial Estate
+address2: Shamblehurst Lane
 postcode: SO30 2FX
 facebook: 'https://www.facebook.com/elfinhswltd'
 linkedin: 'https://www.linkedin.com/company/3076973'
 ---
-![Elfin-Health-and-Safety-and-Wellbeing-Blank-Header-Image-4-1.png]({{site.baseurl}}/_members/Elfin-Health-and-Safety-and-Wellbeing-Blank-Header-Image-4-1.png)
-
-
-
 Professional Health & Safety Advice and Training
 Health and safety is essential for any business in keeping up-to-date with the latest legislation and protecting the well-being of employees, customers and visitors.
 
@@ -40,4 +36,5 @@ Undertaking  Fire Risk Assessments
 Health and safety employee training
 PAT Testing
 Provision of Personal Protective Equipment (PPE)
+
 We are happy to come to your workplace across Hampshire, Dorset, Berkshire and Wiltshire.
