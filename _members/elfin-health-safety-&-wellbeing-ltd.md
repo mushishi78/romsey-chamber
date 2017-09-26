@@ -27,7 +27,8 @@ Find out more about our Health and Safety Training.
 Helping you maintain your workplace health and safety with:
 
 Health & safety advice and support
-Fire safety advice
+Fire safety advice![Elfin-Health-and-Safety-and-Wellbeing-Blank-Header-Image-4-1.png]({{site.baseurl}}/_members/Elfin-Health-and-Safety-and-Wellbeing-Blank-Header-Image-4-1.png)
+
 Monthly inspections
 Health and safety audits
 Writing of policies and procedures
