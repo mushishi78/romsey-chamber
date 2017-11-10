@@ -2,7 +2,7 @@
 heading: Cinnamon Care Limited
 categories:
   - Healthcare
-email: debbie.holmes@cinnamoncc.com
+email: abbotswood.haa@cinnamoncc.com
 telephone: 01794- 528700
 website: 'http://cinnamoncc.com/luxury-care-homes/abbotswood-court'
 address1: Abbotswood Court
@@ -25,7 +25,7 @@ Abbotswood Court, our newly purpose-built Care Home that has been carefully desi
 
 Set on the edge of the historic market town of Romsey, within the new Abbotswood development of new homes and nestling within a conservation area, Abbotswood Court sits within its own grounds and landscaped garden. Each floor within the Home has been designed to be spacious, light and airy with its own identity. 
 
-The quality of the design, build and finish is second to none and allows us, Hartford Care, to deliver our unique concept of care to every resident.  Abbotswood Court is designed to provide a warm and comfortable welcome along with meeting the continuing individual needs of older people.  Abbotswood Court is able to provide specialist residential and dementia care – including permanent care, respite and day care services – delivered by a team of caring, qualified and experienced staff.
+The quality of the design, build and finish is second to none and allows us to deliver our unique concept of care to every resident.  Abbotswood Court is designed to provide a warm and comfortable welcome along with meeting the continuing individual needs of older people.  Abbotswood Court is able to provide specialist residential and dementia care – including permanent care, respite and day care services – delivered by a team of caring, qualified and experienced staff.
 
 The 60 individual bedrooms, with en-suite wet rooms, are light, spacious and comfortable and many rooms will benefit from lots of natural light due to the large windows.  There are also bedrooms and communal areas on the ground floor with patio doors directly leading out to the secure gardens.   
 
