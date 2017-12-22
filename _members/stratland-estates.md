@@ -4,7 +4,14 @@ county: Hampshire
 country: UK
 published: false
 heading: Stratland Estates
+categories:
+  - Business Services
+telephone: 01794 223 114
+website: www.stratlandestates.co.uk
+address1: The Farm Office
+address2: Cupernham Lane
+postcode: SO51 7LE
 ---
-## A New Post
+Welcome to Stratland Estates.
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+We work closely with local communities to ensure that the best possible solutions are achieved to meet the local housing needs while taking into consideration the natural surrounding environment.
