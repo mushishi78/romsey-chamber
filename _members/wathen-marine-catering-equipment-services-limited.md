@@ -1,14 +1,14 @@
 ---
 heading: Wathen Marine Catering Equipment Services Ltd
-email: ' ieuan@wmcesltd.co.uk'
-website: 'http://www.wmcesltd.co.uk/'
-address1: 'Unit 47-48 Basepoint Romsey,'
+email: wmcesltd@gmail.com
+website: www.wathenmarine.com
+address1: Unit B4 The Premier Centre
 city: Romsey
 county: Hampshire
 country: UK
-postcode: SO51 9AQ
+postcode: SO51 9DG
 published: true
-address2: 'Premier Way, Abbey Park Industrial Estate,'
+address2: Abbey Park Industrial Estate
 facebook: >-
   https://www.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fv2.3%2Fdialog%2Fshare%3Fredirect_uri%3Dhttps%253A%252F%252Fwww.facebook.com%252Fdialog%252Freturn%252Fclose%26display%3Dpopup%26href%3Dhttp%253A%252F%252Fwww.wmcesltd.co.uk%252Fabout%252F%26client_id%3D966242223397117%26ret%3Dlogin&cancel_url=https%3A%2F%2Fwww.facebook.com%2Fdialog%2Freturn%2Fclose%3F%23_%3D_&display=popup&locale=en_GB
 linkedin: >-
@@ -16,6 +16,7 @@ linkedin: >-
 twitter: >-
   https://twitter.com/intent/tweet?text=About%20&url=http%3A%2F%2Fwww.wmcesltd.co.uk%2Fabout%2F&original_referer=http%3A%2F%2Fwww.wmcesltd.co.uk%2Fabout%2F
 google-plus: 'https://plus.google.com/share?url=http://www.wmcesltd.co.uk/about/'
+telephone: 01794 515731
 ---
 
 I have been involved in the Marine Catering equipment industry for 10 years with Kempsafe Limited. I have worked with the Royal Navy on various projects from design of Galleys, installation and technical support for the operational vessels.
