@@ -2,7 +2,7 @@
 city: Romsey
 county: Hampshire
 country: UK
-published: false
+published: true
 heading: Arena Mediation
 telephone: 01794 524395
 website: 'http://www.arenamediation.co.uk/'
