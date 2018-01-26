@@ -2,12 +2,12 @@
 city: Romsey
 county: Hampshire
 country: UK
-published: false
+published: true
 heading: Arena Mediation
 telephone: 01794 524395
 address1: 7 Love Lane
 postcode: SO51 8DE
-website: 'http://www.arenamediation.co.uk/'
+website: 'http://www.arenamediation.co.uk'
 ---
 Welcome to Arena Mediation - Mediation at its best
 Arena Mediation offers a confidential mediation service to divorcing and separating parties. We facilitate options and solutions for our clients to make their own decisions about financial settlements and child arrangements.
